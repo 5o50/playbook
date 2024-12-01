@@ -1,0 +1,5 @@
+- Unix System Administration Handbook (2nd Edition), by Evi Nemeth et al. ISBN 0-13-151051-7
+- Practical Unix and Internet Security, Garfinkel and Spafford (O'Reilly)
+- Essential System Administration, Aileen Frisch
+- Essential Windows NT System Administration, Aileen Frisch
+- The Design and Implementation of the 4.4 BSD Operating System. ISBN 0-201-54979-4

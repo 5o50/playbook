@@ -1,0 +1,1 @@
+jai besoin d'ecrire un prompt qui va etre associe a une etude de marché quelquonque en pdf. Le resultat dont jai besoin c'est si l'etude de marché contient une opportunité a saisir ou pas et les detils de cette opportunite ou les details de pourquoi il nya rien d'interesant. ecris moi ce prompt

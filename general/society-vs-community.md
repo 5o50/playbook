@@ -1,0 +1,8 @@
+SOCIETY & COMMUNITY DIFFERENCE
+===
+
+The difference between a society and a community comes down to two main characteristics: size and interaction. A community and a society can be any size that you want. There isn't a "minimum" number of people needed for either (as long as you don't take extremes like 2-3 people). What is generally understood as a key size difference is that a community is smaller than a society.
+
+The size factor is of secondary importance, if you ask me. The level of interaction is more important. A society could be huge, and span hundreds or thousands of miles. The population of the United States could be considered a society -- the American society. Within that society though are many, many smaller communities. The key factor with a community is that the people within it must have some level of interaction with each other.
+
+Let's use a city as an example. I live in San Diego. San Diegans are all part of the San Diego city and SoCal culture. If you live here, you know what I mean. That is my society. Within that society, I teach at a small school. That would be a community, because there is a high level of interaction between me, my co-workers, and my students. I am not part of the accounting firm across the city. That's a different community of people. I am a member of my neighborhood community, but I am not a member of my brother's neighborhood community. But I do belong to the American society that my brother is also a part of.

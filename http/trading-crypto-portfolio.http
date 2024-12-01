@@ -1,0 +1,12 @@
+@BASE_URL = https://pro-api.coinmarketcap.com
+@API_KEY = 5fc6dc09-0964-4c00-805a-99cfae612228
+
+### A16Z Portfolio
+GET {{BASE_URL}}/v1/cryptocurrency/categories
+Accept: application/json
+X-CMC_PRO_API_KEY: {{API_KEY}}
+
+### Icetea Labs Portfolio
+GET {{BASE_URL}}/v1/cryptocurrency/category?id=605e2ce9d41eae1066535f7c
+Accept: application/json
+X-CMC_PRO_API_KEY: {{API_KEY}}

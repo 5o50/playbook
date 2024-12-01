@@ -1,0 +1,33 @@
+- Dune - at least the first book
+- Lord of the Flies
+- A Clockwork Orange
+- Do Androids Dream of Electric Sheep (aka Blade Runner)
+- Naked Lunch -- (William, not Edgar) Burroughs
+- Temporary Autonomous Zone - Hakim Bey
+- Howl - Ginsberg
+- My Side of the Mountain - (A kid's book about living alone in the wilderness)
+- Anything Tolkien (at least The Hobbit or Ring series)
+- Bulfinch's Mythology
+- 2001 - Clarke
+- Anything Gibson
+- Anything Shakespeare (Richard III comes to mind)
+- Anything Orwell (At least Animal Farm and 1984)
+- The Hunt for Red October - Clancy
+- Robert A. Heinlein - Stranger in A Strange Land -- Get the more-recently issued uncut version.
+- Robert Anton Wilson -- Cosmic Trigger: The Final Secret of the Illuminati
+- Ken Kesey -- Catch-22
+- Orson Scott Card - Ender's Game -- The sequel, "Speaker for the Dead" completes the story.
+    - The sequel, "Speaker for the Dead" completes the story -- Correction - the sequel trilogy completes the story:
+        - Speaker for the Dead
+        - Xenocide
+        - Children of the Mind
+    - ...not to mention Ender's Shadow, the soon-to-be-released "parallel" book to Ender's Game, told from the POV of Bean. First couple of chapters are at www.hatrackriver.com somewhere.
+- W. S. Burroughs: Cities of the Red Night
+- Joseph Conrad, "Heart of Darkness" and "Lord Jim", to be read when the student feels he understands good English. Conrad, a Pole by birth, learnt English as an adult.
+- Thomas Pynchon - The Crying of Lot 49 (a gentler introduction to Pynchon than Gravity's Rainbow)
+- James Joyce - Ulysses, Portrait of the Artist as a Young Man
+- Mark Twain - The Bible According to Mark Twain
+- Robert Anton Wilson - Schrodinger's Cat Trilogy, Masks of the Illuminati
+- Aleister Crowley - The Book of the Law, The Book of Lies
+- Hunter S. Thompson - Fear and Loathing in Las Vegas
+- Ken Kesey - Sometimes a Great Notion, One Flew Over the Cuckoo's Nest

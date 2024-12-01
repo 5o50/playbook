@@ -1,0 +1,5 @@
+- W. Richard Stevens (Vols 1-3 of TCP/IP Illustrated)
+- Unix Network Programming, by W. Richard Stevens. ISBN 0-13-490012-X
+- Michael Padlipsky's "Elements of Networking Style", beyond doubt the funniest technical book ever written. A really vicious critique of the misguided ISO networking standards attempt, written when the "OSI model" was trendy & lots of people were babbling about the sacred seven layers. Several chapters are available as RFCs, 871 to 875.
+- Fiber Optic Communications ISBN 0133141888 (maybe in the third or even 5th edition)
+- Stallings - High Speed Networks

@@ -1,0 +1,1 @@
+a friend is someone that listen to you bullshit, tell you that is bullshit. and listen more.

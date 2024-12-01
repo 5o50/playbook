@@ -1,0 +1,5 @@
+To form an intention to do something (generally on a longer time scale), be able to say it out loud to someone else, and then be certain it will happen one way or another, barring extreme circumstance.
+
+Ex1: I commit myself via marriage to another person and promise that I will try everything to make the relationship work before giving up on it. I say it out loud as a vow to the other person in a marriage ceremony, in front of a bunch of people. Then I proceed to actually attempt to get as close to 100% chance of creating a permanent relationship situation with this person, using all the tools at my disposal.
+
+Ex2: I tell someone that I will be there for them in times of emergency or distress, if they ask. I tell them I will make it a priority to me, over whatever else is going on in my life. A year or two later (possibly with very little contact with this person otherwise), they call me and ask for my help. I put everything aside and create a plan to make my way to them and provide my assistance.

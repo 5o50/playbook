@@ -1,0 +1,1 @@
+https://dkb.blog/p/google-search-is-dying

@@ -1,0 +1,493 @@
+2023-10-02 * Amazon Web Services EMEA SARL
+    ; Document: 2023-10-02-AWS-invoice.pdf
+    ; Description: Cloud Services - September 2023
+    ; Method: Card **6158
+    ; NetAmount: USD 7.02
+    ; VATRate: 20%
+    ; VATAmount: USD 1.39
+    ; GrossAmount: USD 8.41
+    ; ExchangeRate(ECB):  EUR/USD 1.0530
+    ; ExchangeRate(Bank): EUR/USD 1.0486
+    ; ExchangeRate(Diff): EUR/USD -0.0044
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -8,02 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,33 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     6,66 EUR
+    Charges:Financières:PertesDeChange                                                      0,03 EUR
+
+2023-10-18 * Houdart AC
+    ; Document: 2023-[05...08]-houdart-ac-invoice.pdf
+    ; Description: Réglement des honoraires comptables de l'exercice précédent - mai,juin,juillet,aout -le mois de septembre a été offert cf email christophe de rouveray
+    ; Method: Virement
+    ; NetAmount: EUR 420,00
+    ; VATRate: 20%
+    ; VATAmount: EUR 84,00
+    ; GrossAmount: EUR 504,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                 -504,00 EUR
+    Tiers:Fournisseurs                                                                      504,00 EUR
+
+2023-10-20 * Namecheap
+    ; Document: 2023-10-20-namecheap-receipt.pdf
+    ; Description: Domain registration social2030.com
+    ; Method: Card **6158
+    ; NetAmount: USD 10.46
+    ; ExchangeRate(ECB):  EUR/USD 1.0591
+    ; ExchangeRate(Bank): EUR/USD 1.0523
+    ; ExchangeRate(Diff): EUR/USD -0.0068
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,94 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,98 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,98 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              9,88 EUR
+    Charges:Financières:PertesDeChange                                                                  0,06 EUR
+
+
+2023-10-26 * Twilio
+    ; Document: 2023-10-26-Twilio-PROD-receipt.pdf
+    ; Description: TopUp Payment for Twilio services
+    ; Method: Card **6158
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB):  EUR/USD 1.0540
+    ; ExchangeRate(Bank): EUR/USD 1.0565
+    ; ExchangeRate(Diff): EUR/USD +0.0025
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,93 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,80 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,98 EUR
+    Produits:Financiers:GainsDeChange                                                                   -0,05 EUR
+
+2023-11-02 * Amazon Web Services EMEA SARL
+    ; Document: 2023-11-02-AWS-invoice.pdf
+    ; Description: Cloud Services - October 2023
+    ; Method: Card **6158
+    ; NetAmount: USD 8.61
+    ; VATRate: 20%
+    ; VATAmount: USD 1.72
+    ; GrossAmount: USD 10.34
+    ; ExchangeRate(ECB):  EUR/USD 1.0661
+    ; ExchangeRate(Bank): EUR/USD 1.0519
+    ; ExchangeRate(Diff): EUR/USD -0.0142
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -9,83 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,62 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     8,08 EUR
+    Charges:Financières:PertesDeChange                                                      0,13 EUR
+
+2023-11-14 * Twilio
+    ; Document: 2023-11-14-Twilio-TEST-receipt.pdf
+    ; Description: TopUp Payment for Twilio services
+    ; Method: Card **6158
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.0724
+    ; ExchangeRate(Bank): EUR/USD 1.0661
+    ; ExchangeRate(Diff): EUR/USD -0.0063
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,76 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,11 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,11 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,65 EUR
+    Charges:Financières:PertesDeChange                                                                   0,11 EUR
+
+2023-12-03 * Amazon Web Services EMEA SARL
+    ; Document: 2023-12-03-AWS-invoice.pdf
+    ; Description: Cloud Services - November 2023
+    ; Method: Card **6158
+    ; NetAmount: USD 4.31
+    ; VATRate: 20%
+    ; VATAmount: USD 0.85
+    ; GrossAmount: USD 5.17 
+    ; ExchangeRate(ECB): EUR/USD 1.0875
+    ; ExchangeRate(Bank): EUR/USD 1.0816
+    ; ExchangeRate(Diff): EUR/USD -0.0059
+    Financiers:Banques:ComptesEnEuros:Qonto                                                 -4,78 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire            0,79 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS      3,96 EUR
+    Charges:Financières:PertesDeChange                                                       0,03 EUR
+
+2023-12-21 * Proton AG
+    ; Document: 2023-12-21-Proton Mail invoice 20386305.pdf
+    ; Description: Plan Mail essentials
+    ; Method: Card **6158
+    ; NetAmount: EUR 74,99
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Proton                 74,99 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -74,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -15,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    15,00 EUR
+
+2024-01-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-01-02-AWS-invoice.pdf
+    ; Description: Cloud Services - December 2023
+    ; Method: Card **6158
+    ; NetAmount: USD 0.88
+    ; VATRate: 20%
+    ; VATAmount: USD 0.17
+    ; GrossAmount: USD 1.07
+    ; ExchangeRate(ECB): EUR/USD 1.0956
+    ; ExchangeRate(Bank): EUR/USD 1.0918
+    ; ExchangeRate(Diff): EUR/USD -0.0038
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -0,98 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,16 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,81 EUR
+    Charges:Financières:PertesDeChange                                                      0,01 EUR
+
+2024-01-18 * Namecheap
+    ; Document: 2024-01-18-namecheap-receipt-135682998.pdf
+    ; Description: Renew 555.team
+    ; Method: Card **6158
+    ; NetAmount: USD 42.90
+    ; ExchangeRate(ECB): EUR/USD 1.0875
+    ; ExchangeRate(Bank): EUR/USD 1.0844
+    ; ExchangeRate(Diff): EUR/USD -0.0031
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -39,56 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -6,57 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    6,57 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              39,45 EUR
+    Charges:Financières:PertesDeChange                                                                  0,11 EUR
+
+2024-01-18 * Twilio
+    ; Document: 2024-01-18-Twilio-PROD-receipt.pdf
+    ; Description: TopUp Payment for Twilio services
+    ; Method: Card **6158
+    ; NetAmount: USD 30.00
+    ; ExchangeRate(ECB): EUR/USD 1.0875
+    ; ExchangeRate(Bank): EUR/USD 1.0842
+    ; ExchangeRate(Diff): EUR/USD -0.0033
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -27,67 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 27,59 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                    -4,60 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire   4,60 EUR
+    Charges:Financières:PertesDeChange                                                                  0,08 EUR
+
+2024-01-18 * Twilio
+    ; Document: 2024-01-18-Twilio-PROD-receipt.pdf
+    ; Description: TopUp Payment for Twilio services
+    ; Method: Card **6158
+    ; NetAmount: USD 25.00
+    ; ExchangeRate(ECB): EUR/USD 1.0875
+    ; ExchangeRate(Bank): EUR/USD 1.0841
+    ; ExchangeRate(Diff): EUR/USD -0.0034
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -23,06 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 22,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,83 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,83 EUR
+    Charges:Financières:PertesDeChange                                                                  0,07 EUR
+
+
+2024-01-18 * Twilio
+    ; Document: 2024-01-18-Twilio-PROD-receipt.pdf
+    ; Description: TopUp Payment for Twilio services
+    ; Method: Card **6158
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.0875
+    ; ExchangeRate(Bank): EUR/USD 1.0840
+    ; ExchangeRate(Diff): EUR/USD -0.0035
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,45 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,39 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,07 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,07 EUR
+    Charges:Financières:PertesDeChange                                                                  0,06 EUR
+
+2024-02-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-02-02-AWS-invoice.pdf
+    ; Description: Cloud Services - January 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 0.99
+    ; VATRate: 20%
+    ; VATAmount: USD 0.19
+    ; GrossAmount: USD 1.18
+    ; ExchangeRate(ECB): EUR/USD 1.0883
+    ; ExchangeRate(Bank): EUR/USD 1.0826
+    ; ExchangeRate(Diff): EUR/USD -0.0057
+    Financiers:Banques:ComptesEnEuros:Qonto                                                 -1,09 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,90 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,18 EUR
+    Charges:Financières:PertesDeChange                                                      0,01 EUR
+
+2024-02-19 * Twilio
+    ; Document: 2024-02-19-Twilio-DEV-receipt.pdf
+    ; Description: TopUp Payment for Twilio services
+    ; Method: Card **6158
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.0776
+    ; ExchangeRate(Bank): EUR/USD 1.0730
+    ; ExchangeRate(Diff): EUR/USD -0.0046
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,64 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,56 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,09 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,09 EUR
+    Charges:Financières:PertesDeChange                                                                  0,08 EUR
+
+2024-02-28 * Gumroad
+    ; Document: 2024-02-28-gumroad-invoice.pdf
+    ; Description: Gumroad sound kit
+    ; Method: Card **6158
+    ; NetAmount: USD 69.00
+    ; ExchangeRate(ECB): EUR/USD 1.0808
+    ; ExchangeRate(Bank): EUR/USD 1.0795
+    ; ExchangeRate(Diff): EUR/USD -0.0013
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -63,92 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Gumroad                 63,84 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -10,64 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    10,64 EUR
+    Charges:Financières:PertesDeChange                                                                  0,08 EUR
+
+2024-03-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-03-02-AWS-invoice.pdf
+    ; Description: Cloud Services - Febuary 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 1.11
+    ; VATRate: 20%
+    ; VATAmount: USD 0.22
+    ; GrossAmount: USD 1.34
+    ; ExchangeRate(ECB): EUR/USD 1.0813
+    ; ExchangeRate(Bank): EUR/USD 1.0806
+    ; ExchangeRate(Diff): EUR/USD -0.0007
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -1,24 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,03 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,21 EUR
+
+2024-03-30 * Namecheap
+    ; Document: 2024-03-30-namecheap-receipt-140673629.pdf
+    ; Description: Renew baltaci.fr
+    ; Method: Card **6158
+    ; NetAmount: USD 19.98
+    ; ExchangeRate(ECB): EUR/USD 1.0811
+    ; ExchangeRate(Bank): EUR/USD 1.0765
+    ; ExchangeRate(Diff): EUR/USD -0.0046
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,56 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,08 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,08 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              18,48 EUR
+    Charges:Financières:PertesDeChange                                                                  0,08 EUR
+
+2024-04-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-03-02-AWS-invoice.pdf
+    ; Description: Cloud Services - March 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 0.87
+    ; VATRate: 20%
+    ; VATAmount: USD 0.18
+    ; GrossAmount: USD 1.06
+    ; ExchangeRate(ECB): EUR/USD 1.0749
+    ; ExchangeRate(Bank): EUR/USD 1.0707
+    ; ExchangeRate(Diff): EUR/USD -0.0042
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -0,99 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,82 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,16 EUR
+    Charges:Financières:PertesDeChange                                                      0,01 EUR
+
+2024-04-23 * Namecheap
+    ; Document: 2024-04-23-namecheap-receipt-142355228.pdf
+    ; Description: Renew 555.team ox-starter
+    ; Method: Card **6158
+    ; NetAmount: USD 14.88
+    ; ExchangeRate(ECB): EUR/USD 1.0674
+    ; ExchangeRate(Bank): EUR/USD 1.0621
+    ; ExchangeRate(Diff): EUR/USD -0.0053
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -14,01 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -2,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    2,32 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             13,94 EUR
+    Charges:Financières:PertesDeChange                                                                  0,07 EUR
+
+2024-04-25 * Namecheap
+    ; Document: 2024-04-25-namecheap-receipt-142501799.pdf
+    ; Description: atlas.shopping
+    ; Method: Card **6158
+    ; NetAmount: USD 30.16
+    ; ExchangeRate(ECB): EUR/USD 1.0720
+    ; ExchangeRate(Bank): EUR/USD 1.0676
+    ; ExchangeRate(Diff): EUR/USD -0.0044
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -28,25 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -4,69 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    4,69 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             28,13 EUR
+    Charges:Financières:PertesDeChange                                                                  0,12 EUR
+
+2024-05-01 * PhotoRoom
+    ; Document: 2024-05-01-PhotoRoom-Receipt-2396-0915.pdf
+    ; Description: May 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 20,00
+    ; VATRate: 20%
+    ; VATAmount: EUR 4,00
+    ; GrossAmount: EUR 24,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -24,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    4,00 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:PhotoRoom             20,00 EUR
+
+2024-05-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-05-02-AWS-invoice.pdf
+    ; Description: Cloud Services - April 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 1.41
+    ; VATRate: 20%
+    ; VATAmount: USD 0.28
+    ; GrossAmount: USD 1.70
+    ; ExchangeRate(ECB): EUR/USD 1.0698
+    ; ExchangeRate(Bank): EUR/USD 1.0625
+    ; ExchangeRate(Diff): EUR/USD -0.0073
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -1,60 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,26 EUR
+    Charges:Financières:PertesDeChange                                                      0,02 EUR
+
+2024-05-03 * Namecheap
+    ; Document: 2024-05-03-namecheap-receipt-143040135.pdf
+    ; Description: renew peerpersonal.com
+    ; Method: Card **6158
+    ; NetAmount: USD 16.06
+    ; ExchangeRate(ECB): EUR/USD 1.0744
+    ; ExchangeRate(Bank): EUR/USD 1.0671
+    ; ExchangeRate(Diff): EUR/USD -0.0073
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -15,05 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -2,49 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    2,49 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             14,95 EUR
+    Charges:Financières:PertesDeChange                                                                  0,10 EUR
+
+2024-05-27 * Microsoft
+    ; Document: 2024-05-27-Microsoft-G047769920.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2024-06-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-06-02-AWS-invoice.pdf
+    ; Description: Cloud Services - May 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 1.71
+    ; VATRate: 20%
+    ; VATAmount: USD 0.35
+    ; GrossAmount: USD 2.07
+    ; ExchangeRate(ECB): EUR/USD 1.0852
+    ; ExchangeRate(Bank): EUR/USD 1.0781
+    ; ExchangeRate(Diff): EUR/USD -0.0071
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -1,92 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,59 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,32 EUR
+    Charges:Financières:PertesDeChange                                                      0,01 EUR
+
+2024-06-14 * Apple
+    ; Document: 2024-06-14-Apple-invoice-W1013359556_ADQ2021005.pdf
+    ; Description: Apple Developer Program
+    ; Method: Card **6158
+    ; NetAmount: EUR 82,50
+    ; VATRate: 20%
+    ; VATAmount: EUR 16,50
+    ; GrossAmount: EUR 99,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -99,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   16,50 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             82,50 EUR
+
+2024-07-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-07-02-AWS-invoice.pdf
+    ; Description: Cloud Services - June 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 1.67
+    ; VATRate: 20%
+    ; VATAmount: USD 0.33
+    ; GrossAmount: USD 2.02
+    ; ExchangeRate(ECB): EUR/USD 1.0729
+    ; ExchangeRate(Bank): EUR/USD 1.0745
+    ; ExchangeRate(Diff): EUR/USD +0.0016
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -1,88 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,57 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,31 EUR
+
+2024-07-05 * Microsoft
+    ; Document: 2024-07-05-Microsoft-G051487512.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2024-08-03 * Amazon Web Services EMEA SARL
+    ; Document: 2024-08-03-AWS-invoice.pdf
+    ; Description: Cloud Services - July 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 2.90
+    ; VATRate: 20%
+    ; VATAmount: USD 0.57
+    ; GrossAmount: USD 3.47
+    ; ExchangeRate(ECB): EUR/USD 1.0835
+    ; ExchangeRate(Bank): EUR/USD 1.0776
+    ; ExchangeRate(Diff): EUR/USD -0.0059
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -3,22 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     2,67 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,53 EUR
+    Charges:Financières:PertesDeChange                                                      0,02 EUR
+
+2024-08-05 * Microsoft
+    ; Document: 2024-08-05-Micosoft-G054268975.pdf
+    ; Description: July 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2024-09-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-09-02-AWS-invoice.pdf
+    ; Description: Cloud Services - August 2023
+    ; Method: Card **6158
+    ; NetAmount: USD 1.35
+    ; VATRate: 20%
+    ; VATAmount: USD 0.25
+    ; GrossAmount: USD 1.61
+    ; ExchangeRate(ECB): EUR/USD 1.1061
+    ; ExchangeRate(Bank): EUR/USD 1.1027
+    ; ExchangeRate(Diff): EUR/USD -0.0034
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -1,46 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,21 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,24 EUR
+    Charges:Financières:PertesDeChange                                                      0,01 EUR
+
+2024-09-05 * Microsoft
+    ; Document: 2024-09-05-Microsoft-G058441084.pdf
+    ; Description: August 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2024-10-02 * Amazon Web Services EMEA SARL
+    ; Document: 2024-09-02-AWS-invoice.pdf
+    ; Description: Cloud Services - September 2024
+    ; Method: Card **6158
+    ; NetAmount: USD 1.47
+    ; VATRate: 20%
+    ; VATAmount: USD 0.29
+    ; GrossAmount: USD 1.77
+    ; ExchangeRate(ECB): EUR/USD 1.1071
+    ; ExchangeRate(Bank): EUR/USD 1.1063
+    ; ExchangeRate(Diff): EUR/USD -0.0008
+    Financiers:Banques:ComptesEnEuros:Qonto                                                -1,60 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,33 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,27 EUR
+
+2024-10-05 * Microsoft
+    ; Document: 2024-10-05-Microsoft-G060983230.pdf
+    ; Description: September 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR

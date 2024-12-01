@@ -1,0 +1,19 @@
+{
+	"recommendations": [
+		"humao.rest-client",
+		"stackbreak.comment-divider",
+		"emmanuelbeziat.vscode-great-icons",
+		"ms-vscode-remote.remote-wsl",
+		"yoavbls.pretty-ts-errors",
+		"graphql.vscode-graphql-execution",
+		"graphql.vscode-graphql",
+		"expo.vscode-expo-tools",
+		"lokalise.i18n-ally",
+		"graphql.vscode-graphql-syntax",
+		"biomejs.biome",
+		"pranjalkumar.minimal-kiwi",
+		"orta.vscode-jest",
+		"mark-hansen.hledger-vscode",
+		"mariosangiorgio.ledger"
+	]
+}

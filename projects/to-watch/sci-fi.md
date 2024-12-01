@@ -1,0 +1,15 @@
+- Anything by Isaac Asimov,
+- anything by RA Heinlein.
+- anything Arthur C Clarke
+- A.E. Van Vogt -- The Weapon Shops of Isher (a fine defense of the 2nd amendment)
+- Arthur C. Clarke. Childhood's End.
+- Cryptonomicon., by Neal Stephenson (and Bruce Schneier)
+- True Names, by Vernor Vinge.
+- John Brunner's Shockwave Rider
+- Hitchhiker's trilogy by Douglas Adams, anything by Terry Pratchett,
+- Terry Pratchett, Humorous fantasy/SF & likely Spider Robinson as well.
+- The "old masters" of SF, especially RAH's Stranger in a Strange Land.
+- I suppose "old mistresses" wouldn't be the term, but Marion Zimmer Bradley and Anne McCaffrey are good too. More sword & sorcery fantasy than SF.
+- But also several of the current generation of writers. Charles de Lint's "urban fantasy", the "cyberpunks" Neal Stephenson & William Gibson, ...
+- Anything by Gibson (side note: Neuromancer film to be developed soon, pray for Matrix style delivery)
+- Snow Crash (ne1 read Cryptonomicon yet? a review would be grand...)

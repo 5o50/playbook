@@ -1,0 +1,1 @@
+[You Should Organize a Study Group/Book Club/Online Group/Event! Tips on How to Do It — Stephanie Hurlburt](http://stephaniehurlburt.com/blog/2019/3/27/you-should-organize-a-study-groupbook-clubonline-groupevent-tips-on-how-to-do-it)

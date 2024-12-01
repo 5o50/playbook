@@ -1,0 +1,1 @@
+where there is truth, there is love. where there is lies, there is nothing.

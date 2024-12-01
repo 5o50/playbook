@@ -1,0 +1,2 @@
+- Fundamental of Astrodynamics. ISBN 0-486-60061-0
+- QED, The Strange Theory of Light and Matter (Richard P. Feynman)

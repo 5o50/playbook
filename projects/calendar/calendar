@@ -1,0 +1,31 @@
+/*
+ * Calendar aggregator
+ * This is the calendar master file
+ */
+
+#ifndef _calendar_all_
+#define _calendar_all_
+
+#include <calendar.holiday>
+#include <calendar.usholiday>
+#include <calendar.world>
+
+#include <calendar.french>
+#include <fr_FR.ISO8859-1/calendar.jferies>
+#include <fr_FR.ISO8859-1/calendar.fetes>
+#include <fr_FR.ISO8859-1/calendar.proverbes>
+
+#include <calendar.birthday>
+#include <calendar.computer>
+#include <calendar.freebsd>
+
+#include <calendar.history>
+#include <calendar.music>
+
+
+#include <user/calendar.birthday>
+
+
+#endif /* !_calendar_all_ */
+
+

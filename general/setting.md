@@ -1,0 +1,1 @@
+[Writing Tips: How (And Why) To Treat Your Setting Like A Character | The Creative Penn](https://www.thecreativepenn.com/2019/05/01/writing-tips-how-and-why-to-treat-your-setting-like-a-character/)

@@ -1,0 +1,3 @@
+- Don't Push the River (It Flows by Itself) , by Barry Stevens.
+- The Education of Henry Adams, an autobiography.
+- Thomas Pynchon: Gravity's Rainbow. Then try Mason & Dixon; read the latter at least twice.

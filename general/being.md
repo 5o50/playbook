@@ -1,0 +1,5 @@
+To not flinch away from what is difficult, aversive, or painful. To be able to make space for sensations and emotions and thoughts, even if unpleasant. To be able to hold them in your mind without following an automatic reaction to move away or escape.
+
+Ex1: If I am trying to introspect on myself, and I encounter ughy, aversive, or uncomfortable feelings, thoughts, or realizations, I am able to make space for that in my mind and stay with them. (This probably involves distancing myself somewhat from them so that they’re not overwhelming.)
+
+Ex2: If someone expresses a loud, big, “negative” emotion (anger, fear, sadness, pain), I don’t panic or freeze or dissociate. I can stay calm, embodied, and grounded. And then I stay open to their emotional state and not assume it means something bad about me (“They hate me!” “I’m doing something wrong!” “They don’t want me around!”). I’m not overwhelmed by anxieties or stories about what their emotion means, which might cause me to go away or stop caring about them. I instead make room in myself for my feelings and their feelings so that they can both exist. I maintain an open curiosity about them.

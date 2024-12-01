@@ -1,0 +1,166 @@
+; journal created 2017-12-01 by hledger
+;
+; Asset = Equity + (Income - Expense) + Liability
+;
+; assets (owned)
+; liability (owed)
+; equity (invested)
+; receivables (people owes you)
+; income (inflows)
+; expenses (outflows)
+;
+;Transactions
+;	debits
+;		+ assets / expenses accounts
+;		- liability / equity accounts
+;
+;	credits
+;		- assets / expenses accounts
+;		+ liabilities / equity accounts
+;
+; MRAM
+; (18.32 *1800 + 1200*7.69)/3000
+; $9,228
+; 14.068
+;
+; https://devhints.io/ledger
+;
+; ledger -f life.journal bal -X €
+; ledger -f life.journal bal -X € -U
+; ledger -f life.journal bal -X € -C
+;
+; GENERATE FX RATES
+; https://github.com/benwebber/ledger-fx-rates
+; ledger-fx-rates >> db/fx-rates.dat
+; include fx-rates.dat
+
+include meta.dat
+include prices.journal
+
+2017-07-18 * BUY first MRAM shares
+	Assets:Robinhood:Stocks  			250 MRAM; @@ $6,268.10 ; 250 @ $25.07
+	Equity:Opening Balances
+
+2017-07-18 * BUY second MRAM shares
+	Assets:Robinhood:Stocks				500 MRAM; @@ $11,750.00 ; 500 @ $23.50
+	Equity:Opening Balances
+
+2017-07-19 * BUY third MRAM shares
+	Assets:Robinhood:Stocks  			250 MRAM; @@ $5,575.00 ; 250 @ $22.30
+	Equity:Opening Balances
+
+2017-10-10 * BUY fourth MRAM shares
+	Assets:Robinhood:Stocks  			800 MRAM; @@ $9,384.00 ; 800 @ $11.73
+	Equity:Opening Balances
+
+2018-04-07 * BUY BTC
+	Assets:Robinhood:BTC  				0.99998393 BTC; @@ $6,847.71
+	Equity:Opening Balances
+
+2018-04-13 * BUY BTC again
+	Assets:Robinhood:BTC  				0.51373638 BTC; @@ €8,150.25
+	Equity:Opening Balances
+
+2020-08-24 * SophieBank (VIR INST BELAID)
+	Liabilities:Payables:Sophie			-€250
+	Equity:Opening Balances
+
+2020-10-17 * opening balance US ROBINHOOD
+	Assets:Robinhood:Checking  			$4,092.77
+	Equity:Opening Balances
+
+
+2020-10-17 * opening balance Binance BNB
+    Assets:zBinance:BNB        			1.29839269 BNB
+    Equity:Opening Balances
+
+2020-10-17 * opening balance Binance BTC
+    Assets:zBinance:BTC        			0.02558566 BTC
+    Equity:Opening Balances
+
+2020-10-17 * opening balance Coinbase BTC
+    Assets:Coinbase:BTC        			2.2 BTC
+    Equity:Opening Balances
+
+2020-10-17 * opening balance Boursorama Checking
+	Assets:Boursorama:Checking			-€10.59
+	Equity:Opening Balances
+
+2020-10-17 * opening balance Boursorama Savings
+	Assets:Boursorama:Savings			€10.16
+	Equity:Opening Balances
+
+2020-10-17 * opening balance Lydia
+	Assets:Lydia						€0.0
+	Equity:Opening Balances
+
+2020-10-17 * opening balance FR
+	Assets:First Republic:Checking  	$0.0
+	Equity:Opening Balances
+
+2020-10-17 * opening balance BNP Checkings
+	Assets:BNP:Checking  				-€47.70
+	Equity:Opening Balances
+
+2020-10-17 * opening balance BNP Savings
+	Assets:BNP:Savings  				€10.40
+	Equity:Opening Balances
+
+2020-10-19 * PEER TECH DEBT
+	Assets:Receivables:PEER			€1275.62
+	Equity:Opening Balances
+
+2020-10-22 * SophieBank (VIR INST BELAID)
+	Assets:BNP:Checking					€100
+	Liabilities:Payables:Sophie
+
+2020-11-05 ! VIR SEPA CAF SEINE-SAINT-DENIS
+	Assets:Boursorama:Checking			€492.57
+	Income:CAF:RSA
+
+2020-11-06 ! Remb SOPHIEBANK
+	Liabilities:Payables:Sophie			€200.00
+	Assets:Boursorama:Checking
+
+2020-11-20 ! APPORT PEER
+	Liabilities:Payables:PEER				€200.00
+	Assets:Boursorama:Checking
+
+2020-11-29 ! BONUS CONFINEMENT CAF
+	Assets:Boursorama:Checking			€150.00
+	Income:CAF:RSA
+
+2020-11-29 ! FRAIS PRLV IMPAYE
+	Expenses:Boursorama							€9.99
+	Assets:Boursorama:Checking
+
+2020-11-29 ! FRAIS PRLV IMPAYE
+	Assets:Boursorama:Savings				€100.00
+	Assets:Boursorama:Checking
+	
+2020-11-29 ! MCDO
+	Expenses:Food										€15.55
+	Assets:Boursorama:Checking
+
+2020-11-29 ! Bouygues
+	Expenses:Phone									€32.99
+	Assets:Boursorama:Checking
+
+2020-11-29 ! BP
+	Expenses:BP											€10.00
+	Assets:Boursorama:Checking
+
+2020-11-04 ! Spotify Monthly PRLV SEPA PayPal (Europe) S.a.r.l. et Ci
+	Expenses:Spotify								€9.99
+	Assets:Boursorama:Checking
+
+; A VENIR	
+
+2020-12-05 ! VIR SEPA CAF SEINE-SAINT-DENIS
+ 	Assets:Boursorama:Checking			€492.57
+ 	Income:CAF:RSA
+
+2020-12-05 ! BONUS NOEL CAF
+	Assets:Boursorama:Checking			€150.00
+	Income:CAF:RSA
+

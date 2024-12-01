@@ -1,0 +1,21 @@
+account strict
+
+payee Reprise des à-nouveaux
+
+; National
+payee SIE PARIS 11
+payee DGFIP
+payee Houdart AC
+payee Qonto
+payee Amazon Web Services EMEA SARL 
+payee Sofiane Baltaci
+payee Greffe du Tribunal de Commerce de Paris
+payee PhotoRoom
+payee Microsoft
+payee Apple
+
+; Extracommunautaire
+payee Proton AG
+payee Twilio
+payee Namecheap
+payee Gumroad

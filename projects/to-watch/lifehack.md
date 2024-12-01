@@ -1,0 +1,4 @@
+- The Encyclopedia of Country Living, by Carla Emery. ISBN 0-912365-95-1
+- Rodale's Illustrated Encyclopedia of Herbs. ISBN 0-87857-699-1
+- The Cabling Handbook. ISBN 0-13-080531-9 (thanks so much to all those who first suggested this)
+- Upgrading and Repairing PCs, by Scott Mueller. ISBN 0-7897-0825-6

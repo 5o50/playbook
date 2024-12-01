@@ -1,0 +1,1 @@
+// Contenu de l'ancien routes/asia-europe/china-france.md 

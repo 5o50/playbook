@@ -1,0 +1,7 @@
+* [9 Ways to Frenchify Your Life](https://frenchkisslife.com/9-ways-to-french-ify-your-life/)
+* [French Lifestyle: A Look at the French Way of Living - Mon Petit Four](https://www.monpetitfour.com/french-lifestyle/)
+* [THE GOOD LIFE: Five lessons I learned about the French lifestyle | Profiles | nwitimes.com](https://www.nwitimes.com/niche/shore/profiles/the-good-life-five-lessons-i-learned-about-the-french/article_098366e5-0109-5691-9c7e-5d2f1c29caee.html)
+* [The French Way: How to Create a Luxurious Everyday Life – The Simply Luxurious Life®](https://www.thesimplyluxuriouslife.com/podcast23/)
+* [What is the French lifestyle, way of life? - Quora](https://www.quora.com/What-is-the-French-lifestyle-way-of-life)
+* [8 Lessons From The French On Living The Good Life (PHOTOS) | HuffPost Life](https://www.huffpost.com/entry/french-life-lessons_n_4377352)
+* [How living in France will change your lifestyle - The Local](https://www.thelocal.fr/20150708/eight-ways-french-culture-can-change-your-life)
