@@ -1,1 +1,0 @@
-there is not enough time in life to loose time with bs.

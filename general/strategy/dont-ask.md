@@ -1,0 +1,1 @@
+> Don’t ask whether it is right or wrong. Instead try to find out what is going on!

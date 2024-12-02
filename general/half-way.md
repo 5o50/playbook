@@ -1,1 +1,0 @@
-meet others halfway in every situation. To overextend yourself, or require that of another, is to create an undesirable imbalance.

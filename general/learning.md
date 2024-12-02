@@ -1,1 +1,0 @@
-Human learn through exposure

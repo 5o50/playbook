@@ -1,1 +1,0 @@
-Relevance and originality requires not to focus on the appearance, or the meaning but to the way how your bring things up. Not the WHY, not the WHAT; but the HOW. That's how you drives my emotions to the solution.

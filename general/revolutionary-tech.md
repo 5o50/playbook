@@ -1,1 +1,0 @@
-Especially in technology, we need revolutionary change, not incremental change.

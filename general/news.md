@@ -1,1 +1,0 @@
-https://www.cafeyn.co/fr/newsstand

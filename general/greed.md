@@ -1,1 +1,0 @@
-Be fearful when others are greedy and greedy when others a fearful.

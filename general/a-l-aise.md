@@ -1,1 +1,0 @@
-tu nas pas a te sentir mal a l'aise, c'est eux qui se sentent mal a laise c'est pas toi

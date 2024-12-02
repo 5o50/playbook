@@ -1,1 +1,0 @@
-[5 ways to declutter your writing | The Thesis Whisperer](https://thesiswhisperer.com/2010/11/04/5-ways-to-declutter-your-writing/)

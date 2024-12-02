@@ -1,1 +1,0 @@
-be specific and concrete but subtile — dont be aggresive

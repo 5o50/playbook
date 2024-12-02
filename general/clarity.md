@@ -1,1 +1,0 @@
-clarity and conciseness - 5words and patience

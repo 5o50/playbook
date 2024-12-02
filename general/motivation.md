@@ -1,3 +1,0 @@
-Motives are combinations of drives and a goal. Goals are represented by a situation that affords the satisfaction of the corresponding urge. Several motives may be active at a time, but only one is chosen to determine the choice of behaviors of the agent. The choice of the dominant motive depends on the anticipated probability of satisfying the associated urge and the strength of the urge signal. (This means also that the agent may opportunistically satisfy another urge if presented with that option.)
-
-The stability of the dominant motive against other active motivations is regulated using the selection threshold parameter, which depends on the urgency of the demand and individual variance.

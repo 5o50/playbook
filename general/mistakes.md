@@ -1,1 +1,0 @@
-No matter how careful you are, you will make mistakes. After every engagement, there will be a hundred things that, looking back, you could’ve done better. Since that’s the case, the best approach is to make valuable mistakes: experiments that give you useful information and help you improve.

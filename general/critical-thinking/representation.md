@@ -1,0 +1,5 @@
+> To have a real conversation, comprehension needs to ground out in shared first principles, and when a computer can do that, it will understand as well as you or I.
+
+Psi-theory suggests hierarchical networks of nodes as a universal mode of representation for declarative, procedural and tacit knowledge. These nodes may encode localist and distributed representations. The activity of the system is modeled using modulated and directional spreading of activation within these networks.
+
+Plans, episodes, situations and objects are described with a semantic network formalism that relies on a fixed number of pre-defined link types, which especially encode causal/sequential ordering, and partonomic hierarchies (the theory specifies four basic link-types). Special nodes (representing neural circuits) control the spread of activation and the forming of temporary or permanent associations and their dissociations.

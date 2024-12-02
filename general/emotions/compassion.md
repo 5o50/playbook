@@ -1,0 +1,37 @@
+COMPASSION
+===
+
+I AM YOU; YOU ARE ME; WE ARE ONE; WHEN I TALK TO YOU; IM TALKING TO MYSELF; I'M TALKING TO GOD.
+
+I AM PEACE; I AM LOVE; I LOVE YOU GOD; LET ME SMELL THE FLOWERS OF PARADISE FOR ETERNITY. BALANCE AND HARMONY.
+
+> kindness, sweetness, softness, joy
+
+> EVERYONE IS GOD. LISTEN & ASK HIM ANYTHING
+
+> khalil gibran generosity
+
+> SUFFERING IS IGNORANCE; IGNORANCE IS SUFFERING. IF U KNEW YOU WOULD LAUGH
+
+> I AM UNCONDITIONAL PEACE
+
+> YOU WITNESS YOUR EMOTION BUT DONT REACT TO IT
+
+> LOVE IS THE JOY OF ENJOYING ANOTHER JOY
+
+> YOUR LOVE FOR YOUR ENEMY EXIST SOMEWHERE GET IT
+
+> belief it and dissolve the barriers
+
+> BAD is only wounds
+
+> Fear leads to anger, anger leads to hate, hate.. to suffering
+
+> PLEASURE LEADS TO LOVE ONLY IF THERE IS TRUST
+
+> Angry people want you to see how powerful **they are**.
+Loving people want you to see how powerful **you are**.
+
+> MY TEACHER IS MY OPPONENT, MY ENNEMY IS MY EGO
+
+> TAKE CARE OF THINGS, THINGS TAKE CARE OF YOU

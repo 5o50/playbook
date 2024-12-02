@@ -1,4 +1,0 @@
-The Message is the Massage
-===
-
-THE MEDIA IS THE MESSAGE. MEDIA IS VISUAL, MESSAGE IS WHAT ?

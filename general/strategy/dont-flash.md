@@ -1,0 +1,4 @@
+Don't flash
+===
+
+Don't. Just don't. Fuck nice cars & nice houses as long as you are on the field or know directly people who work on the field. That will get you heated up more than anything else. Pile your money, hide it and work on laundering it with as much care and opsec as you do with your drugs. Fuel it in a legitimate business, with customers, then start laundering it slowly. Remember, as long as your money isn't properly laundered, its virtual. Anything you buy with it is a cursed gift that will increase your own heat and can also potentially be seized by LE. You can start flashing when all your work has been securely outsourced or when you retire.

@@ -1,1 +1,0 @@
-make good decisions without long deliberation.

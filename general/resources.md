@@ -24,3 +24,7 @@ https://ambientcg.com/list
 
 ## shaders
 https://www.shadertoy.com/
+
+## torrents
+https://www.1337x.biz/
+https://liber3.eth.limo/

@@ -1,6 +1,0 @@
-I SURRENDER TO GUIDANCE; THE ONE THAT GOT ME HERE
-===
-
-LET IT BE.
-
-Surrender to Perseverance

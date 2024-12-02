@@ -1,1 +1,0 @@
-Les meilleurs jeux de mots sont doté d'un jeu de sens multiple.

@@ -1,2 +1,0 @@
-THE SOONER; THE BETTER
-===

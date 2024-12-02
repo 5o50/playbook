@@ -1,0 +1,3 @@
+> When you find something that works, keep going. Don’t get distracted and do something else. Don’t take your foot off the gas.
+
+> As a general rule, don’t let your company start doing the next thing until you’ve dominated the first thing. No great company I know of started doing multiple things at once—they start with a lot of conviction about one thing, and see it all the way through. You can do far fewer things than you think. A very, very common cause of startup death is doing too many of the wrong things.
