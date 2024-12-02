@@ -178,7 +178,7 @@
     ; Method: Card **6158
     ; NetAmount: EUR 22,49
     ; VATRate 20%
-    ; VATAmount: EUR 4,150
+    ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                                 -26,99 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
@@ -203,7 +203,7 @@
     ; Method: Card **6158
     ; NetAmount: EUR 22,49
     ; VATRate 20%
-    ; VATAmount: EUR 4,150
+    ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
@@ -214,7 +214,7 @@
     ; Method: Card **6158
     ; NetAmount: EUR 22,49
     ; VATRate 20%
-    ; VATAmount: EUR 4,150
+    ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                                 -26,99 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
@@ -227,7 +227,7 @@
     ; Method: Card **6158
     ; NetAmount: EUR 22,49
     ; VATRate 20%
-    ; VATAmount: EUR 4,150
+    ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
@@ -252,7 +252,7 @@
     ; Method: Card **6158
     ; NetAmount: EUR 22,49
     ; VATRate 20%
-    ; VATAmount: EUR 4,150
+    ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                                 -26,99 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
@@ -302,7 +302,7 @@
     ; Method: Card **6158
     ; NetAmount: EUR 22,49
     ; VATRate 20%
-    ; VATAmount: EUR 4,150
+    ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
@@ -427,8 +427,8 @@
     ; NetAmount: EUR 24,29
     Financiers:Banques:ComptesEnEuros:Qonto                                                              -24,29 EUR
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           24,29 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire       4,86 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                        -4,86 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,86 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -4,86 EUR
 
 2024-05-23 * SellerAmp
     ; Document: 2024-05-23-selleramp-INV-598590.pdf
@@ -453,6 +453,18 @@
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  16,10 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire          3,22 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                           -3,22 EUR
+
+2024-05-27 * Bouygues Telecom
+    ; Document: 2024-05-27-Bouyguestelecom_Facture_20240527.pdf
+    ; Description: Mai 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 22,49
+    ; VATRate 20%
+    ; VATAmount: EUR 4,50
+    ; GrossAmount: EUR 26,99
+    Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                                 -26,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         22,49 EUR
 
 2024-05-29 * DataDive
     ; Document: 2024-05-29-DataDive-Refund-3167-0072.pdf
@@ -511,7 +523,7 @@
     ; VATAmount: EUR 1,13
     ; GrossAmount: EUR 6,79
     Financiers:Banques:ComptesEnEuros:Qonto                                                               6,79 EUR
-    Charges:AutresServicesExtérieurs:Adhésions:eBay                                                   -5,66 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       -5,66 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     -1,13 EUR
 
 2024-06-05 * Amazon Services Europe S.à r.l.
@@ -537,3 +549,111 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2024-06-09 * Amazon
+    ; Document: 2024-05-20-amazon-HXT202405296393925.pdf
+    ; Description: achat tampon encreure
+    ; Method: Card **6158
+    ; NetAmount: EUR 24,92
+    ; VATRate 20%
+    ; VATAmount: EUR 4,98
+    ; GrossAmount: EUR 29,90
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -29,90 EUR
+    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           24,92 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,98 EUR
+
+2024-06-10 * Bouygues Telecom
+    ; Document: 2024-05-27-Bouyguestelecom_Facture_20240527.pdf
+    ; Description: Règlement Mai 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 22,49
+    ; VATRate 20%
+    ; VATAmount: EUR 4,50
+    ; GrossAmount: EUR 26,99
+    Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
+    Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
+
+2024-06-12 * Esso
+    ; Document: 2024-06-12-esso-invoice.jpeg
+    ; Description: carburant deplacement pro
+    ; Method: Card **6158
+    ; NetAmount: EUR 16,67
+    ; VATRate 20%
+    ; VATAmount: EUR 3,33
+    ; GrossAmount: EUR 20,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -20,00 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant     16,67 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
+
+
+2024-06-30 * eBay
+    ; Document: 2024-06-30-Ebay-2636928141_2024-6.pdf
+    ; Description: Frais d'inscription vendeur et frais unique ebay
+    ; Method: Direct Debit
+    ; NetAmount: EUR 19,50
+    ; VATRate 20%
+    ; VATAmount: EUR 3,90
+    ; GrossAmount: EUR 23,40
+    Financiers:Banques:ComptesEnEuros:Qonto                                                               23,40 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       -19,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      -3,90 EUR
+
+2024-06-12 * Costco
+    ; Document: 
+    ; Description: Part de pizza deplacement pro achat de marchandise 
+    ; Method: Card **6158
+    ; NetAmount: EUR 6,35
+    ; VATRate 10%
+    ; VATAmount: EUR 0,63
+    ; GrossAmount: EUR 6,98
+    Financiers:Banques:ComptesEnEuros:Qonto                                                               -6,98 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Réceptions                           6,35 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       0,63 EUR
+
+
+2024-06-12 * GS1 France
+    ; Document: 2024-06-14-gs1-2ad27547-7aad-47c0-9094-77f16a5f1800
+    ; Description:  
+    ; Method: Card **6158
+    ; NetAmount: EUR 198,00
+    ; VATRate 20%
+    ; VATAmount: EUR 39,60
+    ; GrossAmount: EUR 237,60
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -237,60 EUR
+    Charges:AutresServicesExtérieurs:Adhésions:GS1                                                         99,00 EUR
+    Charges:AutresChargesDeGestionCourante:Redevances:GS1                                                  99,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       39,60 EUR
+
+2024-06-13 * DataDive
+    ; Document: 2024-06-13-DataDive-Invoice-C28BA231-0001.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: USD 39.00
+    ; ExchangeRate(ECB): EUR/USD 1.0784
+    ; ExchangeRate(Bank): EUR/USD 1.0732
+    ; ExchangeRate(Diff): EUR/USD -0.0052
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -36,34 EUR
+    Charges:ServicesExtérieurs:Locations:Services:DataDive                                              36,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,23 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     7,23 EUR
+    Charges:Financières:PertesDeChange                                                                   0,18 EUR
+
+2024-06-13 * Amazon
+    ; Document: 2024-06-13-amazon-invoice.pdf
+    ; Description: achat sample electronique
+    ; Method: Card **6158
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -50,00 EUR
+    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           50,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                       -10,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire      10,00 EUR
+
+2024-06-14 * Keepa
+    ; Document: 2024-06-14-KeepaInvoice202437469045507b3.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: EUR 19,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -19,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Keepa                                       19,00 EUR

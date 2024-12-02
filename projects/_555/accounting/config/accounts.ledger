@@ -313,6 +313,9 @@ account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Comms
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon
     note 62221 - Commissions et courtages Amazon sur ventes
 
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay
+    note 62222 - Commissions et courtages Ebay sur ventes
+
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:RémDesTransitaires
     note 6224 - Rémunérations des transitaires
 
@@ -350,6 +353,9 @@ account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions
 
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements
     note 6251 - Voyages et déplacements
+
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant
+    note 62511 - Carburant
 
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Missions
     note 6256 - Missions
@@ -424,8 +430,8 @@ account Charges:AutresServicesExtérieurs:Adhésions:Costco
 account Charges:AutresServicesExtérieurs:Adhésions:Fnac
     note 62812 - Adhésion Fnac
 
-account Charges:AutresServicesExtérieurs:Adhésions:eBay
-    note 62813 - Adhésion eBay
+account Charges:AutresServicesExtérieurs:Adhésions:GS1
+    note 62813 - Adhésion GS1
 
 ; 63 - Impôts, taxes et versements assimilés
 account Charges:ImpôtsTaxes:SurRémunérationsImpôts
@@ -476,6 +482,16 @@ account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:Autres
 
 account Charges:Personnel:CotisationsSocialesPersonnellesDeLExploitant
     note 646 - Cotisations sociales personnelles de l'exploitant
+
+account Charges:AutresChargesDeGestionCourante
+    note 65 - Autres charges de gestion courante
+
+account Charges:AutresChargesDeGestionCourante:Redevances
+    note 651 - Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
+
+account Charges:AutresChargesDeGestionCourante:Redevances:GS1
+    note 6511 - Redevances GS1 France
+
 
 account Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
     note 658 - Pénalités et autres charges

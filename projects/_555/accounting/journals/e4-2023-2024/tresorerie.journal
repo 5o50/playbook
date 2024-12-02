@@ -164,3 +164,34 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
+2024-06-11 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-06-12 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 250,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     250,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-06-13 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 40,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     40,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-06-13 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     

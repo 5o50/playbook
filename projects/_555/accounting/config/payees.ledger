@@ -23,6 +23,8 @@ payee Fnac
 payee eBay
 payee Packlink
 payee PhotoRoom
+payee Esso
+payee GS1 France
 
 ; Extracommunautaire
 payee Proton AG
