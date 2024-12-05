@@ -1,1 +1,116 @@
-; Il recense chronologiquement toutes les ventes réalisées par l'entreprise
+2024-05-22 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Vente Ultimate Speed Chargeur de batterie ULGD 5.0 A1 pour toutes les batteries de voiture et moto 6 V ou 12 V
+    ; NetAmount: EUR 49,16
+    ; VATRate: 20%
+    ; VATAmount: EUR 9,83
+    ; GrossAmount: EUR 58,99
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                     50,43 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon         8,56 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       1,71 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -1,71 EUR
+    Produits:Ventes:Marchandises                                                                          -49,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                          -9,83 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  6,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire         1,39 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                     -8,34 EUR
+
+2024-05-23 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Livarno Home Projecteur éclairage solaire à LED avec détecteur de mouvements
+    ; NetAmount: EUR 16,99
+    ; VATRate: 20%
+    ; VATAmount: EUR 3,33
+    ; GrossAmount: EUR 19,99
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      16,90 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon         3,09 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       0,62 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -0,62 EUR
+    Produits:Ventes:Marchandises                                                                           -16,66 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                          -3,33 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  6,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire         1,39 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      -8,34 EUR
+
+
+2024-05-24 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Vente transfrontaliere FR -> IT : PARKSIDE® Akku Säbelsäge »PSSA«, 20 Volt, 100 mm Schnittleistung, ohne Akku/Ladegerät
+    ; NetAmount: EUR 58,32
+    ; VATRate: 20%
+    ; VATAmount: EUR 11,67
+    ; GrossAmount: EUR 69,99
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1IT                      60,62 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           9,37 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,87 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,87 EUR
+    Produits:Ventes:Marchandises                                                                             -58,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                           -11,67 EUR
+
+
+2024-05-24 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Fer à souder à gaz professionnel Rechargeable 3 en 1 Chalumeau, Air chaud, avec étui et bouteille de gaz supplémentaire de recharge
+    ; NetAmount: EUR 32,96
+    ; VATRate: 20%
+    ; VATAmount: EUR 6,59
+    ; GrossAmount: EUR 39,55
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      34,25 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon         5,30 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       1,06 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -1,06 EUR
+    Produits:Ventes:Marchandises                                                                           -32,96 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                          -6,59 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  6,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire         1,39 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      -8,34 EUR
+
+2024-05-24 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: PARKSIDE Agrafeuse électrique sans fil | 4 V (1300 mAh) Li-Ion - Avec 1000 pinces | PAT 4 B2
+    ; NetAmount: EUR 33,25
+    ; VATRate: 20%
+    ; VATAmount: EUR 6,65
+    ; GrossAmount: EUR 39,90
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      34,56 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon         5,34 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       1,07 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -1,07 EUR
+    Produits:Ventes:Marchandises                                                                           -33,25 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                          -6,65 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  6,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire         1,39 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      -8,34 EUR
+
+2024-05-25 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Turbo Pump PUMP01 Turbo La Pompe de transvasement Automatique Nouvelle génération-Vu à la Télé
+    ; NetAmount: EUR 24,99
+    ; VATRate: 20%
+    ; VATAmount: EUR 5,00
+    ; GrossAmount: EUR 29,99
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      25,97 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon         4,02 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       0,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -0,80 EUR
+    Produits:Ventes:Marchandises                                                                           -24,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                          -5,00 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  6,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire         1,39 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR                      -8,34 EUR
+
+
+2024-05-30 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Vente transfrontaliere FR -> ES : PARKSIDE PASA 20-Li - Sierra de podar inalámbrica (velocidad de desplazamiento controlable, con equipamiento de agarre suave (sin batería)
+    ; NetAmount: EUR 57,82
+    ; VATRate: 20%
+    ; VATAmount: EUR 11,57
+    ; GrossAmount: EUR 69,39
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1ES                      60,10 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           9,29 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,86 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,86 EUR
+    Produits:Ventes:Marchandises                                                                             -57,82 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                           -11,57 EUR
+

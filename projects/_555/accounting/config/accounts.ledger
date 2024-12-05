@@ -207,8 +207,20 @@ account Tiers:GroupeEtAssociés:AssociésDividendesÀPayer
 account Tiers:DébiteursEtCréditeursDivers
     note 46 - Débiteurs et créditeurs divers
 
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir
+    note 467 - Divers comptes débiteurs et produits à recevoir
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR
+    note 46711 - Compte Amazon Seller 1 France
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1IT
+    note 46712 - Compte Amazon Seller 1 Italie
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1ES
+    note 46713 - Compte Amazon Seller 1 Espagne
+
 account Tiers:DébiteursEtCréditeursDivers:CompteCréditeursEtChargesÀPayer
-    note 468 - Compte créditeurs et charges à payer
+    note 468 - Divers comptes créditeurs et charges à payer
 
 ; /* ---------------------- CLASSE 5 : COMPTES FINANCIERS --------------------- */
 

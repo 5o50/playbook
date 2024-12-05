@@ -430,6 +430,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,86 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                        -4,86 EUR
 
+
 2024-05-23 * SellerAmp
     ; Document: 2024-05-23-selleramp-INV-598590.pdf
     ; Description: 
@@ -446,13 +447,14 @@
 
 2024-05-24 * Packlink
     ; Document: 2024-05-24-Packlink-E24FC02455703.pdf
-    ; Description: 
+    ; Description: pour livrer FR -> IT : PARKSIDE® Akku Säbelsäge »PSSA«, 20 Volt, 100 mm Schnittleistung, ohne Akku/Ladegerät
     ; Method: Card **6158
     ; NetAmount: EUR 16,10
     Financiers:Banques:ComptesEnEuros:Qonto                                                                 -16,10 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  16,10 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire          3,22 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                           -3,22 EUR
+
 
 2024-05-27 * Bouygues Telecom
     ; Document: 2024-05-27-Bouyguestelecom_Facture_20240527.pdf
@@ -494,7 +496,7 @@
 
 2024-05-30 * Packlink
     ; Document: 2024-05-30-Packlink-E24FC02546559.pdf
-    ; Description: 
+    ; Description: Livraison FR -> ES : PARKSIDE PASA 20-Li - Sierra de podar inalámbrica (velocidad de desplazamiento controlable, con equipamiento de agarre suave (sin batería)
     ; Method: Card **6158
     ; NetAmount: EUR 15,30
     Financiers:Banques:ComptesEnEuros:Qonto                                                                 -15,30 EUR
@@ -644,9 +646,8 @@
     ; Method: Card **6158
     ; NetAmount: EUR 50,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                              -50,00 EUR
-    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           50,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                       -10,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire      10,00 EUR
+    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           40,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      10,00 EUR
 
 2024-06-14 * Keepa
     ; Document: 2024-06-14-KeepaInvoice202437469045507b3.pdf
