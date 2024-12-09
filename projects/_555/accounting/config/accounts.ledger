@@ -219,6 +219,22 @@ account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir
 account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1ES
     note 46713 - Compte Amazon Seller 1 Espagne
 
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2FR
+    note 46721 - Compte Amazon Seller 2 France
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2IT
+    note 46722 - Compte Amazon Seller 2 Italie
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2ES
+    note 46723 - Compte Amazon Seller 2 Espagne
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2UK
+    note 46724 - Compte Amazon Seller 3 United Kingdom
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2NL
+    note 46725 - Compte Amazon Seller 3 Netherland
+
+
 account Tiers:DébiteursEtCréditeursDivers:CompteCréditeursEtChargesÀPayer
     note 468 - Divers comptes créditeurs et charges à payer
 
@@ -300,6 +316,11 @@ account Charges:ServicesExtérieurs:Locations:Services:SellerAmp
 account Charges:ServicesExtérieurs:Locations:Services:PhotoRoom
     note 61387 - Service PhotoRoom
 
+account Charges:ServicesExtérieurs:Locations:Services:JungleScout
+    note 61388 - Service JungleScout
+
+account Charges:ServicesExtérieurs:Locations:Services:Anthropic
+    note 61389 - Service Anthropic
 
 account Charges:ServicesExtérieurs:EntretienEtRéparation
     note 615 - Entretien et réparation
@@ -348,6 +369,13 @@ account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Honor
 
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Divers
     note 6228 - Divers
+
+; 623 - Publicité, publications, relations publiques
+account Charges:AutresServicesExtérieurs:Publicité:PPC
+    note 6239 - Publicité PPC en ligne
+
+account Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon
+    note 62391 - Publicité PPC Amazon
 
 ; 624 - Transports de biens et transports collectifs du personnel
 account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel
@@ -414,6 +442,9 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:T
 
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom
     note 62631 - Services BouyguesTelecom
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile
+    note 62632 - Services Free Mobile
 
 account Charges:AutresServicesExtérieurs:ServicesBancaires
     note 627 - Services bancaires et assimilés
@@ -504,6 +535,23 @@ account Charges:AutresChargesDeGestionCourante:Redevances
 account Charges:AutresChargesDeGestionCourante:Redevances:GS1
     note 6511 - Redevances GS1 France
 
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine
+    note 6512 - Redevances Noms de domaine
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:mymotherstore.com
+    note 65121 - mymotherstore.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:sophiechiro.com
+    note 65122 - sophiechiro.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:peerpersonal.com
+    note 65123 - peerpersonal.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:social2030.com
+    note 65124 - social2030.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:socldev.com
+    note 65125 - socldev.com
 
 account Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
     note 658 - Pénalités et autres charges
@@ -524,6 +572,21 @@ account Produits:Ventes:Services
 
 account Produits:Ventes:Marchandises
     note 707 - Ventes de marchandises
+
+account Produits:Ventes:Marchandises:FR
+    note 7071 - Ventes de marchandises FR
+
+account Produits:Ventes:Marchandises:ES
+    note 7072 - Ventes de marchandises ES
+
+account Produits:Ventes:Marchandises:IT
+    note 7073 - Ventes de marchandises IT
+
+account Produits:Ventes:Marchandises:UK
+    note 7074 - Ventes de marchandises UK
+
+account Produits:Ventes:Marchandises:NL
+    note 7075 - Ventes de marchandises NL
 
 account Produits:Financiers:GainsDeChange
     note 766 - Gains de change financiers

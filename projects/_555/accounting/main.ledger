@@ -4,7 +4,6 @@ include config/commodities.ledger
 include config/payees.ledger
 include config/accounts.ledger
 include config/settings.ledger
-;include config/automated.ledger
 
 # Journaux
 include journals/e4-2023-2024/a-nouveaux.journal

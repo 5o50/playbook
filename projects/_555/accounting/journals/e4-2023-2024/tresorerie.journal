@@ -209,10 +209,7 @@
 2024-06-17 * Amazon Services Europe S.à r.l.
     ; Document: 
     ; Description: Décaissement Amazon Seller ES -> Qonto
-    ; NetAmount: EUR 57,82
-    ; VATRate: 20%
-    ; VATAmount: EUR 11,57
-    ; GrossAmount: EUR 69,39
+    ; NetAmount: EUR 60,10
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1ES  -60,10 EUR
     Financiers:Banques:ComptesEnEuros:Qonto
 
@@ -220,11 +217,114 @@
 2024-06-17 * Amazon Services Europe S.à r.l.
     ; Document: 
     ; Description: Décaissement Amazon Seller IT -> Qonto
-    ; NetAmount: EUR 57,82
-    ; VATRate: 20%
-    ; VATAmount: EUR 11,57
-    ; GrossAmount: EUR 69,39
+    ; NetAmount: EUR 60,62
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1IT  -60,62 EUR
     Financiers:Banques:ComptesEnEuros:Qonto
 
+2024-06-13 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     100,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-07-25 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-07-25 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller ES -> Qonto
+    ; NetAmount: EUR 14,46
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2ES  -14,46 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+2024-07-27 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller NL -> Qonto
+    ; NetAmount: EUR 39,79
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2NL  -39,79 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+
+2024-07-28 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 30,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     30,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-08-01 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Comment: Transfer from HSBC
+    ; Description: Décaissement Amazon Seller UK -> Qonto
+    ; NetAmount: GBP 23.45
+    ; ExchangeRate(ECB): EUR/GBP 0.84328
+    ; ExchangeRate(ECB): Date of Sale EUR/GBP 0.84058
+    ; ExchangeRate(Diff): EUR/GBP -0.00270
+    ; ExchangeRate(Bank): EUR/GBP 0.85522
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2UK  -23.45 GBP
+    Financiers:Banques:ComptesEnEuros:Qonto                                                27,42 EUR
+    Charges:Financières:PertesDeChange                                                      0,48 EUR
+
+
+2024-08-05 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller FR -> Qonto
+    ; NetAmount: EUR 66,41
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2FR  -66,41 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+
+2024-08-08 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller ES -> Qonto
+    ; NetAmount: EUR 17,32
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2ES  -17,32 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+2024-08-22 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller ES -> Qonto
+    ; NetAmount: EUR 22,82
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2ES  -22,82 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+2024-09-05 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-09-21 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-09-22 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+
+2024-09-25 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller IT -> Qonto
+    ; NetAmount: EUR 22,66
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2IT  -22,66 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
 

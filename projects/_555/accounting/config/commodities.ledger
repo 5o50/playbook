@@ -9,6 +9,11 @@ commodity USD
     alias $
     note US Dollar
 
+commodity GBP
+    format GBP 1,000.00
+    alias £
+    note British Pound
+
 commodity BTC
     format BTC 1000.00000000
     note Bitcoin

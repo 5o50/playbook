@@ -1,11 +1,12 @@
 --file main.ledger
 --no-pager
---exchange EUR
 --strict 
 ;--pedantic 
 --check-payees
 --check-payees
 --date-format %d-%m-%Y
+
+;--exchange EUR
 
 # default balance format
 ;--balance-format %(ansify_if(justify(scrub(display_total), 20, 20 + int(prepend_width), true, color), bold if should_bold)) %(!options.flat ? depth_spacer : "") %-(ansify_if(ansify_if(partial_account(options.flat), blue if color), bold if should_bold)) \n%/%$1\n%/%(prepend_width ? " " * int(prepend_width) : "")--------------------\n
