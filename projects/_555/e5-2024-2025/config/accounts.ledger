@@ -1,0 +1,609 @@
+account strict
+
+; ANC R2022-06
+; PLAN DE COMPTES UNIQUE 2025
+
+;/* -------------------------------------------------------------------------- */
+;/*                              Comptes de Bilan                              */
+;/* -------------------------------------------------------------------------- */
+
+;/* ------------------- CLASSE 1 : COMPTES DE CAPITAUX ------------------- */
+account Capitaux:CapitalEtRéserves:Capital
+    note 101 - Capital
+    ; Montant des valeurs apportés par les associés, le plus souvent à la création de celle-ci
+    ; afin de favoriser son activité. Apporté en numéraire (10.000€) ou en nature (terrains, etc.).
+
+account Capitaux:CapitalEtRéserves:Réserves:RéserveLégale
+    note 1061 - Réserve légale
+
+account Capitaux:ReportÀNouveau:SoldeCréditeur
+    note 110 - Report à nouveau - solde créditeur
+
+account Capitaux:ReportÀNouveau:SoldeDébiteur
+    note 119 - Report à nouveau - solde débiteur
+
+account Capitaux:RésultatDeLExercice:Bénéfice
+    note 120 - Résultat de l'exercice - bénéfice
+
+account Capitaux:RésultatDeLExercice:Perte
+    note 129 - Résultat de l'exercice - perte
+
+
+;/* ------------------ CLASSE 2 : COMPTES D'IMMOBILISATIONS ------------------ */
+; Un bien voué à être utilisé dans l'exploitation de l'entreprise durant plusieurs exercices.
+; ex: voiture de société, photocopieuse, ordinateur, etc.
+
+; immos incorporelles: biens ayant une valeur économique mais aucune substance matérielle.
+; Possède une valeur intellectuelle ou juridique.
+; ex: brevets, licences logicielle, marques, procédés, logiciels, etc
+
+account Immobilisations:IncorporellesEtFraisDÉtabl:FraisDÉtablissement
+    note 201 - Frais d'établissement
+
+; immos corporelles: biens ayant une valeur économique et une substance matérielle tangible.
+; ex: bâtiments, machines, outillage, etc.
+
+account Immobilisations:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique
+    note 2183 - Matériel de bureau et matériel informatique
+
+account Immobilisations:Corporelles:Autres:Mobilier
+    note 2184 - Mobilier
+
+account Immobilisations:Amortissements:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique
+    note 28183 - Amortissement du Matériel de bureau et matériel informatique
+
+;/* ---------------- CLASSE 3 : COMPTES DE STOCKS ET EN-COURS ---------------- */
+account StocksEtEnCours:MatièresPremièresEtFournitures
+    note 31 - Matières premières et fournitures
+
+account StocksEtEnCours:Produits
+    note 35 - Stocks de produits
+
+account StocksEtEnCours:Marchandises
+    note 37 - Stocks de marchandises
+
+;/* ----------------------- CLASSE 4 : COMPTES DE TIERS ---------------------- */
+; 40 - Fournisseurs
+account Tiers:Fournisseurs
+    note 401 - Fournisseurs
+
+account Tiers:Fournisseurs:AchatsDeBiensEtServices
+    note 4011 - Fournisseurs - Achats de biens et prestations de services
+
+account Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux
+    note 40111 - Fournisseurs nationaux
+
+account Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom
+    note 401111 - Fournisseurs nationaux - Bouygues Telecom
+
+account Tiers:Fournisseurs:AchatsDeBiensEtServices:Intracommunautaires
+    note 40112 - Fournisseurs intracommunautaires
+
+account Tiers:Fournisseurs:AchatsDeBiensEtServices:Extracommunautaires
+    note 40113 - Fournisseurs extracommunautaires
+
+account Tiers:Fournisseurs:AchatsDeBiensEtServices:Divers
+    note 40119 - Fournisseurs divers
+
+account Tiers:Fournisseurs:RetenuesDeGarantie
+    note 4017 - Fournisseurs - Retenues de garantie
+
+account Tiers:Fournisseurs:FacturesNonParvenues
+    note 408 - Fournisseurs - Factures non parvenues
+
+; 41 - Clients
+account Tiers:Clients
+    note 411 - Clients
+
+account Tiers:Clients:VentesDeBiensOuServices
+    note 4111 - Clients - Ventes de biens ou de prestations de services
+
+account Tiers:Clients:VentesDeBiensOuServices:Nationaux
+    note 41111 - Clients nationaux
+
+account Tiers:Clients:VentesDeBiensOuServices:Intracommunautaires
+    note 41112 - Clients intracommunautaires
+
+account Tiers:Clients:VentesDeBiensOuServices:Extracommunautaires
+    note 41113 - Clients extracommunautaires
+
+account Tiers:Clients:VentesDeBiensOuServices:Divers
+    note 41119 - Clients divers
+
+account Tiers:Clients:ProduitsNonEncoreFacturés
+    note 418 - Clients - Produits non encore facturés
+
+; 42 - Personnel et comptes rattachés
+account Tiers:Personnel:RémunérationsDues
+    note 421 - Personnel - Rémunérations dues
+
+; 43 - Sécurité sociale et autres organismes sociaux
+account Tiers:OrganismesSociaux:SécuritéSociale
+    note 431 - Sécurité sociale
+
+account Tiers:OrganismesSociaux:Autres
+    note 437 - Autres organismes sociaux
+
+account Tiers:OrganismesSociaux:Autres:Alan
+    note 4375 - Alan mutuelle
+
+; 44 - État et autres collectivités publiques
+account Tiers:État:ImpôtsSurLesBénéfices
+    note 444 - État - Impôts sur les bénéfices
+
+account Tiers:État:TaxesSurLeChiffreDAffaires
+    note 445 - État - Taxes sur le chiffre d'affaires
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire
+    note 4452 - TVA due intracommunautaire
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire
+    note 4453 - TVA due extracommunautaire
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:ÀDécaisser
+    note 4455 - Taxes sur le chiffre d'affaires à décaisser
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:ÀDécaisser:TVAÀDécaisser
+    note 44551 - TVA à décaisser
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles
+    note 4456 - Taxes sur le chiffre d'affaires déductibles
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurImmobilisations
+    note 44562 - TVA sur immobilisations
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices
+    note 44566 - TVA sur autres biens et services
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire
+    note 445662 - TVA sur autres biens et services intracommunautaire
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire
+    note 445663 - TVA sur autres biens et services extracommunautaire
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:CréditDeTVAÀReporter
+    note 44567 - Crédit de TVA à reporter
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Collectées
+    note 4457 - Taxes sur le chiffre d'affaires collectées
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée
+    note 44571 - TVA collectée
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente
+    note 4458 - Taxes sur le chiffre d'affaires à régulariser ou en attente
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:RemboursementDemandé
+    note 44583 - Remboursement de taxes sur le chiffre d'affaires demandé
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues
+    note 44586 - Taxes sur le chiffre d'affaires sur factures non parvenues
+
+; 45 - Groupe et associés
+account Tiers:GroupeEtAssociés:Groupe
+    note 451 - Groupe
+
+account Tiers:GroupeEtAssociés:AssociésComptesCourants
+    note 455 - Associés - Comptes courants
+
+account Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal
+    note 4551 - Principal
+
+account Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci
+    note 45511 - Comptes courants de Sofiane Baltaci
+
+account Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci:Apports
+    note 455111 - Apports de Sofiane Baltaci
+
+account Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci:Retraits
+    note 455112 - Retraits de Sofiane Baltaci
+
+account Tiers:GroupeEtAssociés:AssociésComptesCourants:IntérêtsCourus
+    note 4558 - Intêrets courus
+
+account Tiers:GroupeEtAssociés:AssociésDividendesÀPayer
+    note 457 - Associés - Dividendes à payer
+
+account Tiers:DébiteursEtCréditeursDivers
+    note 46 - Débiteurs et créditeurs divers
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir
+    note 467 - Divers comptes débiteurs et produits à recevoir
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR
+    note 46711 - Compte Amazon Seller France
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerIT
+    note 46712 - Compte Amazon Seller Italie
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerES
+    note 46713 - Compte Amazon Seller Espagne
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerUK
+    note 46714 - Compte Amazon Seller United Kingdom
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerNL
+    note 46715 - Compte Amazon Seller Netherland
+
+account Tiers:DébiteursEtCréditeursDivers:CompteCréditeursEtChargesÀPayer
+    note 468 - Divers comptes créditeurs et charges à payer
+
+; /* ---------------------- CLASSE 5 : COMPTES FINANCIERS --------------------- */
+
+account Financiers:Banques
+    note 512 - Banques
+
+account Financiers:Banques:ComptesEnEuros
+    note 5121 - Comptes en euros
+
+account Financiers:Banques:ComptesEnEuros:Qonto
+    note 51211 - Banque Qonto - Compte courant
+
+account Financiers:Banques:ComptesEnDevises
+    note 5124 - Comptes en devises
+
+account Financiers:Caisse
+    note 53 - Caisse
+
+
+
+;/* -------------------------------------------------------------------------- */
+;/*                            Comptes de résultats                            */
+;/* -------------------------------------------------------------------------- */
+
+;/* ---------------------- CLASSE 6 : COMPTES DE CHARGES --------------------- */
+account Charges:Achats:StockésMatièresPremièresEtFournitures
+    note 601 - Achats stockés - Matières premières et fournitures
+
+account Charges:Achats:StockésAutresApprovisionnements
+    note 602 - Achats stockés - Autres approvisionnements
+
+account Charges:Achats:NonStockésDeMatièresEtFournitures
+    note 606 - Achats non stockés de matières et fournitures
+
+account Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives
+    note 6064 - Fournitures administratives
+
+account Charges:Achats:RabaisRemisesRistournesObtenusSurAchats
+    note 609 - Rabais, remises et ristournes obtenus sur achats
+
+account Charges:ServicesExtérieurs
+    note 61 - Services extérieurs
+
+account Charges:ServicesExtérieurs:SousTraitanceGénérale
+    note 611 - Sous-traitance générale
+
+account Charges:ServicesExtérieurs:Locations
+    note 613 - Locations
+
+account Charges:ServicesExtérieurs:Locations:Immobilieres
+    note 6132 - Locations immobilières
+
+account Charges:ServicesExtérieurs:Locations:Mobilières
+    note 6135 - Locations mobilières
+
+account Charges:ServicesExtérieurs:Locations:Services
+    note 6138 - Locations services
+
+account Charges:ServicesExtérieurs:Locations:Services:Helium10
+    note 61381 - Service Helium10
+
+account Charges:ServicesExtérieurs:Locations:Services:Keepa
+    note 61382 - Service Keepa
+
+account Charges:ServicesExtérieurs:Locations:Services:DataDive
+    note 61383 - Service DataDive
+
+account Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics
+    note 61384 - Service ExplodingTopics
+
+account Charges:ServicesExtérieurs:Locations:Services:Midjourney
+    note 61385 - Service Midjourney
+
+account Charges:ServicesExtérieurs:Locations:Services:SellerAmp
+    note 61386 - Service SellerAmp
+
+account Charges:ServicesExtérieurs:Locations:Services:PhotoRoom
+    note 61387 - Service PhotoRoom
+
+account Charges:ServicesExtérieurs:Locations:Services:JungleScout
+    note 61388 - Service JungleScout
+
+account Charges:ServicesExtérieurs:Locations:Services:Anthropic
+    note 61389 - Service Anthropic
+
+account Charges:ServicesExtérieurs:Locations:Services:Cursor
+    note 613811 - Service Cursor
+
+account Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere
+    note 613812 - Service Cursor
+
+account Charges:ServicesExtérieurs:EntretienEtRéparation
+    note 615 - Entretien et réparation
+
+account Charges:ServicesExtérieurs:Divers
+    note 618 - Divers
+
+account Charges:ServicesExtérieurs:Divers:DocumentationGénérale
+    note 6181 - Documentation générale
+
+account Charges:AutresServicesExtérieurs
+    note 62 - Autres services extérieurs
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires
+    note 622 - Rémunérations d'intermédiaires et honoraires
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurAchats
+    note 6221 - Commissions et courtages sur achats
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes
+    note 6222 - Commissions et courtages sur ventes
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon
+    note 62221 - Commissions et courtages Amazon sur ventes
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay
+    note 62222 - Commissions et courtages Ebay sur ventes
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:RémDesTransitaires
+    note 6224 - Rémunérations des transitaires
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:RémDAffacturage
+    note 6225 - Rémunérations d'affacturage
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Honoraires
+    note 6226 - Honoraires
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux
+    note 6227 - Frais d'actes et de contentieux
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux:Infogreffe
+    note 62271 - Frais d'actes et de contentieux Infogreffe
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Honoraires:Comptables
+    note 62261 - Honoraires comptables
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Divers
+    note 6228 - Divers
+
+; 623 - Publicité, publications, relations publiques
+account Charges:AutresServicesExtérieurs:Publicité:PPC
+    note 6239 - Publicité PPC en ligne
+
+account Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon
+    note 62391 - Publicité PPC Amazon
+
+; 624 - Transports de biens et transports collectifs du personnel
+account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel
+    note 624 - Transports de biens et transports collectifs du personnel
+
+account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurAchats
+    note 6241 - Transports sur achats
+
+account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes
+    note 6242 - Transports sur ventes
+
+; 625 - Déplacements, missions et réceptions
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions
+    note 625 - Déplacements, missions et réceptions
+
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements
+    note 6251 - Voyages et déplacements
+
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant
+    note 62511 - Carburant
+
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Missions
+    note 6256 - Missions
+
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Réceptions
+    note 6257 - Réceptions
+
+; 626 - Frais postaux et télécommunications
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications
+    note 626 - Frais postaux et de télécommunications
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement
+    note 6261 - Services d'hébergement et cloud computing
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS
+    note 62611 - Services Amazon Web Services
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet
+    note 6262 - Services Internet et noms de domaine
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap
+    note 62621 - Services Namecheap
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio
+    note 62622 - Services Twilio
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Proton
+    note 62623 - Services Proton
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:PhotoRoom
+    note 62624 - Services PhotoRoom
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft
+    note 62625 - Services Microsoft
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Gumroad
+    note 62626 - Services Gumroad
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Apple
+    note 62627 - Services Apple
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone
+    note 6263 - Services télephone
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom
+    note 62631 - Services BouyguesTelecom
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile
+    note 62632 - Services Free Mobile
+
+account Charges:AutresServicesExtérieurs:ServicesBancaires
+    note 627 - Services bancaires et assimilés
+
+account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte
+    note 6271 - Frais de tenue de compte
+
+account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto
+    note 62711 - Abonnement Qonto
+
+account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise
+    note 6272 - Frais de paiement en devise
+
+account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto
+    note 62721 - Frais de paiement en devise Qonto
+
+account Charges:AutresServicesExtérieurs:Divers
+    note 628 - Divers
+
+account Charges:AutresServicesExtérieurs:Adhésions
+    note 6281 - Adhésions et cotisations  
+
+account Charges:AutresServicesExtérieurs:Adhésions:Costco
+    note 62811 - Adhésion Costco
+
+account Charges:AutresServicesExtérieurs:Adhésions:Fnac
+    note 62812 - Adhésion Fnac
+
+account Charges:AutresServicesExtérieurs:Adhésions:GS1
+    note 62813 - Adhésion GS1
+
+; 63 - Impôts, taxes et versements assimilés
+account Charges:ImpôtsTaxes:SurRémunérationsImpôts
+    note 631 - Impôts, taxes et versements assimilés sur rémunérations (administrations des impôts)
+
+account Charges:ImpôtsTaxes:SurRémunérationsImpôts:TaxeSurLesSalaires
+    note 6311 - Taxe sur les salaires
+
+; 64 - Charges de personnel
+account Charges:Personnel:RémunérationsDuPersonnel
+    note 641 - Rémunération du personnel
+
+account Charges:Personnel:RémunérationsDuPersonnel:SalairesAppointements
+    note 6411 - Salaires, appointements
+
+account Charges:Personnel:RémunérationsDuPersonnel:CongésPayés
+    note 6412 - Congés payés
+
+account Charges:Personnel:RémunérationsDuPersonnel:PrimesEtGratifications
+    note 6413 - Primes et gratifications
+
+account Charges:Personnel:RémunérationsDuPersonnel:IndémnitésEtAvantagesDivers
+    note 6414 - Indemnités et avantages divers
+
+account Charges:Personnel:RémunérationsDuPersonnel:SupplémentFamilial
+    note 6415 - Supplément familial
+
+account Charges:Personnel:RémunérationDuTravailDeLExploitant
+    note 644 - Rémunération du travail de l'exploitant
+
+account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance
+    note 645 - Cotisations de Sécurité sociale et de prévoyance
+
+account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:URSSAF
+    note 6451 - Cotisations à l'URSSAF
+
+account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:Mutuelles
+    note 6452 - Cotisations aux mutuelles
+
+account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:CaissesDeRetraite
+    note 6453 - Cotisations aux caisses de retraites
+
+account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:FranceTravail
+    note 6454 - Cotisations à France Travail
+
+account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:Autres
+    note 6458 - Cotisations aux autres organismes sociaux
+
+account Charges:Personnel:CotisationsSocialesPersonnellesDeLExploitant
+    note 646 - Cotisations sociales personnelles de l'exploitant
+
+account Charges:AutresChargesDeGestionCourante
+    note 65 - Autres charges de gestion courante
+
+account Charges:AutresChargesDeGestionCourante:Redevances
+    note 651 - Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
+
+account Charges:AutresChargesDeGestionCourante:Redevances:GS1
+    note 6511 - Redevances GS1 France
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine
+    note 6512 - Redevances Noms de domaine
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:mymotherstore.com
+    note 65121 - mymotherstore.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:sophiechiro.com
+    note 65122 - sophiechiro.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:peerpersonal.com
+    note 65123 - peerpersonal.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:social2030.com
+    note 65124 - social2030.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:socldev.com
+    note 65125 - socldev.com
+
+account Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
+    note 658 - Pénalités et autres charges
+
+; 66 - Charges financières
+account Charges:Financières:Intérêts
+    note 661 - Charges d'intérêts
+
+account Charges:Financières:PertesDeChange
+    note 666 - Pertes de change financières
+
+;/* --------------------- CLASSE 7 : COMPTES DE PRODUITS --------------------- */
+account Produits:Ventes:ProduitsFinis
+    note 701 - Ventes de produits finis
+
+account Produits:Ventes:Services
+    note 706 - Prestations de services
+
+account Produits:Ventes:Marchandises
+    note 707 - Ventes de marchandises
+
+account Produits:Ventes:Marchandises:FR
+    note 7071 - Ventes de marchandises FR
+
+account Produits:Ventes:Marchandises:ES
+    note 7072 - Ventes de marchandises ES
+
+account Produits:Ventes:Marchandises:IT
+    note 7073 - Ventes de marchandises IT
+
+account Produits:Ventes:Marchandises:UK
+    note 7074 - Ventes de marchandises UK
+
+account Produits:Ventes:Marchandises:NL
+    note 7075 - Ventes de marchandises NL
+
+account Produits:Financiers:GainsDeChange
+    note 766 - Gains de change financiers
+
+account Produits:Exceptionnels:ProduitsSurExercicesAntérieurs
+    note 772 - Compte à la disposition des entités pour enregistrer, en cours d'exercice les produits sur exercice antérieurs
+
+account Produits:Exceptionnels:Autres
+    note 778 - Autres produits exceptionnels
+
+;/* -------------------------------------------------------------------------- */
+;/*                              Comptes spéciaux                              */
+;/* -------------------------------------------------------------------------- */
+
+;/* ----------------------- CLASSE 8 : COMPTES SPÉCIAUX ---------------------- */
+
+account Spéciaux:RésultatEnInstanceDAffectation
+    note 88 - Résultat en instance d'affectation
+
+account Spéciaux:Bilan:Ouverture
+    note 890 - Bilan d'ouverture
+
+account Spéciaux:Bilan:Clôture
+    note 891 - Bilan de clôture

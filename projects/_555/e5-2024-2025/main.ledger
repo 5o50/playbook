@@ -1,0 +1,18 @@
+# Configurations
+include config/tags.ledger
+include config/commodities.ledger
+include config/payees.ledger
+include config/accounts.ledger
+include config/settings.ledger
+
+# Journaux
+include journals/a-nouveaux.journal
+include journals/banque.journal
+include journals/tresorerie.journal
+include journals/achats.journal
+include journals/ventes.journal
+include journals/caisse.journal
+include journals/salaires.journal
+include journals/operations-diverses.journal
+
+

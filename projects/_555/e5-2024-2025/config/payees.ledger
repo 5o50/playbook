@@ -1,0 +1,46 @@
+account strict
+
+payee Reprise des à-nouveaux
+
+; National
+payee SIE PARIS 11
+payee DGFIP
+payee Houdart AC
+payee Qonto
+payee Amazon Web Services EMEA SARL
+payee Amazon Services Europe S.à r.l.
+payee Amazon Online France SAS
+payee Amazon
+payee Sofiane Baltaci
+payee Greffe du Tribunal de Commerce de Paris
+payee PhotoRoom
+payee Microsoft
+payee Apple
+payee Bouygues Telecom
+payee Keepa
+payee Infogreffe
+payee Costco
+payee Fnac
+payee eBay
+payee Packlink
+payee PhotoRoom
+payee Esso
+payee GS1 France
+payee Free Mobile
+payee La Poste
+
+
+; Extracommunautaire
+payee Proton AG
+payee Twilio
+payee Namecheap
+payee Gumroad
+payee Helium10
+payee DataDive
+payee ExplodingTopics
+payee Midjourney
+payee SellerAmp
+payee Cloudflare
+payee JungleScout
+payee Anthropic
+payee Cursor

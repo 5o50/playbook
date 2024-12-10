@@ -1,0 +1,77 @@
+2024-10-04 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller FR -> Qonto
+    ; NetAmount: EUR 14,60
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR  -14,60 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+2024-10-12 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-10-12 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 40,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     40,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-10-21 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller FR -> Qonto
+    ; NetAmount: EUR 33,63
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR  -33,63 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+2024-10-25 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller FR -> Qonto
+    ; NetAmount: EUR 108,96
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR  -108,96 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+
+2024-10-25 * Sofiane Baltaci
+    ; Document: 
+    ; Description: Retrait d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR -100,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     -100,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
+
+2024-11-06 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 20,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     20,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-11-06 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 20,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     20,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-11-06 * Sofiane Baltaci
+    ; Document: 
+    ; Description: Retrait d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR -30,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     -30,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
+
+2024-11-06 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 80,09
+    Financiers:Banques:ComptesEnEuros:Qonto                                     80,09 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
