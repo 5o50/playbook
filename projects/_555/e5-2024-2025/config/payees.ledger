@@ -28,6 +28,7 @@ payee Esso
 payee GS1 France
 payee Free Mobile
 payee La Poste
+payee Restauration Divers
 
 
 ; Extracommunautaire
@@ -44,3 +45,4 @@ payee Cloudflare
 payee JungleScout
 payee Anthropic
 payee Cursor
+payee Keyword Everywhere

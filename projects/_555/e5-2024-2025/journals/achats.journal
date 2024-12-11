@@ -1,7 +1,7 @@
 2024-10-05 * Microsoft
     ; Document: 2024-10-05-Microsoft-G060751146.pdf
     ; Description: Septembre 2024
-    ; Method: Card **6158
+    ; Method: Card **3282
     ; NetAmount: EUR 14,04
     ; VATRate: 20%
     ; VATAmount: EUR 2,81
@@ -21,7 +21,7 @@
 2024-10-12 * Cursor
     ; Document: 2024-10-12-Cursor-Invoice-B09D7570-0001.pdf
     ; Description: 
-    ; Method: Card **6158
+    ; Method: Card **3282
     ; NetAmount: USD 20.00
     ; ExchangeRate(ECB): EUR/USD 1.0938
     ; ExchangeRate(Bank): EUR/USD 1.0899
@@ -35,7 +35,7 @@
 2024-10-14 * Keepa
     ; Document: 2024-10-14-KeepaInvoice202491915963407b3.pdf
     ; Description: 
-    ; Method: Card **6158
+    ; Method: Card **3282
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
@@ -45,21 +45,23 @@
 2024-10-19 * Keyword Everywhere
     ; Document: 2024-10-19-Keyword-Everywhere-Your Paddle.com Order #66115634-120499578.pdf
     ; Description: 
-    ; Method: Card **6158
-    ; NetAmount: USD 32.40
+    ; Method: Card **3282
+    ; NetAmount: USD 27.00
+    ; VATRate: 20%
+    ; VATAmount: USD 5.40
+    ; GrossAmount: USD 32.40
     ; ExchangeRate(ECB): EUR/USD 1.0847
     ; ExchangeRate(Bank): EUR/USD 1.0822
     ; ExchangeRate(Diff): EUR/USD -0.0025
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -29,94 EUR
-    Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere                                     29,87 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                      -5,97 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     5,97 EUR
+    Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere                                     24,89 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     4,98 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
 2024-10-19 * ExplodingTopics
     ; Document: 
     ; Description: 
-    ; Method: Card **6158
+    ; Method: Card **3282
     ; NetAmount: USD 1.00
     ; ExchangeRate(ECB): EUR/USD 1.0847
     ; ExchangeRate(Bank): EUR/USD 1.0870
@@ -72,7 +74,7 @@
 2024-10-23 * Free Mobile
     ; Document: 2024-10-21-FreeMobile-facture.pdf
     ; Description: 
-    ; Method: Card **6158
+    ; Method: Card **3282
     ; NetAmount: EUR 16,66
     ; VATRate 20%
     ; VATAmount: EUR 3,33
@@ -84,7 +86,7 @@
 2024-10-27 * Microsoft
     ; Document: 2024-10-27-Microsoft-G063238373.pdf
     ; Description: Octobre 2024
-    ; Method: Card **6158
+    ; Method: Card **3282
     ; NetAmount: EUR 14,04
     ; VATRate: 20%
     ; VATAmount: EUR 2,81
@@ -101,3 +103,133 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                             -0,78 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       0,65 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     0,13 EUR
+
+2024-11-12 * Cursor
+    ; Document: 
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.0617
+    ; ExchangeRate(Bank): EUR/USD 1.0627
+    ; ExchangeRate(Diff): EUR/USD +0.0010
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -18,82 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Cursor                                                 18,84 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                       -3,77 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire      3,77 EUR
+    Produits:Financiers:GainsDeChange                                                                    -0,02 EUR
+
+2024-11-13 * Keyword Everywhere
+    ; Document: 2024-11-13-KeywordEverywhere-refund-VAT-Your Paddle.com Order #66115634-120499578
+    ; Description: Refund VAT
+    ; Method: Card **3282
+    ; NetAmount: USD 5.40
+    ; ExchangeRate(ECB): EUR/USD 1.0629
+    ; ExchangeRate(Bank): EUR/USD 1.0588
+    ; ExchangeRate(Diff): EUR/USD -0.0041
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             5,10 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   -4,98 EUR
+    Produits:Financiers:GainsDeChange                                                                  -0,12 EUR
+
+2024-11-14 * Keepa
+    ; Document: 2024-11-14-KeepaInvoice202459756326507b3.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 19,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+
+2024-05-15 * Fnac
+    ; Document: 2024-11-25-Fnac-Apple-Earpods
+    ; Description: Apple Earpods
+    ; Method: Card **3282
+    ; NetAmount: EUR 19,16
+    ; VATRate 20%
+    ; VATAmount: EUR 3,83
+    ; GrossAmount: EUR 22,99
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -22,99 EUR
+    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           19,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,83 EUR
+
+2024-11-23 * Free Mobile
+    ; Document: 2024-11-21-FreeMobile-facture.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 16,66
+    ; VATRate 20%
+    ; VATAmount: EUR 3,33
+    ; GrossAmount: EUR 19,99
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -19,99 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
+
+2024-07-20 * La Poste
+    ; Document: 2024-11-26-LaPoste-F004AA000665974_169639825.pdf
+    ; Description: Livraison FR : Bague 
+    ; Comment: Pas de TVA chez La Poste
+    ; Method: Card **3282
+    ; NetAmount: EUR 1,79
+    Financiers:Banques:ComptesEnEuros:Qonto                                                                 -1,79 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  1,79 EUR
+
+2024-11-27 * Microsoft
+    ; Document: 2024-11-27-Microsoft-G067579889_21ca7f84a8eb456d819aee4ee3310026.pdf
+    ; Description: Novembre 2024
+    ; Method: Card **3282
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+
+2024-12-09 * Restauration Divers
+    ; Document: 2024-12-09-resto-beaubourg.jpeg
+    ; Description: Resto Beaubourg Café
+    ; Method: Card **3282
+    ; NetAmount: EUR 1,36
+    ; VATRate: 10%
+    ; VATAmount: EUR 0,14
+    ; GrossAmount: EUR 1,50
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -1,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,14 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             1,36 EUR
+
+2024-12-10 * Restauration Divers
+    ; Document: 2024-12-10-imperial-house.jpeg
+    ; Description: Imperial House 75004
+    ; Method: Card **3282
+    ; NetAmount: EUR 11,91
+    ; VATRate: 10%
+    ; VATAmount: EUR 1,19
+    ; GrossAmount: EUR 13,10
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -13,10 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    1,19 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            11,91 EUR
+
+2024-12-11 * Restauration Divers
+    ; Document: 2024-12-11-mandarin.jpeg
+    ; Description: Mandarin Rambuteau
+    ; Method: Card **3282
+    ; NetAmount: EUR 9,55
+    ; VATRate: 10%
+    ; VATAmount: EUR 0,95
+    ; GrossAmount: EUR 10,50
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -10,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,95 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             9,55 EUR
+
+2024-12-11 * Restauration Divers
+    ; Document: 2024-12-11-maison-hubert-rambuteau.jpeg
+    ; Description: Maison Hubert Rambuteau Café
+    ; Method: Card **3282
+    ; NetAmount: EUR 1,04
+    ; VATRate: 5,5%
+    ; VATAmount: EUR 0,06
+    ; GrossAmount: EUR 1,10
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -1,10 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,06 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,04 EUR

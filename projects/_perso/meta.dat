@@ -1,9 +1,0 @@
-account Assets:Checking
-account Expenses:Dining
-account Expenses:Groceries
-  payee ^MegaSuperMarket
-account Income:Salary
-
-commodity $
-commodity €
-commodity BTC

@@ -79,3 +79,37 @@ Liabilities
 
 	Credit card balances
 ```
+
+; Asset = Equity + (Income - Expense) + Liability
+;
+; assets (owned)
+; liability (owed)
+; equity (invested)
+; receivables (people owes you)
+; income (inflows)
+; expenses (outflows)
+;
+;Transactions
+;	debits
+;		+ assets / expenses accounts
+;		- liability / equity accounts
+;
+;	credits
+;		- assets / expenses accounts
+;		+ liabilities / equity accounts
+;
+; MRAM
+; (18.32 *1800 + 1200*7.69)/3000
+; $9,228
+; 14.068
+;
+; https://devhints.io/ledger
+;
+; ledger -f life.journal bal -X €
+; ledger -f life.journal bal -X € -U
+; ledger -f life.journal bal -X € -C
+;
+; GENERATE FX RATES
+; https://github.com/benwebber/ledger-fx-rates
+; ledger-fx-rates >> db/fx-rates.dat
+; include fx-rates.dat

@@ -73,9 +73,6 @@ account Tiers:Fournisseurs:AchatsDeBiensEtServices
 account Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux
     note 40111 - Fournisseurs nationaux
 
-account Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom
-    note 401111 - Fournisseurs nationaux - Bouygues Telecom
-
 account Tiers:Fournisseurs:AchatsDeBiensEtServices:Intracommunautaires
     note 40112 - Fournisseurs intracommunautaires
 
@@ -204,29 +201,7 @@ account Tiers:GroupeEtAssociés:AssociésComptesCourants:IntérêtsCourus
 account Tiers:GroupeEtAssociés:AssociésDividendesÀPayer
     note 457 - Associés - Dividendes à payer
 
-account Tiers:DébiteursEtCréditeursDivers
-    note 46 - Débiteurs et créditeurs divers
 
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir
-    note 467 - Divers comptes débiteurs et produits à recevoir
-
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR
-    note 46711 - Compte Amazon Seller France
-
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerIT
-    note 46712 - Compte Amazon Seller Italie
-
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerES
-    note 46713 - Compte Amazon Seller Espagne
-
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerUK
-    note 46714 - Compte Amazon Seller United Kingdom
-
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerNL
-    note 46715 - Compte Amazon Seller Netherland
-
-account Tiers:DébiteursEtCréditeursDivers:CompteCréditeursEtChargesÀPayer
-    note 468 - Divers comptes créditeurs et charges à payer
 
 ; /* ---------------------- CLASSE 5 : COMPTES FINANCIERS --------------------- */
 
@@ -264,9 +239,6 @@ account Charges:Achats:NonStockésDeMatièresEtFournitures
 account Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives
     note 6064 - Fournitures administratives
 
-account Charges:Achats:RabaisRemisesRistournesObtenusSurAchats
-    note 609 - Rabais, remises et ristournes obtenus sur achats
-
 account Charges:ServicesExtérieurs
     note 61 - Services extérieurs
 
@@ -282,50 +254,8 @@ account Charges:ServicesExtérieurs:Locations:Immobilieres
 account Charges:ServicesExtérieurs:Locations:Mobilières
     note 6135 - Locations mobilières
 
-account Charges:ServicesExtérieurs:Locations:Services
-    note 6138 - Locations services
-
-account Charges:ServicesExtérieurs:Locations:Services:Helium10
-    note 61381 - Service Helium10
-
-account Charges:ServicesExtérieurs:Locations:Services:Keepa
-    note 61382 - Service Keepa
-
-account Charges:ServicesExtérieurs:Locations:Services:DataDive
-    note 61383 - Service DataDive
-
-account Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics
-    note 61384 - Service ExplodingTopics
-
-account Charges:ServicesExtérieurs:Locations:Services:Midjourney
-    note 61385 - Service Midjourney
-
-account Charges:ServicesExtérieurs:Locations:Services:SellerAmp
-    note 61386 - Service SellerAmp
-
-account Charges:ServicesExtérieurs:Locations:Services:PhotoRoom
-    note 61387 - Service PhotoRoom
-
-account Charges:ServicesExtérieurs:Locations:Services:JungleScout
-    note 61388 - Service JungleScout
-
-account Charges:ServicesExtérieurs:Locations:Services:Anthropic
-    note 61389 - Service Anthropic
-
-account Charges:ServicesExtérieurs:Locations:Services:Cursor
-    note 613811 - Service Cursor
-
-account Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere
-    note 613812 - Service Cursor
-
 account Charges:ServicesExtérieurs:EntretienEtRéparation
     note 615 - Entretien et réparation
-
-account Charges:ServicesExtérieurs:Divers
-    note 618 - Divers
-
-account Charges:ServicesExtérieurs:Divers:DocumentationGénérale
-    note 6181 - Documentation générale
 
 account Charges:AutresServicesExtérieurs
     note 62 - Autres services extérieurs
@@ -339,12 +269,6 @@ account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Comms
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes
     note 6222 - Commissions et courtages sur ventes
 
-account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon
-    note 62221 - Commissions et courtages Amazon sur ventes
-
-account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay
-    note 62222 - Commissions et courtages Ebay sur ventes
-
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:RémDesTransitaires
     note 6224 - Rémunérations des transitaires
 
@@ -357,31 +281,11 @@ account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Honor
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux
     note 6227 - Frais d'actes et de contentieux
 
-account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux:Infogreffe
-    note 62271 - Frais d'actes et de contentieux Infogreffe
-
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Honoraires:Comptables
     note 62261 - Honoraires comptables
 
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Divers
     note 6228 - Divers
-
-; 623 - Publicité, publications, relations publiques
-account Charges:AutresServicesExtérieurs:Publicité:PPC
-    note 6239 - Publicité PPC en ligne
-
-account Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon
-    note 62391 - Publicité PPC Amazon
-
-; 624 - Transports de biens et transports collectifs du personnel
-account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel
-    note 624 - Transports de biens et transports collectifs du personnel
-
-account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurAchats
-    note 6241 - Transports sur achats
-
-account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes
-    note 6242 - Transports sur ventes
 
 ; 625 - Déplacements, missions et réceptions
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions
@@ -389,9 +293,6 @@ account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions
 
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements
     note 6251 - Voyages et déplacements
-
-account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant
-    note 62511 - Carburant
 
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Missions
     note 6256 - Missions
@@ -433,15 +334,6 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:I
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Apple
     note 62627 - Services Apple
 
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone
-    note 6263 - Services télephone
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom
-    note 62631 - Services BouyguesTelecom
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile
-    note 62632 - Services Free Mobile
-
 account Charges:AutresServicesExtérieurs:ServicesBancaires
     note 627 - Services bancaires et assimilés
 
@@ -456,21 +348,6 @@ account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDev
 
 account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto
     note 62721 - Frais de paiement en devise Qonto
-
-account Charges:AutresServicesExtérieurs:Divers
-    note 628 - Divers
-
-account Charges:AutresServicesExtérieurs:Adhésions
-    note 6281 - Adhésions et cotisations  
-
-account Charges:AutresServicesExtérieurs:Adhésions:Costco
-    note 62811 - Adhésion Costco
-
-account Charges:AutresServicesExtérieurs:Adhésions:Fnac
-    note 62812 - Adhésion Fnac
-
-account Charges:AutresServicesExtérieurs:Adhésions:GS1
-    note 62813 - Adhésion GS1
 
 ; 63 - Impôts, taxes et versements assimilés
 account Charges:ImpôtsTaxes:SurRémunérationsImpôts
@@ -522,33 +399,6 @@ account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:Autres
 account Charges:Personnel:CotisationsSocialesPersonnellesDeLExploitant
     note 646 - Cotisations sociales personnelles de l'exploitant
 
-account Charges:AutresChargesDeGestionCourante
-    note 65 - Autres charges de gestion courante
-
-account Charges:AutresChargesDeGestionCourante:Redevances
-    note 651 - Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
-
-account Charges:AutresChargesDeGestionCourante:Redevances:GS1
-    note 6511 - Redevances GS1 France
-
-account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine
-    note 6512 - Redevances Noms de domaine
-
-account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:mymotherstore.com
-    note 65121 - mymotherstore.com
-
-account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:sophiechiro.com
-    note 65122 - sophiechiro.com
-
-account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:peerpersonal.com
-    note 65123 - peerpersonal.com
-
-account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:social2030.com
-    note 65124 - social2030.com
-
-account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:socldev.com
-    note 65125 - socldev.com
-
 account Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
     note 658 - Pénalités et autres charges
 
@@ -568,27 +418,6 @@ account Produits:Ventes:Services
 
 account Produits:Ventes:Marchandises
     note 707 - Ventes de marchandises
-
-account Produits:Ventes:Marchandises:FR
-    note 7071 - Ventes de marchandises FR
-
-account Produits:Ventes:Marchandises:ES
-    note 7072 - Ventes de marchandises ES
-
-account Produits:Ventes:Marchandises:IT
-    note 7073 - Ventes de marchandises IT
-
-account Produits:Ventes:Marchandises:UK
-    note 7074 - Ventes de marchandises UK
-
-account Produits:Ventes:Marchandises:NL
-    note 7075 - Ventes de marchandises NL
-
-account Produits:Annexes
-    note 708 Produits des activités annexes
-
-account Produits:Annexes:PortsEtFraisAccessoiresFacturés
-    note 7085 - Ports et frais accessoires facturés
 
 account Produits:Financiers:GainsDeChange
     note 766 - Gains de change financiers

@@ -75,3 +75,18 @@
     ; NetAmount: EUR 80,09
     Financiers:Banques:ComptesEnEuros:Qonto                                     80,09 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-12-04 * Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 50,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2024-12-06 * Amazon Services Europe S.à r.l.
+    ; Document: 
+    ; Description: Décaissement Amazon Seller FR -> Qonto
+    ; NetAmount: EUR 10,39
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR  -10,39 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto

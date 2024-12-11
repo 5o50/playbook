@@ -1,0 +1,15 @@
+
+account Assets:Robinhood
+account Assets:Robinhood:Stocks
+account Assets:Robinhood:BTC
+account Assets:Robinhood:Checking
+
+account Assets:Boursorama
+account Assets:Boursorama:Checking
+account Assets:Boursorama:Savings
+
+account Equity:Opening Balances
+
+account Expenses:Dining
+account Expenses:Groceries
+account Income:Salary

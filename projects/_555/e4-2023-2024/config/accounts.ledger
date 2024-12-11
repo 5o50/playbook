@@ -210,20 +210,30 @@ account Tiers:DébiteursEtCréditeursDivers
 account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir
     note 467 - Divers comptes débiteurs et produits à recevoir
 
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR
-    note 46711 - Compte Amazon Seller France
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1FR
+    note 46711 - Compte Amazon Seller 1 France
 
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerIT
-    note 46712 - Compte Amazon Seller Italie
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1IT
+    note 46712 - Compte Amazon Seller 1 Italie
 
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerES
-    note 46713 - Compte Amazon Seller Espagne
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller1ES
+    note 46713 - Compte Amazon Seller 1 Espagne
 
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerUK
-    note 46714 - Compte Amazon Seller United Kingdom
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2FR
+    note 46721 - Compte Amazon Seller 2 France
 
-account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerNL
-    note 46715 - Compte Amazon Seller Netherland
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2IT
+    note 46722 - Compte Amazon Seller 2 Italie
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2ES
+    note 46723 - Compte Amazon Seller 2 Espagne
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2UK
+    note 46724 - Compte Amazon Seller 3 United Kingdom
+
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2NL
+    note 46725 - Compte Amazon Seller 3 Netherland
+
 
 account Tiers:DébiteursEtCréditeursDivers:CompteCréditeursEtChargesÀPayer
     note 468 - Divers comptes créditeurs et charges à payer
@@ -311,12 +321,6 @@ account Charges:ServicesExtérieurs:Locations:Services:JungleScout
 
 account Charges:ServicesExtérieurs:Locations:Services:Anthropic
     note 61389 - Service Anthropic
-
-account Charges:ServicesExtérieurs:Locations:Services:Cursor
-    note 613811 - Service Cursor
-
-account Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere
-    note 613812 - Service Cursor
 
 account Charges:ServicesExtérieurs:EntretienEtRéparation
     note 615 - Entretien et réparation
