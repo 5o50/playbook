@@ -111,6 +111,6 @@ pas de blagues et encore moins salaces, sauf entre homme apres minuit
 
 Le rire pour sauver la face dans des situations tendues
 
-Des problème à gérer ce n'est pas celà qu'il manque alors autant prendre les choses avec le sourire
+Des problème à gérer en chine ce n'est pas celà qu'il manque alors autant prendre les choses avec le sourire
 
 En cas de probleme en chine  faire appel a un mediateur

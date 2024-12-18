@@ -1,28 +1,19 @@
-
-https://compute-cost.com/
-
-Heztner
-
-cx22 (4.55eur/month)
-2vCPU
-4GB RAM
-40GB SSD
-20 TB ingress/egress
-1 Gbps link
-
-OVHCloud (5.99eur/month)
+OVHCloud VLE-2 -- 5€/mo
 2vCPU
 2GB RAM
-40GB SSD
-20 TB ingress/egress
-500 Mbps link unlimited
+40GB SSD NVMe
+500 Mbps bande passante for unlimited ingress/egress
 
-Scaleway (10.99eur/month)
+Heztner CX22 -- 3,79€/mo
 2vCPU
 4GB RAM
 40GB SSD
-20 TB ingress/egress
-1 Gbps link
+1 Gbps link for 20 TB ingress/egress then 1€/TB
+
+DigitalOcean Basic Droplet 2GB -- $18/mo
+2vCPU
+2GB RAM
+60GB SSD NVMe
+1 Gbps link for 3TB ingress/egress then 10€/TB
 
 
-https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/

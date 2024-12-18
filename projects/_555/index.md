@@ -1,73 +1,24 @@
-💟 555 Group
-===
-> keep your global mindset
+site internet maintenu par un développeur expérimenté
+le type de site, les fonctionnalités requises, et le niveau de service souhaité
 
-> ALL THE COUNTRIES COMPETE FOR INCORPORATIONS.
+dev/strategist + web hosting + domain name + design + ssl + analytics + seo + emails + plugins + updates + support
+duree de vie site sans mise a jour 3 ans (36 mois)
 
-the Jasons
+## Content Website
+Basic:    900€ + 30€/mois  sur 36 mois = 900€ + 1080€ = 1980€ = 55€/mois
+Premium: 5000€ + 100€/mois sur 36 mois = 5000€ + 3600€ = 8600€ = 239€/mois
 
-Akatsuki
+## Ecommerce Website
+Basic:    3000€ + 50€/mois  sur 36 mois = 3000€ + 1800€ = 4800€ = 133€/mois
+Premium: 10000€ + 200€/mois sur 36 mois = 10000€ + 7200€ = 17200€ = 478€/mois
 
-[https://en.wikipedia.org/wiki/555_timer_IC](https://en.wikipedia.org/wiki/555_timer_IC)
+Fast, SEO Friendly
+Support 24/7
+No upfront fees
+No hidden fees
 
-amour amour amour
+mises à jour
+correction de bugs
+ajout de contenu
 
-khamsa, khamsa, khamsa
 
-change, change, change
-
-sante, sante, santé
-
-money, money, money
-
-wu, wu, wu
-
-ha, ha, ha
-
-radical love
-
-amour — on est ensemble pour toujours.
-
-3^07  
-
-70^3
-
-12 - 15 - 22 - 5
-
-2187 Arthur Lipsett
-
-[https://www.youtube.com/watch?v=cFn-NobVaoI](https://www.youtube.com/watch?v=cFn-NobVaoI)
-
-3, 7
-
-[https://en.wikipedia.org/wiki/Lucky_number](https://en.wikipedia.org/wiki/Lucky_number)
-
-[https://www.scientificamerican.com/article/the-number-2-187-is-lucky-here-s-why/](https://www.scientificamerican.com/article/the-number-2-187-is-lucky-here-s-why/)
-
-[https://en.wikipedia.org/wiki/Masterpiece](https://en.wikipedia.org/wiki/Masterpiece)
-
-Masterpiece, magnum opus
-
-Bliss Holdings Inc
-
-Elysium Holdings Inc
-
-Nirvana Holdings Inc
-
-Candide Holdings Inc
-
-SFB Holding — Soul/ Love/Amour — 
-
-Love Holding
-
-'A holding company is a business entity that has no operations and does not conduct any activities. It owns assets. These assets could be shares of other companies, hedge funds, real estate, trademarks, patents or units in partnerships. Grouping companies together under a holding company gives them advantages they would not have when operating as separate entities."
-
-“yes” to “life” – all of it.
-
-radical love of life
-
-any form of it
-
-keep alive the faith, the resilience, and the strength not to act out of violence, pain, or fear.
-
-To affirm life, for him, is to cultivate a visceral engagement with the creative energy of life so deep and strong that it overflows in feelings of extreme joy.

@@ -1,5 +1,13 @@
 # Domain Name Analysis Guide
 
+### Domaines
+- [Expired Domains](https://expireddomains.net/)
+- [Instant Domains](https://instantdomains.com/search/extensions)
+- [Domainr](https://domainr.com/)
+- [Phonics Word List](https://www.phonicswordlist.com/)
+- [Soybomb Word Tricks](https://www.soybomb.com/tricks/words/)
+
+
 ## Useful Resources
 - [Domain Name Pattern Filter Explained](https://member.expireddomains.net/article/domain-name-pattern-filter-explained-15110.html)
 - [Find High Quality Expired Domains](https://www.domcop.com/how-to/find-high-quality-expired-domains)
