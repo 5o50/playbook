@@ -1,146 +1,73 @@
-# Domain Name Analysis Guide
 
-### Domaines
-- [Expired Domains](https://expireddomains.net/)
-- [Instant Domains](https://instantdomains.com/search/extensions)
-- [Domainr](https://domainr.com/)
-- [Phonics Word List](https://www.phonicswordlist.com/)
-- [Soybomb Word Tricks](https://www.soybomb.com/tricks/words/)
+**SpamZilla/ExpiredDomains.net/DomCop/NameJet/Snapnames/Dynadot**
+https://trends.google.com/trends/explore?date=today%205-y&q=spamzilla,domcop,expireddomains&hl=en
+**Instant Domains/Domainr/Cloudflare**
+**Archive.org** pour l'historique
+**12backlinks/SEOKicks** pour les backlinks
 
+# Filters
+.com / .org
+Ahrefs DR > 20
+SZ Score Under 20
+TF > 2
 
-## Useful Resources
-- [Domain Name Pattern Filter Explained](https://member.expireddomains.net/article/domain-name-pattern-filter-explained-15110.html)
-- [Find High Quality Expired Domains](https://www.domcop.com/how-to/find-high-quality-expired-domains)
-- [Buying Expired Domains Guide](https://www.domcop.com/blog/buying-expired-domains/)
-- [Building Private Blog Network](https://www.domcop.com/blog/building-private-blog-network/)
+expect $100-$200
+per 100 referring domains
 
-## Domain Services
-- [Snapnames](https://www.snapnames.com/download.action?format=csv) (PR2, DA 29, TF 29)
-- [Dynadot](https://www.dynadot.com/)
+> bet on the weekend, and last minute
+on weekend you can find more HQ domains that are not being bet on
+people bet from monday to friday
 
-## Brand Name Analysis
+> dont compete but bet 5 minute before the auction ends
 
-### By Length
-1. 2 Characters: JD, TD
-2. 3 Characters: IBM, UPS, SAP, AMD, RBC, NTT, BMW, AXA, DHL
-3. 4 Characters: Visa, AT&T, Nike, Tata, HDFC, Xbox, Gucci, ICBC, Lowe, IKEA, ZARA, UBER, Sony
-4. 5 Characters: Apple, Tesla, Adobe, Cisco, Texas, Intel, Haier, Shein, China, Chase, Pepsi, FedEx, Shell
-5. 6 Characters: Google, Amazon, Oracle, Moutai, Hermes, Nvidia, Chanel, Costco, Disney, TikTok, Intuit, L'Oréal, Huawei, PayPal, Toyota, Morgan, Bharti, Nongfu
-6. 7 Characters: Tencent, Alibaba, Verizon, T-Mobile, Walmart, YouTube, Netflix, Xfinity, Samsung, Meituan, Infosys, Mercado, Siemens, Lancôme, Colgate, Pampers
-7. 8 Characters: McDonald, CocaCola, Facebook, Marlboro, Qualcomm, LinkedIn, Spectrum, American, Vodafone, Mercedes, Kentucky
-8. 9 Characters: Microsoft, HomeDepot, Accenture, Starbucks, Instagram, Budweiser
-9. 10 Characters: MasterCard, Salesforce, WellsFargo, ExxonMobil
-10. 11 Characters: SaudiAramco
-11. 12 Characters: LouisVuitton
+> new expired domains appear on spamzilla after 9pm EST
 
-### Acronym Patterns
-- C+C: JD, TD
-- C+C+C: DHL, BMW, NTT, RBC
-- C+V+C: SAP
-- V+C+C: IBM, UPS, AMD
-- V+C+C+C: AT&T, ICBC
-- C+C+C+C: HDFC
+sport
+fitness
+photo
+home
+shop
+chat
 
-### By Pattern Structure
-1. Single Syllable
-   - CVC: Musk, Shell, Chase, Ping, Bank
-   - CVCC, CCVCC, CCVCV, CVCC
+chronowin.com
+tempogain.com
 
-2. Two Syllables
-   - C+CV: Temu
-   - C+CVC: Xbox
-   - V+CVC: Uber, Elon, Apple
-   - VC+CVC: Intel, Exxon, Intuit
-   - CV+CV: Tata, Zara, China, Bharti, Nongfu, Visa, Lowe, Nike, Sony, Yeezy
-   - CV+V: Goa
-   - VCV: AXA
-   - CV+VC: Louis, Haier, Shein
-   - CV+CVC: Siemens, Chanel, Google, Vuitton, YouTube, Meituan, Dofus
-   - CVC+CV: Tesla, Cisco, Pepsi, Gucci, Huawei, Costco, Timbo
-   - CVC+VC: Rolex, FedEx, Texas, Sofiane
-   - CVC+CVC: Facebook, Salesforce, Hermès, PayPal, Disney, TikTok, Morgan, Tencent, Walmart, Samsung, Pampers, Colgate, Lancôme, Netflix, Spectrum, Starbucks, Qualcomm, LinkedIn
+wellnexe.com
 
-3. Three Syllables
-   - CV+CV+CV: Toyota
-   - CVC+CVC+CVC: Budweiser
-   - CVC+CV+CV: Mercado, HomeDepot, Baltaci, Marlboro, Kentucky
-   - CVC+CV+CVC: McDonald
-   - CVC+CVC+CV: WellsFargo
-   - CV+V+CV: Saudi
-   - CV+CV+CVC: Infosys, Vodafone, Mercedes
-   - CV+CV+VC: Loréal
-   - CV+CCV+CVC: MasterCard, Microsoft
-   - V+CVC+CVC: Accenture
-   - C+CV+CV: Nvidia
-   - C+CV+CVC: Verizon, TMobile
-   - V+CV+V: IKEA
-   - V+CV+CV: Adobe
-   - V+CV+CVC: Amazon
-   - V+CV+CCV: Oracle, Instagram
-   - V+CV+CV+CV: Alibaba
-   - V+CV+CV+CVC: American
-   - V+CVC+CV: Aramco
+suggera.com
 
-4. Four Syllables
-   - C+CV+CV+CV: Xfinity
-   - CV+CV+CV+CV: CocaCola
+supami.com
 
-### Brand Names by First Letter
-A: Amazon, Apple, Adobe, Alibaba, Airbnb, etc.
-B: Balenciaga, Blackberry, Bentley, Boeing, etc.
-C: Canon, Cassandra, Cartier, Coca-Cola, etc.
-[... continue for other letters]
+giovato.com - vitamin gummies
+https://www.perplexity.ai/search/what-does-giovato-means-NjoNatNwSz2TVrWaKZtNoA
+https://www.google.com/search?sca_esv=e98d75d65961b199&rlz=1C1SNKR_frFR1133FR1133&q=vitamin+gummies&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCCJug3WzoI_0_7bcYmDUufyiZo0OmOGEiyRGYAdeCNb_tgonlqxDXOkzLGfvcTq6KyG2-GEkd6NM0jra8ChYFqVDIOc4NAj4qZNRycf-eBlQy99_ce1czrcvtn91z0JUXppOVm8&sa=X&sqi=2&ved=2ahUKEwiSzq2P1LeKAxVXSKQEHZYnJuUQtKgLegQIKBAB&biw=1836&bih=1197&dpr=1
+https://www.perplexity.ai/search/comment-manufacturer-des-vitam-Bmro6JtZQ5GbS_tFZ7c5jA
+https://cevrai.fr/faconnage-complements-alimentaires-gommes-gummies/
+https://gummies.fr/
+https://activinside.com/fr/nos-solutions-nutraceutiques/faconnage-complement-alimentaire/gummies/
 
-### Statistical Analysis
-- Most Common Starting Letters:
-  - s (10 occurrences)
-  - a (9 occurrences)
-  - m (9 occurrences)
-  - etc.
+pegaseo.com
 
-- Most Common Ending Letters:
-  - e (16 occurrences)
-  - s (9 occurrences)
-  - a (8 occurrences)
-  - etc.
+transluto.com
 
-- Most Used Vowels:
-  - a (62 occurrences)
-  - e (60 occurrences)
-  - i (42 occurrences)
-  - o (42 occurrences)
-  - u (20 occurrences)
+yokuz.com
 
-- Most Used Consonants:
-  - t (38 occurrences)
-  - n (37 occurrences)
-  - c (35 occurrences)
-  - s (35 occurrences)
-  - l (30 occurrences)
+evero.com
 
-## Common English Syllables
-1. Most Frequent:
-   - ing
-   - er
-   - a
-   - ly
-   - ed
-   [... autres syllabes communes]
+technicgolf.com
 
-## Brand Pattern Analysis
-### C-BRAND Patterns
-CCCCV, CCCVC, CCCVV, CCVCC, CCVCV, CCVVC, CCVVV, CVCCC, CVCCV, CVCVC, CVCVV, CVVCC, CVVCV, CVVVC, CVVVV
+photoverdict.com
+photomentor.com
+# https://www.dpreview.com/
+# https://fstoppers.com/
 
-### V-BRAND Patterns
-VCCCC, VCCCV, VCCVC, VCCVV, VCVCC, VCVCV, VCVVC, VCVVV, VVCCC, VVCCV, VVCVC, VVCVV, VVVCC, VVVCV, VVVVC
-
-### Statistics
-- Pending: 11551
-- Deleted: 56711
-- 5 letters - LLLLL
-- C-brands: 4367
-- V-brands: 1639
-- Deleted: 22037
-- Deleted: 8816
-
-Note: C = Consonant, V = Vowel
+geonmaps.com
+geongrid.com
+https://gridfinder.rdrn.me/
+https://liveuamap.com/
+https://apps.apple.com/us/app/liveuamap/id1003808504
+https://weedmaps.com/
+https://datacatalog.worldbank.org/infrastructure-data
+https://ourworldindata.org/energy-mix
+https://www.electricitymaps.com/
+https://app.electricitymaps.com/map/72h
