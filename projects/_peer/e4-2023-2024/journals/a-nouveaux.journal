@@ -6,7 +6,7 @@
     Financiers:Caisse                                                                   0,00 EUR
     ; Liabilities
     Capitaux:CapitalEtRéserves:Capital                                                  -1000,00 EUR
-    Capitaux:ReportÀNouveau:SoldeCréditeur                                              3927,78 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              3927,78 EUR
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci            -2814,91 EUR
     ; correspond aux dettes envers houdart ac uniquement qui on été réglés et annulés
     Tiers:Fournisseurs                                                                 -390,00 EUR

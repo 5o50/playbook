@@ -242,8 +242,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0031
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -74,57 EUR
     Charges:ServicesExtérieurs:Locations:Services:Helium10                                              74,35 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -14,87 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    14,87 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -14,87 EUR
     Charges:Financières:PertesDeChange                                                                   0,22 EUR
 
 2024-04-27 * Bouygues Telecom
@@ -269,8 +269,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0013
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -36,27 EUR
     Charges:ServicesExtérieurs:Locations:Services:DataDive                                              36,23 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,25 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     7,25 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,25 EUR
     Charges:Financières:PertesDeChange                                                                   0,04 EUR
 
 2024-05-08 * ExplodingTopics
@@ -282,8 +282,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0753
     ; ExchangeRate(Diff): EUR/USD +0.0010
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -0,93 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -0,19 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    0,19 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -0,19 EUR
     Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                             0,93 EUR
 
 2024-05-10 * Keepa
@@ -292,8 +292,8 @@
     ; Method: Card **6158
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                       19,00 EUR
 
 2024-05-10 * Bouygues Telecom
@@ -317,8 +317,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0038
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -27,89 EUR
     Charges:ServicesExtérieurs:Locations:Services:Midjourney                                            27,79 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -5,56 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     5,56 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -5,56 EUR
     Charges:Financières:PertesDeChange                                                                   0,10 EUR
 
 2024-05-13 * DataDive
@@ -331,8 +331,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0031
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -82,29 EUR
     Charges:ServicesExtérieurs:Locations:Services:DataDive                                              82,06 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -16,41 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    16,41 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -16,41 EUR
     Charges:Financières:PertesDeChange                                                                   0,23 EUR
 
 2024-05-15 * Infogreffe
@@ -408,18 +408,6 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           48,31 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       9,67 EUR
 
-2024-05-19 * Amazon
-    ; Document: 2024-05-17-Amazon.fr - Commande 405-0754774-9327505.pdf
-    ; Description: etiquettes
-    ; Method: Card **6158
-    ; NetAmount: EUR 48,31
-    ; VATRate 20%
-    ; VATAmount: EUR 9,67
-    ; GrossAmount: EUR 57,98
-    Financiers:Banques:ComptesEnEuros:Qonto                                                              -57,98 EUR
-    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           48,31 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       9,67 EUR
-
 2024-05-20 * Amazon
     ; Document: 2024-05-20-amazon-HXT202405296393925.pdf
     ; Description: sample wifi router
@@ -441,8 +429,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0035
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,44 EUR
     Charges:ServicesExtérieurs:Locations:Services:SellerAmp                                             18,38 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,68 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,68 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,68 EUR
     Charges:Financières:PertesDeChange                                                                  0,06 EUR
 
 2024-05-24 * Packlink
@@ -465,8 +453,8 @@
     ; VATAmount: EUR 4,50
     ; GrossAmount: EUR 26,99
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                                 -26,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         22,49 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
 
 2024-05-29 * DataDive
     ; Document: 2024-05-29-DataDive-Refund-3167-0072.pdf
@@ -478,8 +466,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0006
     Financiers:Banques:ComptesEnEuros:Qonto                                                             81,63 EUR
     Charges:ServicesExtérieurs:Locations:Services:DataDive                                             -81,59 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -16,32 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    16,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -16,32 EUR
     Produits:Financiers:GainsDeChange                                                                  -0,04 EUR
 
 2024-05-29 * PhotoRoom
@@ -537,8 +525,8 @@
     ; VATAmount: EUR 7,80
     ; GrossAmount: EUR 46,80
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -46,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   7,80 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon   39,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   7,80 EUR
 
 2024-06-05 * Microsoft
     ; Document: 2024-06-05-Microsoft-G049203656.pdf
@@ -587,19 +575,6 @@
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant     16,67 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
 
-
-2024-06-30 * eBay
-    ; Document: 2024-06-30-Ebay-2636928141_2024-6.pdf
-    ; Description: Frais d'inscription vendeur et frais unique ebay
-    ; Method: Direct Debit
-    ; NetAmount: EUR 19,50
-    ; VATRate 20%
-    ; VATAmount: EUR 3,90
-    ; GrossAmount: EUR 23,40
-    Financiers:Banques:ComptesEnEuros:Qonto                                                               -23,40 EUR
-    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       19,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      3,90 EUR
-
 2024-06-12 * Costco
     ; Document: 
     ; Description: Part de pizza deplacement pro achat de marchandise 
@@ -636,8 +611,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0052
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -36,34 EUR
     Charges:ServicesExtérieurs:Locations:Services:DataDive                                              36,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,23 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     7,23 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,23 EUR
     Charges:Financières:PertesDeChange                                                                   0,18 EUR
 
 2024-06-13 * Amazon
@@ -655,8 +630,8 @@
     ; Method: Card **6158
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                            19,00 EUR
 
 
@@ -669,8 +644,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0666
     ; ExchangeRate(Diff): EUR/USD -0.0022
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,83 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,83 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,83 EUR
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:mymotherstore.com                   9,14 EUR
     Charges:Financières:PertesDeChange                                                                  0,02 EUR
 
@@ -683,8 +658,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0668
     ; ExchangeRate(Diff): EUR/USD -0.0020
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,70 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,73 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,73 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,73 EUR
     Charges:ServicesExtérieurs:Locations:Services:SellerAmp                                             18,67 EUR
     Charges:Financières:PertesDeChange                                                                  0,03 EUR
 
@@ -719,8 +694,21 @@
     ; VATAmount: EUR 4,66
     ; GrossAmount: EUR 27,95
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                                 -27,95 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,66 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         23,29 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,66 EUR
+
+
+2024-06-30 * eBay
+    ; Document: 2024-06-30-Ebay-2636928141_2024-6.pdf
+    ; Description: Frais d'inscription vendeur et frais unique ebay
+    ; Method: Direct Debit
+    ; NetAmount: EUR 19,50
+    ; VATRate 20%
+    ; VATAmount: EUR 3,90
+    ; GrossAmount: EUR 23,40
+    Financiers:Banques:ComptesEnEuros:Qonto                                                               -23,40 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       19,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      3,90 EUR
 
 
 2024-06-30 * Amazon
@@ -811,8 +799,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0033
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -35,92 EUR
     Charges:ServicesExtérieurs:Locations:Services:DataDive                                              35,81 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,16 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     7,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -7,16 EUR
     Charges:Financières:PertesDeChange                                                                   0,11 EUR
 
 2024-07-14 * Keepa
@@ -821,8 +809,8 @@
     ; Method: Card **6158
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                            19,00 EUR
 
 2024-07-13 * Packlink
@@ -854,8 +842,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0020
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,20 EUR
     Charges:ServicesExtérieurs:Locations:Services:Midjourney                                            9,18 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -1,84 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     1,84 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -1,84 EUR
     Charges:Financières:PertesDeChange                                                                   0,02 EUR
 
 2024-07-23 * SellerAmp
@@ -868,8 +856,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0012
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,35 EUR
     Charges:ServicesExtérieurs:Locations:Services:SellerAmp                                             18,37 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,67 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,67 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,67 EUR
     Produits:Financiers:GainsDeChange                                                                  -0,02 EUR
 
 2024-07-24 * Amazon Online France SAS
@@ -881,7 +869,7 @@
     ; VATRate: 20%
     ; VATAmount: EUR 0,41
     ; GrossAmount: EUR 2,47
-    Financiers:Banques:ComptesEnEuros:Qonto                                                            -2,47 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2FR               -2,47 EUR
     Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon                                               2,06 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,41 EUR
 
@@ -919,8 +907,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0019
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -45,20 EUR
     Charges:ServicesExtérieurs:Locations:Services:JungleScout                                              45,12 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -9,02 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    9,02 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -9,02 EUR
     Charges:Financières:PertesDeChange                                                                   0,08 EUR
 
 2024-07-28 * JungleScout
@@ -933,8 +921,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0022
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -27,56 EUR
     Charges:ServicesExtérieurs:Locations:Services:JungleScout                                           27,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -5,50 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -5,50 EUR
     Charges:Financières:PertesDeChange                                                                   0,06 EUR
 
 2024-07-31 * eBay
@@ -959,7 +947,7 @@
     ; VATRate: 20%
     ; VATAmount: EUR 5,63
     ; GrossAmount: EUR 33,79
-    Financiers:Banques:ComptesEnEuros:Qonto                                                            -33,79 EUR
+    Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSeller2FR               -33,79 EUR
     Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon                                               28,16 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    5,63 EUR
 
@@ -981,9 +969,9 @@
     ; Method: Card **6158
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                 19,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
 
 2024-08-18 * Packlink
     ; Document: 2024-08-18-Packlink-E24FC03782516.pdf
@@ -1006,8 +994,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0054
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,04 EUR
     Charges:ServicesExtérieurs:Locations:Services:Midjourney                                            9,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -1,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     1,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -1,80 EUR
     Charges:Financières:PertesDeChange                                                                   0,04 EUR
 
 2024-08-21 * Free Mobile
@@ -1032,8 +1020,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0026
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -17,98 EUR
     Charges:ServicesExtérieurs:Locations:Services:SellerAmp                                             17,94 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,59 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,59 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -3,59 EUR
     Charges:Financières:PertesDeChange                                                                  0,04 EUR
 
 2024-08-26 * Cloudflare
@@ -1045,8 +1033,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.1102
     ; ExchangeRate(Diff): EUR/USD -0.0061
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -8,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,75 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,75 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,75 EUR
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:sophiechiro.com                     8,75 EUR
     Charges:Financières:PertesDeChange                                                                  0,05 EUR
 
@@ -1072,8 +1060,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0035
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -22,62 EUR
     Charges:ServicesExtérieurs:Locations:Services:Anthropic                                             22,55 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -4,51 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     4,51 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -4,51 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
 2024-08-31 * eBay
@@ -1110,8 +1098,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.1036
     ; ExchangeRate(Diff): EUR/USD -0.0007
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,46 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,75 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,75 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,75 EUR
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:peerpersonal.com                    9,45 EUR
     Charges:Financières:PertesDeChange                                                                  0,01 EUR
 
@@ -1124,8 +1112,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.1036
     ; ExchangeRate(Diff): EUR/USD -0.0007
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,46 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,75 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,75 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,75 EUR
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:social2030.com                    9,45 EUR
     Charges:Financières:PertesDeChange                                                                  0,01 EUR
 
@@ -1135,8 +1123,8 @@
     ; Method: Card **6158
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                 19,00 EUR
 
 2024-09-22 * Amazon Services Europe S.à r.l.
@@ -1169,8 +1157,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.1083
     ; ExchangeRate(Diff): EUR/USD -0.0050
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,42 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,88 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,88 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -1,88 EUR
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:socldev.com                         9,38 EUR
     Charges:Financières:PertesDeChange                                                                  0,04 EUR
 
@@ -1184,8 +1172,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0047
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,02 EUR
     Charges:ServicesExtérieurs:Locations:Services:Midjourney                                            8,98 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -1,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     1,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -1,80 EUR
     Charges:Financières:PertesDeChange                                                                   0,04 EUR
 
 2024-09-25 * Free Mobile

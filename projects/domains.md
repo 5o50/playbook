@@ -1,9 +1,10 @@
 
 **SpamZilla/ExpiredDomains.net/DomCop/NameJet/Snapnames/Dynadot**
 https://trends.google.com/trends/explore?date=today%205-y&q=spamzilla,domcop,expireddomains&hl=en
+**NameMaxi.com/Namebio.com/Humbleworth** pour estimer la valeur du domaine
 **Instant Domains/Domainr/Cloudflare**
 **Archive.org** pour l'historique
-**12backlinks/SEOKicks** pour les backlinks
+
 
 # Filters
 .com / .org
@@ -11,8 +12,7 @@ Ahrefs DR > 20
 SZ Score Under 20
 TF > 2
 
-expect $100-$200
-per 100 referring domains
+expect $1.5/referring domains
 
 > bet on the weekend, and last minute
 on weekend you can find more HQ domains that are not being bet on
@@ -28,15 +28,21 @@ photo
 home
 shop
 chat
+word
+motor
+space
+pet
+star
 
+favotv.com
+
+worddi.com
 chronowin.com
 tempogain.com
-
 wellnexe.com
-
 suggera.com
-
 supami.com
+wordwideleague.com
 
 giovato.com - vitamin gummies
 https://www.perplexity.ai/search/what-does-giovato-means-NjoNatNwSz2TVrWaKZtNoA
@@ -47,21 +53,24 @@ https://gummies.fr/
 https://activinside.com/fr/nos-solutions-nutraceutiques/faconnage-complement-alimentaire/gummies/
 
 pegaseo.com
+allsizeweb.com
 
 transluto.com
 
 yokuz.com
+
+prettychase.com
+exceljson.com
 
 evero.com
 
 technicgolf.com
 
 photoverdict.com
-photomentor.com
 # https://www.dpreview.com/
 # https://fstoppers.com/
 
-geonmaps.com
+geommaps.com
 geongrid.com
 https://gridfinder.rdrn.me/
 https://liveuamap.com/

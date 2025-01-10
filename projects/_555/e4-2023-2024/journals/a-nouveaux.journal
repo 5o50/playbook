@@ -8,15 +8,27 @@
     Financiers:Caisse                                                                   0,00 EUR
     ; Liabilities
     Capitaux:CapitalEtRéserves:Capital                                                  -1000,00 EUR
-    Capitaux:ReportÀNouveau:SoldeCréditeur                                              8032,81 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              2846,04 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              5186,77 EUR
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci            -6509,84 EUR
     ; correspond aux dettes envers houdart ac uniquement qui on été réglés et annulés
     Tiers:Fournisseurs                                                                 -1327,84 EUR
     Tiers:Fournisseurs:FacturesNonParvenues                                            -444,00 EUR
+    ; correspond a des remboursements de cotisations qui on été comptabilisé comme dette par erreur
     Tiers:OrganismesSociaux:Autres:Alan                                                -153,37 EUR
 
 2023-10-01 * Houdart AC
     ; Description: Annulation FNP de l'exercice précédent - service dossier juridique ne sera pas fourni et aucune facture ne sera émise.
     Tiers:Fournisseurs:FacturesNonParvenues                                             444,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues  -74,00 EUR
+    Produits:Exceptionnels:ProduitsSurExercicesAntérieurs
+
+2023-10-01 * Houdart AC
+    ; Description: rectification erreur à l'exercice précedent dettes envers houdart ac uniquement qui on été réglés et annulés
+    Tiers:Fournisseurs                                                                  1327,84 EUR
+    Produits:Exceptionnels:ProduitsSurExercicesAntérieurs
+
+2023-10-01 * Alan
+    ; Description: Rectification erreur à l'exercice précedent Alan qui correspond à des remboursements de cotisations qui on été comptabilisé comme dette par erreur
+    Tiers:OrganismesSociaux:Autres:Alan                                                 153,37 EUR
     Produits:Exceptionnels:ProduitsSurExercicesAntérieurs
