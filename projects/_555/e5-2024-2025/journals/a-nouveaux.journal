@@ -1,15 +1,13 @@
-# 2024-10-01 * Reprise des à-nouveaux
-#     ; Assets
-#     Immobilisations:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique           987,40 EUR
-#     Immobilisations:Amortissements:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique  -523,87 EUR
-#     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:RemboursementDemandé  731,00 EUR
-#     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues  74,00 EUR
-#     Financiers:Banques:ComptesEnEuros:Qonto                                             133,71 EUR
-#     Financiers:Caisse                                                                   0,00 EUR
-#     ; Liabilities
-#     Capitaux:CapitalEtRéserves:Capital                                                  -1000,00 EUR
-#     Capitaux:ReportÀNouveau:SoldeDébiteur                                              8032,81 EUR
-#     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci            -6509,84 EUR
-#     ; correspond aux dettes envers houdart ac uniquement qui on été réglés et annulés
-#     Tiers:Fournisseurs                                                                 -1,08 EUR
-#     Tiers:Fournisseurs:FacturesNonParvenues                                            -444,00 EUR
+2024-10-01 * Reprise des à-nouveaux
+    ; Assets
+    Immobilisations:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique           987,40 EUR
+    Immobilisations:Amortissements:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique  -853,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:CréditDeTVAÀReporter                302,72 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto                                             19,87 EUR
+    Financiers:Caisse                                                                   0,00 EUR
+    ; Liabilities
+    Capitaux:CapitalEtRéserves:Capital                                                  -1000,00 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              8032,81 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              848,11 EUR
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci            -8336,83 EUR
+    Tiers:Fournisseurs                                                                 -1,08 EUR

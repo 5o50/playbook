@@ -1,24 +1,16 @@
 2023-10-01 * Reprise des à-nouveaux
     ; Assets
+    Immobilisations:Corporelles:InstallationsTechniquesMatérielsEtOutillageIndustriels:MatérielIndustriel           714,54 EUR
+    Immobilisations:Amortissements:Corporelles:InstallationsTechniquesMatérielsEtOutillageIndustriels:MatérielIndustriel  -714,54 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:RemboursementDemandé  480,94 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues  74,00 EUR
     Financiers:Banques:ComptesEnEuros:Qonto                                             166,19 EUR
     Financiers:Caisse                                                                   0,00 EUR
     ; Liabilities
     Capitaux:CapitalEtRéserves:Capital                                                  -1000,00 EUR
-    Capitaux:ReportÀNouveau:SoldeDébiteur                                              3927,78 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              -1527,82 EUR
+    Capitaux:ReportÀNouveau:SoldeDébiteur                                              5455,60 EUR
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci            -2814,91 EUR
     ; correspond aux dettes envers houdart ac uniquement qui on été réglés et annulés
     Tiers:Fournisseurs                                                                 -390,00 EUR
     Tiers:Fournisseurs:FacturesNonParvenues                                            -444,00 EUR
-
-2023-10-01 * Houdart AC
-    ; Description: Annulation FNP de l'exercice précédent - service dossier juridique ne sera pas fourni et aucune facture ne sera émise.
-    Tiers:Fournisseurs:FacturesNonParvenues                                             444,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues  -74,00 EUR
-    Produits:Exceptionnels:ProduitsSurExercicesAntérieurs
-
-2023-10-01 * Houdart AC
-    ; Description: abandon de créance
-    Tiers:Fournisseurs                                                                  -30,00 EUR
-    Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges

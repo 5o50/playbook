@@ -1,7 +1,6 @@
 account strict
 
-; ANC R2022-06
-; PLAN DE COMPTES UNIQUE 2025
+; PCG 2025 - ANC N°2022-06
 
 ;/* -------------------------------------------------------------------------- */
 ;/*                              Comptes de Bilan                              */
@@ -43,11 +42,21 @@ account Immobilisations:IncorporellesEtFraisDÉtabl:FraisDÉtablissement
 ; immos corporelles: biens ayant une valeur économique et une substance matérielle tangible.
 ; ex: bâtiments, machines, outillage, etc.
 
+
+account Immobilisations:Corporelles:InstallationsTechniquesMatérielsEtOutillageIndustriels
+    note 215 - Installations techniques, matériels et outillage industriels
+
+account Immobilisations:Corporelles:InstallationsTechniquesMatérielsEtOutillageIndustriels:MatérielIndustriel
+    note 2154 - Matériel industriel
+
 account Immobilisations:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique
     note 2183 - Matériel de bureau et matériel informatique
 
 account Immobilisations:Corporelles:Autres:Mobilier
     note 2184 - Mobilier
+
+account Immobilisations:Amortissements:Corporelles:InstallationsTechniquesMatérielsEtOutillageIndustriels:MatérielIndustriel
+    note 28154 - Matériel industriel
 
 account Immobilisations:Amortissements:Corporelles:Autres:MatérielDeBureauEtMatérielInformatique
     note 28183 - Amortissement du Matériel de bureau et matériel informatique
@@ -131,10 +140,10 @@ account Tiers:État:ImpôtsSurLesBénéfices
 account Tiers:État:TaxesSurLeChiffreDAffaires
     note 445 - État - Taxes sur le chiffre d'affaires
 
-account Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire
+account Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire
     note 4452 - TVA due intracommunautaire
 
-account Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire
+account Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire
     note 4453 - TVA due extracommunautaire
 
 account Tiers:État:TaxesSurLeChiffreDAffaires:ÀDécaisser
@@ -201,7 +210,14 @@ account Tiers:GroupeEtAssociés:AssociésComptesCourants:IntérêtsCourus
 account Tiers:GroupeEtAssociés:AssociésDividendesÀPayer
     note 457 - Associés - Dividendes à payer
 
+account Tiers:DébiteursEtCréditeursDivers
+    note 46 - Débiteurs et créditeurs divers
 
+account Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir
+    note 467 - Divers comptes débiteurs et produits à recevoir
+
+account Tiers:DébiteursEtCréditeursDivers:CompteCréditeursEtChargesÀPayer
+    note 468 - Divers comptes créditeurs et charges à payer
 
 ; /* ---------------------- CLASSE 5 : COMPTES FINANCIERS --------------------- */
 
@@ -239,6 +255,9 @@ account Charges:Achats:NonStockésDeMatièresEtFournitures
 account Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives
     note 6064 - Fournitures administratives
 
+account Charges:Achats:RabaisRemisesRistournesObtenusSurAchats
+    note 609 - Rabais, remises et ristournes obtenus sur achats
+
 account Charges:ServicesExtérieurs
     note 61 - Services extérieurs
 
@@ -254,8 +273,17 @@ account Charges:ServicesExtérieurs:Locations:Immobilieres
 account Charges:ServicesExtérieurs:Locations:Mobilières
     note 6135 - Locations mobilières
 
+account Charges:ServicesExtérieurs:Locations:Services
+    note 6138 - Locations services
+
 account Charges:ServicesExtérieurs:EntretienEtRéparation
     note 615 - Entretien et réparation
+
+account Charges:ServicesExtérieurs:Divers
+    note 618 - Divers
+
+account Charges:ServicesExtérieurs:Divers:DocumentationGénérale
+    note 6181 - Documentation générale
 
 account Charges:AutresServicesExtérieurs
     note 62 - Autres services extérieurs
@@ -293,6 +321,9 @@ account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions
 
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements
     note 6251 - Voyages et déplacements
+
+account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant
+    note 62511 - Carburant
 
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Missions
     note 6256 - Missions
@@ -333,6 +364,10 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:I
 
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Apple
     note 62627 - Services Apple
+
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone
+    note 6263 - Services télephone
+
 
 account Charges:AutresServicesExtérieurs:ServicesBancaires
     note 627 - Services bancaires et assimilés
@@ -408,6 +443,32 @@ account Charges:Financières:Intérêts
 
 account Charges:Financières:PertesDeChange
     note 666 - Pertes de change financières
+
+; 67 - Charges exceptionnelles
+account Charges:Exceptionnelles:SurExercicesAntérieurs
+    note 672 - (Compte à la disposition des entités pour enregistrer, en cours d'exercice, les charges sur exercices antérieurs)
+
+account Charges:Exceptionnelles:Autres
+    note 678 - Autres charges exceptionnelles
+
+; 68 - Dotation aux amortissements, aux dépréciations et aux provisions
+account Charges:Dotations:Exploitation
+    note 681 - Dotations aux amortissements, aux dépréciations et aux provisions (à inscrire dans les charges d'exploitation)
+
+account Charges:Dotations:Exploitation:ImmobilisationsIncorporellesEtCorporelles
+    note 6811 - Dotations aux amortissements sur immoblisations incorporelles et corporelles
+
+account Charges:Dotations:Exploitation:ImmobilisationsIncorporellesEtCorporelles:ImmobilisationsIncorporellesEtFraisDÉtablissement
+    note 68111 - Immobilisations incorporelles et frais d'établissement
+
+account Charges:Dotations:Exploitation:ImmobilisationsIncorporellesEtCorporelles:ImmobilisationsCorporelles
+    note 68112 - Immobilisations corporelles
+
+account Charges:Dotations:Financières
+    note 686 - Dotations aux amortissements, aux dépréciations et aux provisions (à inscrire dans les charges financières)
+
+account Charges:Dotations:Exceptionnelles
+    note 686 - Dotations aux amortissements, aux dépréciations et aux provisions (à inscrire dans les charges exceptionnelles)
 
 ;/* --------------------- CLASSE 7 : COMPTES DE PRODUITS --------------------- */
 account Produits:Ventes:ProduitsFinis

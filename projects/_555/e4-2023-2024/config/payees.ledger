@@ -1,6 +1,8 @@
 account strict
 
 payee Reprise des à-nouveaux
+payee DAP
+payee Solde des comptes
 
 ; National
 payee SIE PARIS 11

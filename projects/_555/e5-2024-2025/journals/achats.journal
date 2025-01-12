@@ -28,7 +28,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0039
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -18,35 EUR
     Charges:ServicesExtérieurs:Locations:Services:Cursor                                               18,28 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                      -3,66 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,66 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,66 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
@@ -39,7 +39,7 @@
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
 
 2024-10-19 * Keyword Everywhere
@@ -68,7 +68,7 @@
     ; ExchangeRate(Diff): EUR/USD +0.0023
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -0,92 EUR
     Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                                       0,92 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                     -0,18 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -0,18 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    0,18 EUR
 
 2024-10-23 * Free Mobile
@@ -114,7 +114,7 @@
     ; ExchangeRate(Diff): EUR/USD +0.0010
     Financiers:Banques:ComptesEnEuros:Qonto                                                             -18,82 EUR
     Charges:ServicesExtérieurs:Locations:Services:Cursor                                                 18,84 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire                                       -3,77 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -3,77 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire      3,77 EUR
     Produits:Financiers:GainsDeChange                                                                    -0,02 EUR
 
@@ -137,7 +137,7 @@
     ; NetAmount: EUR 19,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
 
 2024-05-15 * Fnac

@@ -80,7 +80,7 @@
     ; VATAmount: EUR 2,23
     ; GrossAmount: EUR 13,40
     Financiers:Banques:ComptesEnEuros:Qonto                                                       -43,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices                   2,23 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire                   2,23 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux     41,62 EUR
 
 2024-02-28 * Sofiane Baltaci

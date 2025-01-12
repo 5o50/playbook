@@ -14,9 +14,9 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           1,23 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,25 EUR
     Produits:Ventes:Marchandises:FR                                                                          -12,49 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -2,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -2,50 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -4,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,00 EUR
 
 2024-10-17 * Amazon Services Europe S.à r.l.
     ; Document: 
@@ -39,9 +39,9 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,39 EUR
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       -8,34 EUR
     Produits:Ventes:Marchandises:FR                                                                          -45,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -9,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,17 EUR
 
     
 2024-10-22 * Amazon Services Europe S.à r.l.
@@ -65,9 +65,9 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,39 EUR
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       -8,34 EUR
     Produits:Ventes:Marchandises:FR                                                                          -45,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -9,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,17 EUR
 
 2024-10-22 * Amazon Services Europe S.à r.l.
     ; Document: 
@@ -90,9 +90,9 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,39 EUR
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       -8,34 EUR
     Produits:Ventes:Marchandises:FR                                                                          -45,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -9,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,17 EUR
     
 2024-12-05 * Amazon Services Europe S.à r.l.
     ; Document: 
@@ -112,6 +112,6 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           1,20 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,24 EUR
     Produits:Ventes:Marchandises:FR                                                                          -12,49 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -2,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -2,50 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -4,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire                                            -1,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,00 EUR

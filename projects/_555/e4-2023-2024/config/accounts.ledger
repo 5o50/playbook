@@ -1,6 +1,6 @@
 account strict
 
-; PCG 2025
+; PCG 2025 - ANC N°2022-06
 
 ;/* -------------------------------------------------------------------------- */
 ;/*                              Comptes de Bilan                              */
@@ -133,10 +133,10 @@ account Tiers:État:ImpôtsSurLesBénéfices
 account Tiers:État:TaxesSurLeChiffreDAffaires
     note 445 - État - Taxes sur le chiffre d'affaires
 
-account Tiers:État:TaxesSurLeChiffreDAffaires:TVADueIntracommunautaire
+account Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire
     note 4452 - TVA due intracommunautaire
 
-account Tiers:État:TaxesSurLeChiffreDAffaires:TVADueExtracommunautaire
+account Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire
     note 4453 - TVA due extracommunautaire
 
 account Tiers:État:TaxesSurLeChiffreDAffaires:ÀDécaisser
@@ -561,6 +561,32 @@ account Charges:Financières:Intérêts
 
 account Charges:Financières:PertesDeChange
     note 666 - Pertes de change financières
+
+; 67 - Charges exceptionnelles
+account Charges:Exceptionnelles:SurExercicesAntérieurs
+    note 672 - (Compte à la disposition des entités pour enregistrer, en cours d'exercice, les charges sur exercices antérieurs)
+
+account Charges:Exceptionnelles:Autres
+    note 678 - Autres charges exceptionnelles
+
+; 68 - Dotation aux amortissements, aux dépréciations et aux provisions
+account Charges:Dotations:Exploitation
+    note 681 - Dotations aux amortissements, aux dépréciations et aux provisions (à inscrire dans les charges d'exploitation)
+
+account Charges:Dotations:Exploitation:ImmobilisationsIncorporellesEtCorporelles
+    note 6811 - Dotations aux amortissements sur immoblisations incorporelles et corporelles
+
+account Charges:Dotations:Exploitation:ImmobilisationsIncorporellesEtCorporelles:ImmobilisationsIncorporellesEtFraisDÉtablissement
+    note 68111 - Immobilisations incorporelles et frais d'établissement
+
+account Charges:Dotations:Exploitation:ImmobilisationsIncorporellesEtCorporelles:ImmobilisationsCorporelles
+    note 68112 - Immobilisations corporelles
+
+account Charges:Dotations:Financières
+    note 686 - Dotations aux amortissements, aux dépréciations et aux provisions (à inscrire dans les charges financières)
+
+account Charges:Dotations:Exceptionnelles
+    note 686 - Dotations aux amortissements, aux dépréciations et aux provisions (à inscrire dans les charges exceptionnelles)
 
 ;/* --------------------- CLASSE 7 : COMPTES DE PRODUITS --------------------- */
 account Produits:Ventes:ProduitsFinis

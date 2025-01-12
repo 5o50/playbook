@@ -7,7 +7,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2023-11-01 * Qonto
     ; Document: 2023-11-30-Qonto-invoice-13829116.pdf
@@ -18,7 +18,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2023-12-01 * Qonto
     ; Document: 2023-12-31-Qonto-invoice-14228783.pdf
@@ -29,7 +29,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-01-01 * Qonto
     ; Document: 2024-01-31-Qonto-invoice-14743521.pdf
@@ -40,7 +40,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-02-01 * Qonto
     ; Document: 2024-02-29-Qonto-invoice-15268854.pdf
@@ -51,7 +51,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-03-01 * Qonto
     ; Document: 2024-03-31-Qonto-invoice-15802953.pdf
@@ -62,7 +62,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-04-01 * Qonto
     ; Document: 2024-04-30-Qonto-invoice-16345299.pdf
@@ -73,7 +73,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-04-14 * Qonto
     ; Document: 2024-04-30-Qonto-invoice-16345299.pdf
@@ -96,7 +96,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-05-08 * Qonto
     ; Document: 2024-05-31-Qonto-invoice-16893851.pdf
@@ -191,7 +191,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-06-14 * Qonto
     ; Document: 2024-06-30-Qonto-invoice-17461811.pdf
@@ -238,7 +238,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-07-14 * Qonto
     ; Document: 2024-07-31-Qonto-invoice-18040096.pdf
@@ -320,7 +320,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-08-22 * Qonto
     ; Document: 2024-08-31-Qonto-invoice-18624848.pdf
@@ -368,7 +368,7 @@
     ; GrossAmount: EUR 13,20
     Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     2,20 EUR
 
 2024-09-01 * Qonto
     ; Document: 2024-09-30-Qonto-09-24-invoice-19213081.pdf
