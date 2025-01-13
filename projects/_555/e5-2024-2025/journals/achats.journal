@@ -59,7 +59,7 @@
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
 2024-10-19 * ExplodingTopics
-    ; Document: 
+    ; Document: 2024-10-19-ExplodingTopics-Invoice-25D7022D-0001.pdf
     ; Description: 
     ; Method: Card **3282
     ; NetAmount: USD 1.00
@@ -140,18 +140,6 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
 
-2024-05-15 * Fnac
-    ; Document: 2024-11-25-Fnac-Apple-Earpods
-    ; Description: Apple Earpods
-    ; Method: Card **3282
-    ; NetAmount: EUR 19,16
-    ; VATRate 20%
-    ; VATAmount: EUR 3,83
-    ; GrossAmount: EUR 22,99
-    Financiers:Banques:ComptesEnEuros:Qonto                                                              -22,99 EUR
-    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           19,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,83 EUR
-
 2024-11-23 * Free Mobile
     ; Document: 2024-11-21-FreeMobile-facture.pdf
     ; Description: 
@@ -164,7 +152,19 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
 
-2024-07-20 * La Poste
+2024-11-25 * Fnac
+    ; Document: 2024-11-25-Fnac-Apple-Earpods
+    ; Description: Apple Earpods
+    ; Method: Card **3282
+    ; NetAmount: EUR 19,16
+    ; VATRate 20%
+    ; VATAmount: EUR 3,83
+    ; GrossAmount: EUR 22,99
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -22,99 EUR
+    Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           19,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,83 EUR
+
+2024-11-26 * La Poste
     ; Document: 2024-11-26-LaPoste-F004AA000665974_169639825.pdf
     ; Description: Livraison FR : Bague 
     ; Comment: Pas de TVA chez La Poste
@@ -233,3 +233,142 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -1,10 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,06 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,04 EUR
+
+2024-12-12 * Cursor
+    ; Document: 2024-12-12-Cursor-Invoice-B09D7570-0003.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.0491
+    ; ExchangeRate(Bank): EUR/USD 1.0477
+    ; ExchangeRate(Diff): EUR/USD -0.0014
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,09 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Cursor                                               19,06 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,81 EUR
+    Charges:Financières:PertesDeChange                                                                   0,03 EUR
+
+
+2024-12-14 * OVHCloud
+    ; Document: 2024-12-14-OVHCloud-Facture_FR67970426.pdf
+    ; Description: Décembre 2024
+    ; Method: Card **3282
+    ; NetAmount: EUR 5,00
+    ; VATRate: 20%
+    ; VATAmount: EUR 1,00
+    ; GrossAmount: EUR 6,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -6,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    1,00 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:OVHCloud             5,00 EUR
+
+2024-12-14 * Keepa
+    ; Document: 2024-12-14-KeepaInvoice202418949194307b3.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 19,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+
+2024-12-18 * Cloudflare
+    ; Document: 2024-12-18-Cloudflare-3d6ec576-da6b-5a7d-8436-f7eb66b0da02
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 10.44
+    ; ExchangeRate(ECB): EUR/USD 1.0496
+    ; ExchangeRate(Bank): EUR/USD 1.0482
+    ; ExchangeRate(Diff): EUR/USD -0.0014
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,96 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -1,99 EUR
+    Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:atoveirwifi.com                     9,95 EUR
+    Charges:Financières:PertesDeChange                                                                  0,01 EUR
+
+2024-12-20 * Spamzilla
+    ; Document: 2024-12-20-Spamzilla_Maximus Media Pty Ltd._ Invoice 000021836
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 37.00
+    ; ExchangeRate(ECB): EUR/USD 1.039
+    ; ExchangeRate(Bank): EUR/USD 1.0343
+    ; ExchangeRate(Diff): EUR/USD -0.0047
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -35,77 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -1,99 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Spamzilla                                          35,61 EUR
+    Charges:Financières:PertesDeChange                                                                  0,16 EUR
+
+2024-12-20 * Ahrefs
+    ; Document: 2024-12-20-ahrefs-Invoice-1E82F388-0001.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 27,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -27,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,40 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -5,40 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Ahrefs                                               27,00 EUR
+
+2024-12-23 * Free Mobile
+    ; Document: 2024-12-21-FreeMobile-facture.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 16,66
+    ; VATRate 20%
+    ; VATAmount: EUR 3,33
+    ; GrossAmount: EUR 19,99
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -19,99 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
+
+
+2024-12-27 * Microsoft
+    ; Document: 2024-12-27-Microsoft-G071449395_08e18e2baaba42f893a43263855716e0.pdf
+    ; Description: Décembre 2024
+    ; Method: Card **3282
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+
+2024-12-28 * Ahrefs
+    ; Document: 2024-12-28-ahrefs-Invoice-1E82F388-0002.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 152,57
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -152,57 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,40 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -5,40 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Ahrefs                                               152,57 EUR
+
+2025-01-01 * ExplodingTopics
+    ; Document: 2025-01-01-ExplodingTopics-Invoice-25D7022D-0005.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 29.25
+    ; ExchangeRate(ECB): EUR/USD 1.0389
+    ; ExchangeRate(Bank): EUR/USD 1.0347
+    ; ExchangeRate(Diff): EUR/USD -0.0042
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -28,27 EUR
+    Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                                       28,15 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -5,63 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,63 EUR
+    Charges:Financières:PertesDeChange                                                                 0,12 EUR
+
+2025-01-12 * Cursor
+    ; Document: 2025-01-12-Cursor-Invoice-B09D7570-0004.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.0304
+    ; ExchangeRate(Bank): EUR/USD 1.0215
+    ; ExchangeRate(Diff): EUR/USD -0.0089
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,58 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Cursor                                               19,41 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,88 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,88 EUR
+    Charges:Financières:PertesDeChange                                                                   0,17 EUR

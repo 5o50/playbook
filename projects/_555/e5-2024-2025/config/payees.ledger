@@ -29,6 +29,8 @@ payee GS1 France
 payee Free Mobile
 payee La Poste
 payee Restauration Divers
+payee OVHCloud
+payee Sophie Baltaci EI
 
 
 ; Extracommunautaire
@@ -46,3 +48,5 @@ payee JungleScout
 payee Anthropic
 payee Cursor
 payee Keyword Everywhere
+payee Spamzilla
+payee Ahrefs

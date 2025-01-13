@@ -1,0 +1,6 @@
+2024-10-04 * DGFIP
+    ; Document: taxes/avis-cfe.pdf
+    ; Description: Règlement CFE 2024
+    ; NetAmount: EUR 81,00
+    Charges:ImpôtsTaxes:Autres:Impôts:Directs:ContributionÉconomiqueTerritoriale    81,00 EUR
+    Tiers:État:AutresImpôtsTaxesEtVersementsAssimilés:CFE

@@ -100,6 +100,9 @@ account Tiers:Clients:VentesDeBiensOuServices
 account Tiers:Clients:VentesDeBiensOuServices:Nationaux
     note 41111 - Clients nationaux
 
+account Tiers:Clients:VentesDeBiensOuServices:Nationaux:SophieBaltaciEI
+    note 411111 - Clients nationaux - Sophie Baltaci EI
+
 account Tiers:Clients:VentesDeBiensOuServices:Intracommunautaires
     note 41112 - Clients intracommunautaires
 
@@ -177,6 +180,12 @@ account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:Rembour
 
 account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues
     note 44586 - Taxes sur le chiffre d'affaires sur factures non parvenues
+
+account Tiers:État:AutresImpôtsTaxesEtVersementsAssimilés
+    note 447 - Autres impôts, taxes et versements assimilés
+
+account Tiers:État:AutresImpôtsTaxesEtVersementsAssimilés:CFE
+    note 4471 - CFE
 
 ; 45 - Groupe et associés
 account Tiers:GroupeEtAssociés:Groupe
@@ -315,7 +324,13 @@ account Charges:ServicesExtérieurs:Locations:Services:Cursor
     note 613811 - Service Cursor
 
 account Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere
-    note 613812 - Service Cursor
+    note 613812 - Service KeywordEverywhere
+
+account Charges:ServicesExtérieurs:Locations:Services:Spamzilla
+    note 613813 - Service Spamzilla
+
+account Charges:ServicesExtérieurs:Locations:Services:Ahrefs
+    note 613814 - Service Ahrefs
 
 account Charges:ServicesExtérieurs:EntretienEtRéparation
     note 615 - Entretien et réparation
@@ -408,6 +423,9 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:H
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS
     note 62611 - Services Amazon Web Services
 
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:OVHCloud
+    note 62612 - Services OVHCloud
+
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet
     note 6262 - Services Internet et noms de domaine
 
@@ -478,6 +496,15 @@ account Charges:ImpôtsTaxes:SurRémunérationsImpôts
 account Charges:ImpôtsTaxes:SurRémunérationsImpôts:TaxeSurLesSalaires
     note 6311 - Taxe sur les salaires
 
+account Charges:ImpôtsTaxes:Autres:Impôts
+    note 635 - Autres impôts, taxes et versements assimilés (administration des impôts)
+
+account Charges:ImpôtsTaxes:Autres:Impôts:Directs
+    note 6351 - Impôts directs (sauf impôts sur les bénéfices)
+
+account Charges:ImpôtsTaxes:Autres:Impôts:Directs:ContributionÉconomiqueTerritoriale
+    note 63511 - Contribution économique territoriale
+
 ; 64 - Charges de personnel
 account Charges:Personnel:RémunérationsDuPersonnel
     note 641 - Rémunération du personnel
@@ -547,6 +574,9 @@ account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:social20
 
 account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:socldev.com
     note 65125 - socldev.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:atoveirwifi.com
+    note 65126 - atoveirwifi.com
 
 account Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
     note 658 - Pénalités et autres charges
