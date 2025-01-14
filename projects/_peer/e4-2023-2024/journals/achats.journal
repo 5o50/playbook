@@ -1,4 +1,4 @@
-2023-10-02 * Amazon Web Services EMEA SARL
+2023-10-02 Amazon Web Services EMEA SARL
     ; Document: 2023-10-02-AWS-invoice.pdf
     ; Description: Cloud Services - September 2023
     ; Method: Card **6158
@@ -14,7 +14,7 @@
     Charges:Exceptionnelles:SurExercicesAntérieurs      6,66 EUR
     Charges:Financières:PertesDeChange                                                      0,03 EUR
 
-2023-10-20 * Namecheap
+2023-10-20 Namecheap
     ; Document: 2023-10-20-namecheap-receipt.pdf
     ; Description: Domain registration social2030.com
     ; Method: Card **6158
@@ -29,7 +29,7 @@
     Charges:Financières:PertesDeChange                                                                  0,06 EUR
 
 
-2023-10-26 * Twilio
+2023-10-26 Twilio
     ; Document: 2023-10-26-Twilio-PROD-receipt.pdf
     ; Description: TopUp Payment for Twilio services
     ; Method: Card **6158
@@ -43,7 +43,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,98 EUR
     Produits:Financiers:GainsDeChange                                                                   -0,05 EUR
 
-2023-11-02 * Amazon Web Services EMEA SARL
+2023-11-02 Amazon Web Services EMEA SARL
     ; Document: 2023-11-02-AWS-invoice.pdf
     ; Description: Cloud Services - October 2023
     ; Method: Card **6158
@@ -59,7 +59,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     8,08 EUR
     Charges:Financières:PertesDeChange                                                      0,13 EUR
 
-2023-11-14 * Twilio
+2023-11-14 Twilio
     ; Document: 2023-11-14-Twilio-TEST-receipt.pdf
     ; Description: TopUp Payment for Twilio services
     ; Method: Card **6158
@@ -73,7 +73,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,65 EUR
     Charges:Financières:PertesDeChange                                                                   0,11 EUR
 
-2023-12-03 * Amazon Web Services EMEA SARL
+2023-12-03 Amazon Web Services EMEA SARL
     ; Document: 2023-12-03-AWS-invoice.pdf
     ; Description: Cloud Services - November 2023
     ; Method: Card **6158
@@ -89,7 +89,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS      3,96 EUR
     Charges:Financières:PertesDeChange                                                       0,03 EUR
 
-2023-12-21 * Proton AG
+2023-12-21 Proton AG
     ; Document: 2023-12-21-Proton Mail invoice 20386305.pdf
     ; Description: Plan Mail essentials
     ; Method: Card **6158
@@ -99,7 +99,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -15,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    15,00 EUR
 
-2024-01-02 * Amazon Web Services EMEA SARL
+2024-01-02 Amazon Web Services EMEA SARL
     ; Document: 2024-01-02-AWS-invoice.pdf
     ; Description: Cloud Services - December 2023
     ; Method: Card **6158
@@ -115,7 +115,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,81 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
-2024-01-18 * Namecheap
+2024-01-18 Namecheap
     ; Document: 2024-01-18-namecheap-receipt-135682998.pdf
     ; Description: Renew 555.team
     ; Method: Card **6158
@@ -129,7 +129,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              39,45 EUR
     Charges:Financières:PertesDeChange                                                                  0,11 EUR
 
-2024-01-18 * Twilio
+2024-01-18 Twilio
     ; Document: 2024-01-18-Twilio-PROD-receipt.pdf
     ; Description: TopUp Payment for Twilio services
     ; Method: Card **6158
@@ -143,7 +143,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire   4,60 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
-2024-01-18 * Twilio
+2024-01-18 Twilio
     ; Document: 2024-01-18-Twilio-PROD-receipt.pdf
     ; Description: TopUp Payment for Twilio services
     ; Method: Card **6158
@@ -158,7 +158,7 @@
     Charges:Financières:PertesDeChange                                                                  0,07 EUR
 
 
-2024-01-18 * Twilio
+2024-01-18 Twilio
     ; Document: 2024-01-18-Twilio-PROD-receipt.pdf
     ; Description: TopUp Payment for Twilio services
     ; Method: Card **6158
@@ -172,7 +172,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,07 EUR
     Charges:Financières:PertesDeChange                                                                  0,06 EUR
 
-2024-02-02 * Amazon Web Services EMEA SARL
+2024-02-02 Amazon Web Services EMEA SARL
     ; Document: 2024-02-02-AWS-invoice.pdf
     ; Description: Cloud Services - January 2024
     ; Method: Card **6158
@@ -188,7 +188,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,18 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
-2024-02-19 * Twilio
+2024-02-19 Twilio
     ; Document: 2024-02-19-Twilio-DEV-receipt.pdf
     ; Description: TopUp Payment for Twilio services
     ; Method: Card **6158
@@ -202,7 +202,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,09 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
-2024-02-28 * Gumroad
+2024-02-28 Gumroad
     ; Document: 2024-02-28-gumroad-invoice.pdf
     ; Description: Gumroad sound kit
     ; Method: Card **6158
@@ -216,7 +216,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    10,64 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
-2024-03-02 * Amazon Web Services EMEA SARL
+2024-03-02 Amazon Web Services EMEA SARL
     ; Document: 2024-03-02-AWS-invoice.pdf
     ; Description: Cloud Services - Febuary 2024
     ; Method: Card **6158
@@ -231,7 +231,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,03 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,21 EUR
 
-2024-03-30 * Namecheap
+2024-03-30 Namecheap
     ; Document: 2024-03-30-namecheap-receipt-140673629.pdf
     ; Description: Renew baltaci.fr
     ; Method: Card **6158
@@ -245,7 +245,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              18,48 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
-2024-04-02 * Amazon Web Services EMEA SARL
+2024-04-02 Amazon Web Services EMEA SARL
     ; Document: 2024-03-02-AWS-invoice.pdf
     ; Description: Cloud Services - March 2024
     ; Method: Card **6158
@@ -261,7 +261,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,16 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
-2024-04-23 * Namecheap
+2024-04-23 Namecheap
     ; Document: 2024-04-23-namecheap-receipt-142355228.pdf
     ; Description: Renew 555.team ox-starter
     ; Method: Card **6158
@@ -275,7 +275,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             13,94 EUR
     Charges:Financières:PertesDeChange                                                                  0,07 EUR
 
-2024-04-25 * Namecheap
+2024-04-25 Namecheap
     ; Document: 2024-04-25-namecheap-receipt-142501799.pdf
     ; Description: atlas.shopping
     ; Method: Card **6158
@@ -289,7 +289,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             28,13 EUR
     Charges:Financières:PertesDeChange                                                                  0,12 EUR
 
-2024-05-01 * PhotoRoom
+2024-05-01 PhotoRoom
     ; Document: 2024-05-01-PhotoRoom-Receipt-2396-0915.pdf
     ; Description: May 2024
     ; Method: Card **6158
@@ -301,7 +301,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    4,00 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:PhotoRoom             20,00 EUR
 
-2024-05-02 * Amazon Web Services EMEA SARL
+2024-05-02 Amazon Web Services EMEA SARL
     ; Document: 2024-05-02-AWS-invoice.pdf
     ; Description: Cloud Services - April 2024
     ; Method: Card **6158
@@ -317,7 +317,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,26 EUR
     Charges:Financières:PertesDeChange                                                      0,02 EUR
 
-2024-05-03 * Namecheap
+2024-05-03 Namecheap
     ; Document: 2024-05-03-namecheap-receipt-143040135.pdf
     ; Description: renew peerpersonal.com
     ; Method: Card **6158
@@ -331,7 +331,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             14,95 EUR
     Charges:Financières:PertesDeChange                                                                  0,10 EUR
 
-2024-05-27 * Microsoft
+2024-05-27 Microsoft
     ; Document: 2024-05-27-Microsoft-G047769920.pdf
     ; Description: 
     ; Method: Card **6158
@@ -343,7 +343,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-06-02 * Amazon Web Services EMEA SARL
+2024-06-02 Amazon Web Services EMEA SARL
     ; Document: 2024-06-02-AWS-invoice.pdf
     ; Description: Cloud Services - May 2024
     ; Method: Card **6158
@@ -359,7 +359,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,32 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
-2024-06-14 * Apple
+2024-06-14 Apple
     ; Document: 2024-06-14-Apple-invoice-W1013359556_ADQ2021005.pdf
     ; Description: Apple Developer Program
     ; Method: Card **6158
@@ -371,7 +371,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   16,50 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             82,50 EUR
 
-2024-07-02 * Amazon Web Services EMEA SARL
+2024-07-02 Amazon Web Services EMEA SARL
     ; Document: 2024-07-02-AWS-invoice.pdf
     ; Description: Cloud Services - June 2024
     ; Method: Card **6158
@@ -386,7 +386,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,57 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,31 EUR
 
-2024-07-05 * Microsoft
+2024-07-05 Microsoft
     ; Document: 2024-07-05-Microsoft-G051487512.pdf
     ; Description: 
     ; Method: Card **6158
@@ -398,7 +398,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-08-03 * Amazon Web Services EMEA SARL
+2024-08-03 Amazon Web Services EMEA SARL
     ; Document: 2024-08-03-AWS-invoice.pdf
     ; Description: Cloud Services - July 2024
     ; Method: Card **6158
@@ -414,7 +414,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,53 EUR
     Charges:Financières:PertesDeChange                                                      0,02 EUR
 
-2024-08-05 * Microsoft
+2024-08-05 Microsoft
     ; Document: 2024-08-05-Micosoft-G054268975.pdf
     ; Description: July 2024
     ; Method: Card **6158
@@ -426,7 +426,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-09-02 * Amazon Web Services EMEA SARL
+2024-09-02 Amazon Web Services EMEA SARL
     ; Document: 2024-09-02-AWS-invoice.pdf
     ; Description: Cloud Services - August 2023
     ; Method: Card **6158
@@ -442,7 +442,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,24 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
-2024-09-05 * Microsoft
+2024-09-05 Microsoft
     ; Document: 2024-09-05-Microsoft-G058441084.pdf
     ; Description: August 2024
     ; Method: Card **6158
@@ -454,7 +454,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-10-02 * Amazon Web Services EMEA SARL
+2024-10-02 Amazon Web Services EMEA SARL
     ; Document: 2024-09-02-AWS-invoice.pdf
     ; Description: Cloud Services - September 2024
     ; Method: Card **6158
@@ -469,7 +469,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,33 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,27 EUR
 
-2024-10-05 * Microsoft
+2024-10-05 Microsoft
     ; Document: 2024-10-05-Microsoft-G060983230.pdf
     ; Description: September 2024
     ; Method: Card **6158

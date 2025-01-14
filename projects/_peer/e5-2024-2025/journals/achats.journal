@@ -1,5 +1,5 @@
 
-2024-10-28 * Microsoft
+2024-10-28 Microsoft
     ; Document: 2024-10-28-Microsoft-G063286630.pdf
     ; Description: October 2024
     ; Method: Card **6158
@@ -11,7 +11,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-11-02 * Amazon Web Services EMEA SARL
+2024-11-02 Amazon Web Services EMEA SARL
     ; Document: 2024-11-02-AWS.pdf
     ; Description: Cloud Services - October 2024
     ; Method: Card **6158
@@ -27,7 +27,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS               24,78 EUR
     Charges:Financières:PertesDeChange                                                                 0,04 EUR
 
-2024-11-22 * Twilio
+2024-11-22 Twilio
     ; Document: 
     ; Description: Twilio Refund
     ; Method: Card **6158
@@ -35,7 +35,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                            16,48 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio               -16,48 EUR
 
-2024-11-22 * Twilio
+2024-11-22 Twilio
     ; Document: 
     ; Description: Twilio Refund
     ; Method: Card **6158
@@ -43,7 +43,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                            14,82 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio               -14,82 EUR
 
-2024-11-27 * Restauration Divers
+2024-11-27 Restauration Divers
     ; Document: 2024-11-27-ilot-orange-facture.pdf
     ; Description: Ilot Orange
     ; Method: Card **6158
@@ -55,7 +55,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,35 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            13,55 EUR
 
-2024-11-28 * Microsoft
+2024-11-28 Microsoft
     ; Document: 2024-11-27-Microsoft-G067579889_21ca7f84a8eb456d819aee4ee3310026.pdf
     ; Description: Novembre 2024
     ; Method: Card **6158
@@ -67,7 +67,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-11-29 * Restauration Divers
+2024-11-29 Restauration Divers
     ; Document: 2024-11-29-ilot-orange.jpeg
     ; Description: Ilot Orange
     ; Method: Card **6158
@@ -79,7 +79,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,54 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            15,36 EUR
 
-2024-12-02 * Restauration Divers
+2024-12-02 Restauration Divers
     ; Document: 2024-12-02-yumi.jpeg
     ; Description: Yumi
     ; Method: Card **6158
@@ -91,7 +91,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,00 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            10,00 EUR
 
-2024-12-02 * Restauration Divers
+2024-12-02 Restauration Divers
     ; Document: 2024-12-02-resto-beaubourg.jpeg
     ; Description: Resto Beaubourg Café
     ; Method: Card **6158
@@ -103,7 +103,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,36 EUR
 
-2024-12-02 * Amazon Web Services EMEA SARL
+2024-12-02 Amazon Web Services EMEA SARL
     ; Document: 2024-12-02-AWS-Invoice_EUINFR24_1391876.pdf
     ; Description: Cloud Services - Novembre 2024
     ; Method: Card **6158
@@ -116,7 +116,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS                0,70 EUR
     Charges:Financières:PertesDeChange                                                                 0,01 EUR
 
-2024-12-04 * Restauration Divers
+2024-12-04 Restauration Divers
     ; Document: 2024-12-04-ilot-orange.jpeg
     ; Description: Ilot Orange
     ; Method: Card **6158
@@ -128,7 +128,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,26 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            12,64 EUR
 
-2024-12-04 * Restauration Divers
+2024-12-04 Restauration Divers
     ; Document: 2024-12-04-resto-beaubourg.jpeg
     ; Description: Resto Beaubourg Café
     ; Method: Card **6158
@@ -140,7 +140,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,36 EUR
 
-2024-12-05 * Restauration Divers
+2024-12-05 Restauration Divers
     ; Document: 2024-12-05-yumie.jpeg
     ; Description: Yumi
     ; Method: Card **6158
@@ -152,7 +152,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,00 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            10,00 EUR
 
-2024-12-05 * Restauration Divers
+2024-12-05 Restauration Divers
     ; Document: 2024-12-05-marnay.jpeg
     ; Description: Maison Marnay
     ; Method: Card **6158
@@ -164,7 +164,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,36 EUR
 
-2024-12-06 * Restauration Divers
+2024-12-06 Restauration Divers
     ; Document: 2024-12-06-miuji.jpeg
     ; Description: Miuji
     ; Method: Card **6158
@@ -176,7 +176,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,36 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            13,64 EUR
 
-2024-12-06 * Restauration Divers
+2024-12-06 Restauration Divers
     ; Document: 2024-12-09-ctrobon.jpeg
     ; Description: Ctrobon
     ; Method: Card **6158
@@ -188,3 +188,26 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,95 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            9,55 EUR
 
+2024-12-28 Microsoft
+    ; Document: 2024-12-28-Microsoft-G071481368_6e7982afdcc7422cbc4bf3e9b27249d4.pdf
+    ; Description: Decembre 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2025-01-03 Amazon Web Services EMEA SARL
+    ; Document: 2025-01-03-AWS-Invoice_EUINFR25_107152.pdf
+    ; Description: Cloud Services - Decembre 2024
+    ; Method: Card **6158
+    ; NetAmount: EUR 0,71
+    ; VATRate: 20%
+    ; VATAmount: EUR 0,14
+    ; GrossAmount: EUR 0,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                          -0,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS               0,71 EUR

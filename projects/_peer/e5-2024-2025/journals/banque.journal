@@ -1,4 +1,28 @@
-2024-11-01 * Qonto
+2024-10-01 Qonto
+    ; Document: 2024-10-01-Qonto-10-24-invoice-19904068.pdf
+    ; Method: Direct Debit
+    ; NetAmount: EUR 11,00
+    ; VATRate: 20,00%
+    ; VATAmount: EUR 2,20
+    ; GrossAmount: EUR 13,20
+    Financiers:Banques:ComptesEnEuros:Qonto                                                 -13,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices             2,20 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto            11,00 EUR
+
+2024-10-03 Qonto
+    ; Document: 2024-10-01-Qonto-10-24-invoice-19904068.pdf
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,04
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,04
+    ; FeeBase: EUR 29,77
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,04 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,04 EUR
+
+
+2024-11-01 Qonto
     ; Document: 2024-11-01-Qonto-11-24-invoice-20611196.pdf
     ; Method: Direct Debit
     ; NetAmount: EUR 11,00
@@ -9,7 +33,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices             2,20 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto            11,00 EUR
 
-2024-11-07 * Qonto
+2024-11-07 Qonto
     ; Document: 2024-11-01-Qonto-11-24-invoice-20611196.pdf
     ; Method: Direct Debit
     ; NetAmount: EUR 0,60
@@ -21,4 +45,24 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                          -0,60 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,60 EUR
 
-; A VENIR DECEMBRE NE PAS OUBLIER DE REPORTER
+2024-12-01 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 11,00
+    ; VATRate: 20,00%
+    ; VATAmount: EUR 2,20
+    ; GrossAmount: EUR 13,20
+    Financiers:Banques:ComptesEnEuros:Qonto                                                 -13,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices             2,20 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto            11,00 EUR
+
+2025-01-01 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 11,00
+    ; VATRate: 20,00%
+    ; VATAmount: EUR 2,20
+    ; GrossAmount: EUR 13,20
+    Financiers:Banques:ComptesEnEuros:Qonto                                                 -13,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices             2,20 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto            11,00 EUR

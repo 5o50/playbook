@@ -1,4 +1,4 @@
-2024-10-05 * Microsoft
+2024-10-05 Microsoft
     ; Document: 2024-10-05-Microsoft-G060751146.pdf
     ; Description: Septembre 2024
     ; Method: Card **3282
@@ -10,7 +10,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-10-07 * eBay
+2024-10-07 eBay
     ; Document: 
     ; Description: Regl Ebay 07-08-09
     ; Method: Direct Debit
@@ -18,7 +18,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                             -1,08 EUR
     Tiers:Fournisseurs
 
-2024-10-12 * Cursor
+2024-10-12 Cursor
     ; Document: 2024-10-12-Cursor-Invoice-B09D7570-0001.pdf
     ; Description: 
     ; Method: Card **3282
@@ -32,7 +32,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,66 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
-2024-10-14 * Keepa
+2024-10-14 Keepa
     ; Document: 2024-10-14-KeepaInvoice202491915963407b3.pdf
     ; Description: 
     ; Method: Card **3282
@@ -42,7 +42,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
 
-2024-10-19 * Keyword Everywhere
+2024-10-19 Keyword Everywhere
     ; Document: 2024-10-19-Keyword-Everywhere-Your Paddle.com Order #66115634-120499578.pdf
     ; Description: 
     ; Method: Card **3282
@@ -58,7 +58,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     4,98 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
-2024-10-19 * ExplodingTopics
+2024-10-19 ExplodingTopics
     ; Document: 2024-10-19-ExplodingTopics-Invoice-25D7022D-0001.pdf
     ; Description: 
     ; Method: Card **3282
@@ -71,7 +71,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -0,18 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    0,18 EUR
 
-2024-10-23 * Free Mobile
+2024-10-23 Free Mobile
     ; Document: 2024-10-21-FreeMobile-facture.pdf
     ; Description: 
     ; Method: Card **3282
@@ -83,7 +83,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
 
-2024-10-27 * Microsoft
+2024-10-27 Microsoft
     ; Document: 2024-10-27-Microsoft-G063238373.pdf
     ; Description: Octobre 2024
     ; Method: Card **3282
@@ -95,7 +95,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-10-31 * eBay
+2024-10-31 eBay
     ; Document: 2024-10-31-ebay-2636928141_2024-10.pdf
     ; Description: 
     ; Method: Direct Debit
@@ -104,7 +104,7 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       0,65 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     0,13 EUR
 
-2024-11-12 * Cursor
+2024-11-12 Cursor
     ; Document: 
     ; Description: 
     ; Method: Card **3282
@@ -118,7 +118,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire      3,77 EUR
     Produits:Financiers:GainsDeChange                                                                    -0,02 EUR
 
-2024-11-13 * Keyword Everywhere
+2024-11-13 Keyword Everywhere
     ; Document: 2024-11-13-KeywordEverywhere-refund-VAT-Your Paddle.com Order #66115634-120499578
     ; Description: Refund VAT
     ; Method: Card **3282
@@ -130,7 +130,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   -4,98 EUR
     Produits:Financiers:GainsDeChange                                                                  -0,12 EUR
 
-2024-11-14 * Keepa
+2024-11-14 Keepa
     ; Document: 2024-11-14-KeepaInvoice202459756326507b3.pdf
     ; Description: 
     ; Method: Card **3282
@@ -140,7 +140,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
 
-2024-11-23 * Free Mobile
+2024-11-23 Free Mobile
     ; Document: 2024-11-21-FreeMobile-facture.pdf
     ; Description: 
     ; Method: Card **3282
@@ -152,7 +152,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
 
-2024-11-25 * Fnac
+2024-11-25 Fnac
     ; Document: 2024-11-25-Fnac-Apple-Earpods
     ; Description: Apple Earpods
     ; Method: Card **3282
@@ -164,7 +164,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           19,16 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,83 EUR
 
-2024-11-26 * La Poste
+2024-11-26 La Poste
     ; Document: 2024-11-26-LaPoste-F004AA000665974_169639825.pdf
     ; Description: Livraison FR : Bague 
     ; Comment: Pas de TVA chez La Poste
@@ -173,7 +173,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                                 -1,79 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  1,79 EUR
 
-2024-11-27 * Microsoft
+2024-11-27 Microsoft
     ; Document: 2024-11-27-Microsoft-G067579889_21ca7f84a8eb456d819aee4ee3310026.pdf
     ; Description: Novembre 2024
     ; Method: Card **3282
@@ -186,7 +186,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 
-2024-12-09 * Restauration Divers
+2024-12-09 Restauration Divers
     ; Document: 2024-12-09-resto-beaubourg.jpeg
     ; Description: Resto Beaubourg Café
     ; Method: Card **3282
@@ -198,7 +198,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             1,36 EUR
 
-2024-12-10 * Restauration Divers
+2024-12-10 Restauration Divers
     ; Document: 2024-12-10-imperial-house.jpeg
     ; Description: Imperial House 75004
     ; Method: Card **3282
@@ -210,7 +210,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    1,19 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            11,91 EUR
 
-2024-12-11 * Restauration Divers
+2024-12-11 Restauration Divers
     ; Document: 2024-12-11-mandarin.jpeg
     ; Description: Mandarin Rambuteau
     ; Method: Card **3282
@@ -222,7 +222,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,95 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             9,55 EUR
 
-2024-12-11 * Restauration Divers
+2024-12-11 Restauration Divers
     ; Document: 2024-12-11-maison-hubert-rambuteau.jpeg
     ; Description: Maison Hubert Rambuteau Café
     ; Method: Card **3282
@@ -234,7 +234,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,06 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,04 EUR
 
-2024-12-12 * Cursor
+2024-12-12 Cursor
     ; Document: 2024-12-12-Cursor-Invoice-B09D7570-0003.pdf
     ; Description: 
     ; Method: Card **3282
@@ -249,7 +249,7 @@
     Charges:Financières:PertesDeChange                                                                   0,03 EUR
 
 
-2024-12-14 * OVHCloud
+2024-12-14 OVHCloud
     ; Document: 2024-12-14-OVHCloud-Facture_FR67970426.pdf
     ; Description: Décembre 2024
     ; Method: Card **3282
@@ -261,7 +261,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    1,00 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:OVHCloud             5,00 EUR
 
-2024-12-14 * Keepa
+2024-12-14 Keepa
     ; Document: 2024-12-14-KeepaInvoice202418949194307b3.pdf
     ; Description: 
     ; Method: Card **3282
@@ -271,7 +271,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
 
-2024-12-18 * Cloudflare
+2024-12-18 Cloudflare
     ; Document: 2024-12-18-Cloudflare-3d6ec576-da6b-5a7d-8436-f7eb66b0da02
     ; Description: 
     ; Method: Card **3282
@@ -285,7 +285,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:atoveirwifi.com                     9,95 EUR
     Charges:Financières:PertesDeChange                                                                  0,01 EUR
 
-2024-12-20 * Spamzilla
+2024-12-20 Spamzilla
     ; Document: 2024-12-20-Spamzilla_Maximus Media Pty Ltd._ Invoice 000021836
     ; Description: 
     ; Method: Card **3282
@@ -299,7 +299,7 @@
     Charges:ServicesExtérieurs:Locations:Services:Spamzilla                                          35,61 EUR
     Charges:Financières:PertesDeChange                                                                  0,16 EUR
 
-2024-12-20 * Ahrefs
+2024-12-20 Ahrefs
     ; Document: 2024-12-20-ahrefs-Invoice-1E82F388-0001.pdf
     ; Description: 
     ; Method: Card **3282
@@ -309,7 +309,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -5,40 EUR
     Charges:ServicesExtérieurs:Locations:Services:Ahrefs                                               27,00 EUR
 
-2024-12-23 * Free Mobile
+2024-12-23 Free Mobile
     ; Document: 2024-12-21-FreeMobile-facture.pdf
     ; Description: 
     ; Method: Card **3282
@@ -322,7 +322,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
 
 
-2024-12-27 * Microsoft
+2024-12-27 Microsoft
     ; Document: 2024-12-27-Microsoft-G071449395_08e18e2baaba42f893a43263855716e0.pdf
     ; Description: Décembre 2024
     ; Method: Card **3282
@@ -335,7 +335,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 
-2024-12-28 * Ahrefs
+2024-12-28 Ahrefs
     ; Document: 2024-12-28-ahrefs-Invoice-1E82F388-0002.pdf
     ; Description: 
     ; Method: Card **3282
@@ -345,7 +345,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -5,40 EUR
     Charges:ServicesExtérieurs:Locations:Services:Ahrefs                                               152,57 EUR
 
-2025-01-01 * ExplodingTopics
+2025-01-01 ExplodingTopics
     ; Document: 2025-01-01-ExplodingTopics-Invoice-25D7022D-0005.pdf
     ; Description: 
     ; Method: Card **3282
@@ -359,7 +359,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,63 EUR
     Charges:Financières:PertesDeChange                                                                 0,12 EUR
 
-2025-01-12 * Cursor
+2025-01-12 Cursor
     ; Document: 2025-01-12-Cursor-Invoice-B09D7570-0004.pdf
     ; Description: 
     ; Method: Card **3282

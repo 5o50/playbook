@@ -1,12 +1,12 @@
 ; Ce journal sert à enregistrer les opérations qui ne rentrent pas dans les catégories précédentes, comme les écritures de fin d'exercice ou les corrections d'erreurs
 
-2023-10-01 * Houdart AC
+2023-10-01 Houdart AC
     ; Description: Annulation FNP de l'exercice précédent - service dossier juridique ne sera pas fourni et aucune facture ne sera émise.
     Tiers:Fournisseurs:FacturesNonParvenues                                             444,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues  -74,00 EUR
     Produits:Exceptionnels:ProduitsSurExercicesAntérieurs
 
-2023-10-18 * Houdart AC
+2023-10-18 Houdart AC
     ; Document: 2023-[05...08]-houdart-ac-invoice.pdf
     ; Description: Réglement des honoraires comptables de l'exercice précédent - mai,juin,juillet,aout -le mois de septembre a été offert cf email christophe de rouveray
     ; Method: Virement
@@ -17,21 +17,21 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                 -504,00 EUR
     Tiers:Fournisseurs                                                                      504,00 EUR
 
-2023-10-01 * Houdart AC
+2023-10-01 Houdart AC
     ; Description: abandon de créance
     Tiers:Fournisseurs                                                                  -114,00 EUR
     Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
 
 
 # https://www.compta-online.com/cloture-des-comptes-de-tva-en-fin-exercice-acompte-t56037
-2024-09-30 * Solde des comptes
+2024-09-30 Solde des comptes
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire           68,27 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire           -68,27 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           -69,56 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:CréditDeTVAÀReporter
 
 # https://libeo.io/blog/comptabilite/ecriture-comptable-cloture-exercice
-2024-09-30 * Solde des comptes
+2024-09-30 Solde des comptes
     Produits:Exceptionnels:ProduitsSurExercicesAntérieurs       370,00 EUR
     Produits:Exceptionnels:Autres       80,06 EUR
     Produits:Financiers:GainsDeChange     0,05 EUR
@@ -50,6 +50,6 @@
     Charges:Financières:PertesDeChange         -1,30 EUR
     Spéciaux:Bilan:Clôture
 
-2024-09-30 * Solde des comptes
+2024-09-30 Solde des comptes
     Spéciaux:Bilan:Clôture          -439,44 EUR
     Capitaux:RésultatDeLExercice:Perte      

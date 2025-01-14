@@ -1,4 +1,16 @@
-2023-11-06 * Sofiane Baltaci
+2024-10-02 Amazon Web Services EMEA SARL
+    ; Document: 2024-09-02-AWS-invoice.pdf
+    ; Description: Cloud Services - September 2024
+    Tiers:Fournisseurs                                               1,60 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto 
+
+2024-10-05 Microsoft
+    ; Document: 2024-10-05-Microsoft-G060983230.pdf
+    ; Description: September 2024
+    Tiers:Fournisseurs                                               16,85 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto 
+
+2024-11-06 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -6,7 +18,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     30,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2023-11-08 * Sofiane Baltaci
+2024-11-08 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -14,10 +26,18 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     40,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2023-12-04 * Sofiane Baltaci
+2024-12-04 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
     ; NetAmount: EUR 50,00
     Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
+
+2024-12-24 Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 40,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     40,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     

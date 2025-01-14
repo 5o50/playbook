@@ -5,6 +5,8 @@ https://devhints.io/ledger
 ui: https://paisa.fyi/
 price fetcher: https://gitlab.com/chrisberkhout/pricehist
 
+https://ledger-cli.org/docs.html
+
 ```
 pricehist fetch ecb EUR/USD -s 2024-01-20 -e 2024-01-20 -o ledger
 ```

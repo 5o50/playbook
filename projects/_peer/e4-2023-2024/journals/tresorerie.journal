@@ -1,4 +1,4 @@
-2023-10-11 * Sofiane Baltaci
+2023-10-11 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -6,7 +6,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     459,20 EUR
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci
 
-2023-11-28 * SIE PARIS 11
+2023-11-28 SIE PARIS 11
     ; Document:
     ; Description: Remboursement crédit TVA - REMB. DGFiP - 882756513 - surplus de 0,06 versé par les trésor imputé aux produits exceptionnels
     ; Method: Transfer
@@ -15,7 +15,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:RemboursementDemandé        -480,94 EUR
     Produits:Exceptionnels:Autres                                                               -0,06 EUR
 
-2023-12-08 * Sofiane Baltaci
+2023-12-08 Sofiane Baltaci
     ; Document: 
     ; Description: Retrait d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -23,7 +23,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     -391,10 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2023-12-13 * Sofiane Baltaci
+2023-12-13 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -31,7 +31,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     78,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2023-12-18 * DGFIP
+2023-12-18 DGFIP
     ; Document: 2023-12-18-dgfip-erreur-555.jpeg
     ; Description: Erreur de prélèvement de la DGFIP - correspond au règlement du CFE pour la societe 555 tech - à imputer au compte courant d'associé de Sofiane Baltaci
     ; Method: Direct Debit
@@ -39,7 +39,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     -78,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2023-12-19 * Sofiane Baltaci
+2023-12-19 Sofiane Baltaci
     ; Document:
     ; Description: Retrait d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -47,7 +47,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     -80,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2023-12-21 * Sofiane Baltaci
+2023-12-21 Sofiane Baltaci
     ; Document: 
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -55,7 +55,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     74,99 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2024-01-18 * Sofiane Baltaci
+2024-01-18 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -63,7 +63,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2024-02-03 * Sofiane Baltaci
+2024-02-03 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -71,7 +71,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     89,43 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                     
 
-2024-02-20 * Greffe du Tribunal de Commerce de Paris
+2024-02-20 Greffe du Tribunal de Commerce de Paris
     ; Document: 2024-02-20-greffes-invoice-215417396.pdf
     ; Description: Frais de dépôt des comptes annuels exercice e3-2022-2023
     ; Method: Card **6158
@@ -83,7 +83,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire                   2,23 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux     41,62 EUR
 
-2024-02-28 * Sofiane Baltaci
+2024-02-28 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -91,7 +91,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     142,90 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
-2024-05-01 * Sofiane Baltaci
+2024-05-01 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -99,7 +99,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     89,14 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
-2024-06-14 * Sofiane Baltaci
+2024-06-14 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -107,7 +107,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     100,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
-2024-07-06 * Sofiane Baltaci
+2024-07-06 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -115,7 +115,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
-2024-07-28 * Sofiane Baltaci
+2024-07-28 Sofiane Baltaci
     ; Document:
     ; Description: Retrait d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -123,7 +123,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     -30,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci                 
 
-2024-08-03 * Sofiane Baltaci
+2024-08-03 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -131,7 +131,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     20,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
-2024-08-26 * Sofiane Baltaci
+2024-08-26 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer
@@ -139,7 +139,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                     50,00 EUR 
     Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
 
-2024-09-21 * Sofiane Baltaci
+2024-09-21 Sofiane Baltaci
     ; Document:
     ; Description: Apport d'un associé (Sofiane Baltaci)
     ; Method: Transfer

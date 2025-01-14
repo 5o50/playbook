@@ -1,19 +1,21 @@
 commodity EUR
+    note European Euro
     format EUR 1.000,00
     alias €
-    note European Euro
     default
 
 commodity USD
+    note US Dollar
     format USD 1,000.00 
     alias $
-    note US Dollar
+    default
 
 commodity GBP
+    note British Pound
     format GBP 1,000.00
     alias £
-    note British Pound
-
+    
 commodity BTC
-    format BTC 1000.00000000
     note Bitcoin
+    format BTC 1000.00000000
+    

@@ -1,0 +1,37 @@
+#!/bin/bash
+
+set -eu
+
+join_by() {
+    local IFS="$1"  # Set the delimiter
+    shift           # Shift to get to the elements
+    echo "$*"         # Print all elements joined by the delimiter
+}
+
+accs_opposited=(
+            "^Capitaux"
+            # "^Immobilisations:Amortissements"
+            # "^Tiers:OrganismesSociaux"
+            # "Tiers:GroupeEtAssociés"
+            #"RabaisRemisesRistournesObtenusSurAchats"    
+            #"Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes"
+            "^Produits"
+            )
+
+joined_accs_opposited=$(join_by "|" "${accs_opposited[@]}")
+
+
+ledger \
+    print \
+    --file main.ledger \
+    --no-pager \
+    --no-total \
+    --date-format %Y-%m-%d \
+    --sort date \
+    --pedantic \
+    --check-payees \
+    --exchange EUR \
+    $*
+
+
+
