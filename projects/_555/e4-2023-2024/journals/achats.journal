@@ -1,4 +1,4 @@
-2023-10-05 * Microsoft
+2023-10-05 Microsoft
     ; Document: 2023-10-05-Microsoft-G029440443.pdf
     ; Description: Septembre 2023 - exercice précédent
     ; Method: Card **6158
@@ -10,7 +10,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,34 EUR
     Charges:Exceptionnelles:SurExercicesAntérieurs                                                      11,70 EUR
 
-2023-10-09 * Bouygues Telecom
+2023-10-09 Bouygues Telecom
     ; Document: 2023-09-27-Bouyguestelecom_Facture_20230927.pdf
     ; Description: Règlement de la facture de septembre - exercice precedent
     ; Method: Card **6158
@@ -22,7 +22,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    4,17 EUR
     Charges:Exceptionnelles:SurExercicesAntérieurs                                                   20,82 EUR
 
-2023-10-18 * Houdart AC
+2023-10-18 Houdart AC
     ; Document: 2023-[05...08]-houdart-ac-invoice.pdf
     ; Description: Réglement des honoraires comptables de l'exercice précédent - mai,juin,juillet,aout -le mois de septembre a été offert cf email christophe de rouveray
     ; Method: Virement
@@ -34,7 +34,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire  124,00 EUR
     Charges:Exceptionnelles:SurExercicesAntérieurs                                                    620,00 EUR
 
-2023-10-27 * Bouygues Telecom
+2023-10-27 Bouygues Telecom
     ; Document: 2023-10-27-Bouyguestelecom_Facture_20231027.pdf
     ; Description: October 2023
     ; Method: Card **6158
@@ -46,7 +46,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,17 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom          20,82 EUR
 
-2023-11-05 * Microsoft
+2023-11-05 Microsoft
     ; Document: 2023-11-05-Microsoft-G031311236.pdf
     ; Description: October 2023
     ; Method: Card **6158
@@ -58,7 +58,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,34 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             11,70 EUR
 
-2023-11-09 * Bouygues Telecom
+2023-11-09 Bouygues Telecom
     ; Document: 2023-10-27-Bouyguestelecom_Facture_20231027.pdf
     ; Description: Règlement October 2023
     ; Method: Card **6158
@@ -69,7 +69,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -24,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            24,99 EUR
 
-2023-11-27 * Bouygues Telecom
+2023-11-27 Bouygues Telecom
     ; Document: 2023-11-27-Bouyguestelecom_Facture_20231127.pdf
     ; Description: Novembre 2023
     ; Method: Card **6158
@@ -81,7 +81,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,17 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom          20,82 EUR
 
-2023-12-05 * Microsoft
+2023-12-05 Microsoft
     ; Document: 2023-12-05-Microsoft-G033717240.pdf
     ; Description: Remboursement Microsoft suite à annulation service
     ; Method: Virement
@@ -93,7 +93,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   -3,40 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft            -16,98 EUR
 
-2023-12-11 * Bouygues Telecom
+2023-12-11 Bouygues Telecom
     ; Document: 2023-11-27-Bouyguestelecom_Facture_20231127.pdf
     ; Description: Règlement Novembre 2023
     ; Method: Card **6158
@@ -104,7 +104,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -24,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            24,99 EUR
 
-2023-12-27 * Bouygues Telecom
+2023-12-27 Bouygues Telecom
     ; Document: 2023-12-27-Bouyguestelecom_Facture_20231227.pdf
     ; Description: Décembre 2023
     ; Method: Card **6158
@@ -117,7 +117,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom          20,82 EUR
 
 
-2024-01-06 * Microsoft
+2024-01-06 Microsoft
     ; Document: 2024-01-05-Microsoft-G035460195_bf55d41b6560407eafa615a8d150b7d5.pdf
     ; Description: Remboursement Décembre 2023
     ; Method: Virement
@@ -129,7 +129,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   -2,34 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft            -11,70 EUR
 
-2024-01-08 * Bouygues Telecom
+2024-01-08 Bouygues Telecom
     ; Document: 2023-12-27-Bouyguestelecom_Facture_20231227.pdf
     ; Description: Règlement Décembre 2023
     ; Method: Card **6158
@@ -140,7 +140,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -24,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            24,99 EUR
 
-2024-01-27 * Bouygues Telecom
+2024-01-27 Bouygues Telecom
     ; Document: 2024-01-27-Bouyguestelecom_Facture_20240127.pdf
     ; Description: Janvier 2024
     ; Method: Card **6158
@@ -152,7 +152,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,17 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom          20,82 EUR
 
-2024-02-06 * Microsoft
+2024-02-06 Microsoft
     ; Document: 2024-02-05-Microsoft-G038252322_a9918a4da427417383fca3ac11e4568e.pdf
     ; Description: Remboursement Janvier 2024
     ; Method: Virement
@@ -164,7 +164,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   -1,28 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             -6,42 EUR
 
-2024-02-08 * Bouygues Telecom
+2024-02-08 Bouygues Telecom
     ; Document: 2024-01-27-Bouyguestelecom_Facture_20240127.pdf
     ; Description: Règlement Janvier 2024
     ; Method: Card **6158
@@ -175,7 +175,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -24,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            24,99 EUR
 
-2024-02-27 * Bouygues Telecom
+2024-02-27 Bouygues Telecom
     ; Document: 2024-02-27-Bouyguestelecom_Facture_20240227.pdf
     ; Description: Février 2024
     ; Method: Card **6158
@@ -188,7 +188,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         22,49 EUR
 
 
-2024-03-01 * Amazon Services Europe S.à r.l.
+2024-03-01 Amazon Services Europe S.à r.l.
     ; Document: 2024-03-31-Amazon-Services-FR-ASE-2024-75808.pdf
     ; Description: Frais de vente
     ; Method: Card **6158
@@ -200,7 +200,7 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon  39,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   7,80 EUR
 
-2024-03-08 * Bouygues Telecom
+2024-03-08 Bouygues Telecom
     ; Document: 2024-02-27-Bouyguestelecom_Facture_20240227.pdf
     ; Description: Règlement Février 2024
     ; Method: Card **6158
@@ -211,7 +211,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
 
-2024-03-27 * Bouygues Telecom
+2024-03-27 Bouygues Telecom
     ; Document: 2024-03-27-Bouyguestelecom_Facture_20240327.pdf
     ; Description: Mars 2024
     ; Method: Card **6158
@@ -224,7 +224,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         22,49 EUR
 
 
-2024-04-08 * Bouygues Telecom
+2024-04-08 Bouygues Telecom
     ; Document: 2024-03-27-Bouyguestelecom_Facture_20240327.pdf
     ; Description: Règlement Mars 2024
     ; Method: Card **6158
@@ -235,7 +235,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
 
-2024-04-13 * Helium10
+2024-04-13 Helium10
     ; Document: 2024-04-13-Helium10-Invoice-1737E036-0001.pdf
     ; Description: 
     ; Method: Card **6158
@@ -249,7 +249,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -14,87 EUR
     Charges:Financières:PertesDeChange                                                                   0,22 EUR
 
-2024-04-27 * Bouygues Telecom
+2024-04-27 Bouygues Telecom
     ; Document: 2024-04-27-Bouyguestelecom_Facture_20240427.pdf
     ; Description: Avril 2024
     ; Method: Card **6158
@@ -262,7 +262,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         22,49 EUR
 
 
-2024-05-07 * DataDive
+2024-05-07 DataDive
     ; Document: 2024-05-07-DataDive-Receipt-2372-4363.pdf
     ; Description: 
     ; Method: Card **6158
@@ -276,7 +276,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -7,25 EUR
     Charges:Financières:PertesDeChange                                                                   0,04 EUR
 
-2024-05-08 * ExplodingTopics
+2024-05-08 ExplodingTopics
     ; Document: 2024-05-08-ExplodingTopics-Receipt-2628-5424.pdf
     ; Description: 
     ; Method: Card **6158
@@ -289,7 +289,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -0,19 EUR
     Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                             0,93 EUR
 
-2024-05-10 * Keepa
+2024-05-10 Keepa
     ; Document: 2024-05-10-KeepaInvoice202430290396607b3.pdf
     ; Description: 
     ; Method: Card **6158
@@ -299,7 +299,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                       19,00 EUR
 
-2024-05-10 * Bouygues Telecom
+2024-05-10 Bouygues Telecom
     ; Document: 2024-04-27-Bouyguestelecom_Facture_20240427.pdf
     ; Description: Règlement Avril 2024
     ; Method: Card **6158
@@ -310,7 +310,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
 
-2024-05-13 * Midjourney
+2024-05-13 Midjourney
     ; Document: 2024-05-13-Midjourney-Invoice-52E6C0E6-0001.pdf
     ; Description: 
     ; Method: Card **6158
@@ -324,7 +324,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -5,56 EUR
     Charges:Financières:PertesDeChange                                                                   0,10 EUR
 
-2024-05-13 * DataDive
+2024-05-13 DataDive
     ; Document: 2024-05-13-DataDive-Receipt-2277-9773.pdf
     ; Description: 
     ; Method: Card **6158
@@ -338,7 +338,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -16,41 EUR
     Charges:Financières:PertesDeChange                                                                   0,23 EUR
 
-2024-05-15 * Infogreffe
+2024-05-15 Infogreffe
     ; Document: 2024-05-15-Infogreffe-Justificatif 40514-WUUFA.pdf
     ; Description: 
     ; Method: Card **6158
@@ -350,7 +350,7 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:FraisDActesEtDeContentieux:Infogreffe  3,75 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       0,75 EUR
 
-2024-05-15 * Costco
+2024-05-15 Costco
     ; Document: 2024-05-15-Costco.fr_my-account_receipts.pdf
     ; Description: 
     ; Method: Card **6158
@@ -362,7 +362,7 @@
     Charges:AutresServicesExtérieurs:Adhésions:Costco                                                      30,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire        6,00 EUR
 
-2024-05-15 * Fnac
+2024-05-15 Fnac
     ; Document: 2024-05-15-fnac-invoice.pdf
     ; Description: 
     ; Method: Card **6158
@@ -374,7 +374,7 @@
     Charges:AutresServicesExtérieurs:Adhésions:Fnac                                                         8,33 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire        1,66 EUR
 
-2024-05-15 * Amazon
+2024-05-15 Amazon
     ; Document: 2024-05-15-amazon-invoice.pdf
     ; Description: imprimante etiquettes + papier
     ; Method: Card **6158
@@ -386,7 +386,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           198,22 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       39,65 EUR
 
-2024-05-17 * Amazon
+2024-05-17 Amazon
     ; Document: 2024-05-17-Amazon.fr - Commande 405-0754774-9327505.pdf
     ; Description: pese-colis + sacs d'expedition
     ; Method: Card **6158
@@ -399,7 +399,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       8,90 EUR
     Charges:Achats:RabaisRemisesRistournesObtenusSurAchats                                                -5,66 EUR
 
-2024-05-19 * Amazon
+2024-05-19 Amazon
     ; Document: 2024-05-17-Amazon.fr - Commande 405-0754774-9327505.pdf
     ; Description: etiquettes
     ; Method: Card **6158
@@ -411,7 +411,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           48,31 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       9,67 EUR
 
-2024-05-20 * Amazon
+2024-05-20 Amazon
     ; Document: 2024-05-20-amazon-HXT202405296393925.pdf
     ; Description: sample wifi router
     ; Method: Card **6158
@@ -422,7 +422,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                        -4,86 EUR
 
 
-2024-05-23 * SellerAmp
+2024-05-23 SellerAmp
     ; Document: 2024-05-23-selleramp-INV-598590.pdf
     ; Description: 
     ; Method: Card **6158
@@ -436,7 +436,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,68 EUR
     Charges:Financières:PertesDeChange                                                                  0,06 EUR
 
-2024-05-24 * Packlink
+2024-05-24 Packlink
     ; Document: 2024-05-24-Packlink-E24FC02455703.pdf
     ; Description: pour livrer FR -> IT : PARKSIDE® Akku Säbelsäge »PSSA«, 20 Volt, 100 mm Schnittleistung, ohne Akku/Ladegerät
     ; Method: Card **6158
@@ -447,7 +447,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -3,22 EUR
 
 
-2024-05-27 * Bouygues Telecom
+2024-05-27 Bouygues Telecom
     ; Document: 2024-05-27-Bouyguestelecom_Facture_20240527.pdf
     ; Description: Mai 2024
     ; Method: Card **6158
@@ -459,7 +459,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom         22,49 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,50 EUR
 
-2024-05-29 * DataDive
+2024-05-29 DataDive
     ; Document: 2024-05-29-DataDive-Refund-3167-0072.pdf
     ; Description: 
     ; Method: Card **6158
@@ -473,7 +473,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -16,32 EUR
     Produits:Financiers:GainsDeChange                                                                  -0,04 EUR
 
-2024-05-29 * PhotoRoom
+2024-05-29 PhotoRoom
     ; Document: 2024-05-29-Photoroom-Receipt-2163-4371.pdf
     ; Description: 
     ; Method: Card **6158
@@ -485,7 +485,7 @@
     Charges:ServicesExtérieurs:Locations:Services:PhotoRoom                                               8,32 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      1,67 EUR
 
-2024-05-30 * Packlink
+2024-05-30 Packlink
     ; Document: 2024-05-30-Packlink-E24FC02546559.pdf
     ; Description: Livraison FR -> ES : PARKSIDE PASA 20-Li - Sierra de podar inalámbrica (velocidad de desplazamiento controlable, con equipamiento de agarre suave (sin batería)
     ; Method: Card **6158
@@ -495,7 +495,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire          3,06 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -3,06 EUR
 
-2024-05-31 * PhotoRoom
+2024-05-31 PhotoRoom
     ; Document: 2024-06-01-PhotoRoom-Refund-3002-5752.pdf
     ; Description: Refund
     ; Method: Card **6158
@@ -507,7 +507,7 @@
     Charges:ServicesExtérieurs:Locations:Services:PhotoRoom                                              -8,32 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     -1,67 EUR
 
-2024-05-31 * eBay
+2024-05-31 eBay
     ; Document: 2024-05-31-ebay-invoice-2636928141_2024-5.pdf
     ; Description: Frais d'inscription vendeur ebay
     ; Method: Direct Debit
@@ -519,7 +519,7 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       5,66 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     1,13 EUR
 
-2024-06-05 * Amazon Services Europe S.à r.l.
+2024-06-05 Amazon Services Europe S.à r.l.
     ; Document: 2024-06-30-amazon-service-invoice-FR-ASE-2024-201376.pdf
     ; Description: Frais de vente
     ; Method: Card **6158
@@ -531,7 +531,7 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon   39,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   7,80 EUR
 
-2024-06-05 * Microsoft
+2024-06-05 Microsoft
     ; Document: 2024-06-05-Microsoft-G049203656.pdf
     ; Description: Mai 2024
     ; Method: Card **6158
@@ -543,7 +543,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-06-09 * Amazon
+2024-06-09 Amazon
     ; Document: 2024-05-20-amazon-HXT202405296393925.pdf
     ; Description: achat tampon encreure
     ; Method: Card **6158
@@ -555,7 +555,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           24,92 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,98 EUR
 
-2024-06-10 * Bouygues Telecom
+2024-06-10 Bouygues Telecom
     ; Document: 2024-05-27-Bouyguestelecom_Facture_20240527.pdf
     ; Description: Règlement Mai 2024
     ; Method: Card **6158
@@ -566,7 +566,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -26,99 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            26,99 EUR
 
-2024-06-12 * Esso
+2024-06-12 Esso
     ; Document: 2024-06-12-esso-invoice.jpeg
     ; Description: carburant deplacement pro
     ; Method: Card **6158
@@ -578,7 +578,7 @@
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements:Carburant     16,67 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
 
-2024-06-12 * Costco
+2024-06-12 Costco
     ; Document: 
     ; Description: Part de pizza deplacement pro achat de marchandise 
     ; Method: Card **6158
@@ -591,7 +591,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       0,63 EUR
 
 
-2024-06-12 * GS1 France
+2024-06-12 GS1 France
     ; Document: 2024-06-14-gs1-2ad27547-7aad-47c0-9094-77f16a5f1800
     ; Description:  
     ; Method: Card **6158
@@ -604,7 +604,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:GS1                                                  99,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       39,60 EUR
 
-2024-06-13 * DataDive
+2024-06-13 DataDive
     ; Document: 2024-06-13-DataDive-Invoice-C28BA231-0001.pdf
     ; Description: 
     ; Method: Card **6158
@@ -618,7 +618,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -7,23 EUR
     Charges:Financières:PertesDeChange                                                                   0,18 EUR
 
-2024-06-13 * Amazon
+2024-06-13 Amazon
     ; Document: 2024-06-13-amazon-invoice.pdf
     ; Description: achat sample electronique - smartwatch
     ; Method: Card **6158
@@ -627,7 +627,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           40,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      10,00 EUR
 
-2024-06-14 * Keepa
+2024-06-14 Keepa
     ; Document: 2024-06-14-KeepaInvoice202437469045507b3.pdf
     ; Description: 
     ; Method: Card **6158
@@ -638,7 +638,7 @@
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                            19,00 EUR
 
 
-2024-06-22 * Cloudflare
+2024-06-22 Cloudflare
     ; Document: 2024-06-22-cloudflare-fabc8229-6bbc-58bc-a25e-1cc9084a0c1f.pdf
     ; Description: 
     ; Method: Card **6158
@@ -652,7 +652,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:mymotherstore.com                   9,14 EUR
     Charges:Financières:PertesDeChange                                                                  0,02 EUR
 
-2024-06-23 * SellerAmp
+2024-06-23 SellerAmp
     ; Document: 2024-06-23-selleramp-INV-637203.pdf
     ; Description: 
     ; Method: Card **6158
@@ -666,7 +666,7 @@
     Charges:ServicesExtérieurs:Locations:Services:SellerAmp                                             18,67 EUR
     Charges:Financières:PertesDeChange                                                                  0,03 EUR
 
-2024-06-26 * Amazon
+2024-06-26 Amazon
     ; Document: 2024-06-26-amazon-invoice.pdf
     ; Description: achat sample electronique - routeur wifi
     ; Method: Card **6158
@@ -678,7 +678,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           19,49 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,90 EUR
 
-2024-06-27 * Packlink
+2024-06-27 Packlink
     ; Document: 2024-06-27-packlink-E24FC03005963
     ; Description: Livraison FR -> ?? : 
     ; Method: Card **6158
@@ -688,7 +688,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire          2,10 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -2,10 EUR
 
-2024-06-27 * Bouygues Telecom
+2024-06-27 Bouygues Telecom
     ; Document: 2024-06-27-Bouyguestelecom_Facture_20240627.pdf
     ; Description: Juin 2024
     ; Method: Card **6158
@@ -701,7 +701,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       4,66 EUR
 
 
-2024-06-30 * eBay
+2024-06-30 eBay
     ; Document: 2024-06-30-Ebay-2636928141_2024-6.pdf
     ; Description: Frais d'inscription vendeur et frais unique ebay
     ; Method: Direct Debit
@@ -714,7 +714,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire      3,90 EUR
 
 
-2024-06-30 * Amazon
+2024-06-30 Amazon
     ; Document: 2024-06-30-amazon-invoice.pdf
     ; Description: achat adaptateur micro pour enregistrement contenu
     ; Method: Card **6158
@@ -726,7 +726,7 @@
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           27,18 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       5,43 EUR
 
-2024-07-05 * Microsoft
+2024-07-05 Microsoft
     ; Document: 2024-07-05-Microsoft-G052100633.pdf
     ; Description: Juin 2024
     ; Method: Card **6158
@@ -738,7 +738,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-07-07 * Packlink
+2024-07-07 Packlink
     ; Document: 2024-07-07-Packlink-E24FC03157064.pdf
     ; Description: Livraison FR -> ES : 
     ; Method: Card **6158
@@ -749,7 +749,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -2,10 EUR
 
 
-2024-07-08 * Bouygues Telecom
+2024-07-08 Bouygues Telecom
     ; Document: 2024-06-27-Bouyguestelecom_Facture_20240627.pdf
     ; Description: Règlement Juin 2024
     ; Method: Card **6158
@@ -760,7 +760,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                        -27,95 EUR
     Tiers:Fournisseurs:AchatsDeBiensEtServices:Nationaux:BouyguesTelecom                            27,95 EUR
 
-2024-07-10 * Free Mobile
+2024-07-10 Free Mobile
     ; Document: 2024-07-21-Free-mobile-facture.pdf
     ; Description: Avance CB du 1er mois de forfait Free du 21-07 au 20-08
     ; Method: Card **6158
@@ -772,7 +772,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       5,00 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              24,99 EUR
 
-2024-07-13 * Packlink
+2024-07-13 Packlink
     ; Document: 2024-07-13-Packlink-E24FC03266243.pdf
     ; Description: Livraison FR -> ES : 
     ; Method: Card **6158
@@ -782,7 +782,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire          2,12 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -2,12 EUR
 
-2024-07-13 * Amazon Services Europe S.à r.l.
+2024-07-13 Amazon Services Europe S.à r.l.
     ; Document: 2024-07-31-Amazon-Service-2-LU-ASE-2024-15035991
     ; Description: Frais de vente
     ; Method: Card **6158
@@ -792,7 +792,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    7,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -7,80 EUR
 
-2024-07-13 * DataDive
+2024-07-13 DataDive
     ; Document: 2024-07-13-DataDive-Invoice-C28BA231-0002.pdf
     ; Description: 
     ; Method: Card **6158
@@ -806,7 +806,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -7,16 EUR
     Charges:Financières:PertesDeChange                                                                   0,11 EUR
 
-2024-07-14 * Keepa
+2024-07-14 Keepa
     ; Document: 2024-07-14-KeepaInvoice202497039500807b3.pdf
     ; Description: 
     ; Method: Card **6158
@@ -816,7 +816,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                            19,00 EUR
 
-2024-07-13 * Packlink
+2024-07-13 Packlink
     ; Document: 2024-07-16-Packlink-E24FC03316734.pdf
     ; Description: Livraison FR -> ?? : 
     ; Method: Card **6158
@@ -826,7 +826,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire          3,88 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -3,88 EUR
 
-2024-07-20 * La Poste
+2024-07-20 La Poste
     ; Document: 2024-07-F002AA000066228_162482767.pdf
     ; Description: Livraison FR : Bague 
     ; Comment: Pas de TVA chez La Poste
@@ -835,7 +835,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                                 -1,99 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  1,99 EUR
 
-2024-07-21 * Midjourney
+2024-07-21 Midjourney
     ; Document: 2024-07-21-MidJourney-Invoice-52E6C0E6-0002.pdf
     ; Description: 
     ; Method: Card **6158
@@ -849,7 +849,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -1,84 EUR
     Charges:Financières:PertesDeChange                                                                   0,02 EUR
 
-2024-07-23 * SellerAmp
+2024-07-23 SellerAmp
     ; Document: 2024-07-23-SellerAmp-INV-676141.pdf
     ; Description: 
     ; Method: Card **6158
@@ -863,7 +863,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,67 EUR
     Produits:Financiers:GainsDeChange                                                                  -0,02 EUR
 
-2024-07-24 * Amazon Online France SAS
+2024-07-24 Amazon Online France SAS
     ; Document: 2024-07-31-Amazon-Online-2-FR-AOFR-2024-511313
     ; Description: Cost of Advertising
     ; Comment: PPC
@@ -876,7 +876,7 @@
     Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon                                               2,06 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,41 EUR
 
-2024-07-25 * Packlink
+2024-07-25 Packlink
     ; Document: 2024-07-25-Packlink-E24FC03455797.pdf
     ; Description: Livraison FR -> ES : 
     ; Method: Card **6158
@@ -887,7 +887,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -2,10 EUR
 
 
-2024-07-27 * Bouygues Telecom
+2024-07-27 Bouygues Telecom
     ; Document: 2024-07-27-Bouyguestelecom_Facture_20240727.pdf
     ; Description: Rbt Juin/Juillet 2024
     ; Method: Card **6158
@@ -900,7 +900,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:BouyguesTelecom          -2,77 EUR
 
 
-2024-07-28 * JungleScout
+2024-07-28 JungleScout
     ; Document: 2024-07-28-Jungle_Scout_Invoice_-_Jul_28__2024__1_.pdf
     ; Description: 
     ; Method: Card **6158
@@ -914,7 +914,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -9,02 EUR
     Charges:Financières:PertesDeChange                                                                   0,08 EUR
 
-2024-07-28 * JungleScout
+2024-07-28 JungleScout
     ; Document: 2024-07-28-Jungle_Scout_Invoice_-_Jul_28__2024__1_2.pdf
     ; Description: 
     ; Method: Card **6158
@@ -928,7 +928,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -5,50 EUR
     Charges:Financières:PertesDeChange                                                                   0,06 EUR
 
-2024-07-31 * eBay
+2024-07-31 eBay
     ; Document: 2024-07-31-ebay-2636928141_2024-7.pdf
     ; Description: Frais d'insertion
     ; Method: Direct Debit
@@ -941,7 +941,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     0,06 EUR
 
 
-2024-08-02 * Amazon Online France SAS
+2024-08-02 Amazon Online France SAS
     ; Document: 2024-08-31-Amazon-Online-2-FR-AOFR-2024-520174
     ; Description: Cost of Advertising
     ; Comment: PPC
@@ -954,7 +954,7 @@
     Charges:AutresServicesExtérieurs:Publicité:PPC:Amazon                                               28,16 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    5,63 EUR
 
-2024-08-05 * Microsoft
+2024-08-05 Microsoft
     ; Document: 2024-08-05-Microsoft-G054271813.pdf
     ; Description: Juillet 2024
     ; Method: Card **6158
@@ -966,7 +966,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-08-14 * Keepa
+2024-08-14 Keepa
     ; Document: 2024-08-14-KeepaInvoice202464907920007b3.pdf
     ; Description: 
     ; Method: Card **6158
@@ -976,7 +976,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
 
-2024-08-18 * Packlink
+2024-08-18 Packlink
     ; Document: 2024-08-18-Packlink-E24FC03782516.pdf
     ; Description: Livraison FR -> IT : 
     ; Method: Card **6158
@@ -987,7 +987,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                           -2,64 EUR
 
 
-2024-08-21 * Midjourney
+2024-08-21 Midjourney
     ; Document: 2024-08-21-MidJourney-Invoice-52E6C0E6-0003.pdf
     ; Description: 
     ; Method: Card **6158
@@ -1001,7 +1001,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -1,80 EUR
     Charges:Financières:PertesDeChange                                                                   0,04 EUR
 
-2024-08-21 * Free Mobile
+2024-08-21 Free Mobile
     ; Document: 2024-08-21-FreeMobile-facture.pdf
     ; Description: Septembre 2024
     ; Method: Card **6158
@@ -1013,7 +1013,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
 
-2024-08-23 * SellerAmp
+2024-08-23 SellerAmp
     ; Document: 2024-08-23-SellerAmp-INV-715503.pdf
     ; Description: 
     ; Method: Card **6158
@@ -1027,7 +1027,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,59 EUR
     Charges:Financières:PertesDeChange                                                                  0,04 EUR
 
-2024-08-26 * Cloudflare
+2024-08-26 Cloudflare
     ; Document: 2024-08-26-Cloudflare-808ee787-a36a-5dee-93af-58c506eda325.pdf
     ; Description: 
     ; Method: Card **6158
@@ -1041,7 +1041,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:sophiechiro.com                     8,75 EUR
     Charges:Financières:PertesDeChange                                                                  0,05 EUR
 
-2024-08-28 * Anthropic
+2024-08-28 Anthropic
     ; Document: 2024-08-28-Anthropic-Receipt-2730-1275.pdf
     ; Description: Claude.Ai
     ; Method: Card **6158
@@ -1053,7 +1053,7 @@
     Charges:ServicesExtérieurs:Locations:Services:Anthropic                                            18,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,60 EUR
 
-2024-08-31 * Anthropic
+2024-08-31 Anthropic
     ; Document: 2024-08-31-Anthropic-Receipt-2045-5902.pdf
     ; Description: One-time Anthropic API Credits
     ; Method: Card **6158
@@ -1067,7 +1067,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -4,51 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
-2024-08-31 * eBay
+2024-08-31 eBay
     ; Document: 2024-08-31-ebay-2636928141_2024-8.pdf
     ; Description: Frais d'insertion
     ; Method: Direct Debit
@@ -1080,7 +1080,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     0,06 EUR
 
 
-2024-09-05 * Microsoft
+2024-09-05 Microsoft
     ; Document: 2024-09-05-Microsoft-G057432615.pdf
     ; Description: Août 2024
     ; Method: Card **6158
@@ -1092,7 +1092,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
-2024-09-09 * Cloudflare
+2024-09-09 Cloudflare
     ; Document: 2024-09-09-Cloudflare-cdc9f5ce-949d-5ecf-b8af-3f4e6615caa9.pdf
     ; Description: peerpersonal.com transfer
     ; Method: Card **6158
@@ -1106,7 +1106,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:peerpersonal.com                    9,45 EUR
     Charges:Financières:PertesDeChange                                                                  0,01 EUR
 
-2024-09-09 * Cloudflare
+2024-09-09 Cloudflare
     ; Document: 2024-09-09-Cloudflare-9f7514c3-8f6f-5ae5-8d0f-040fd989e2f4.pdf
     ; Description: social2030.com transfer
     ; Method: Card **6158
@@ -1120,7 +1120,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:social2030.com                    9,45 EUR
     Charges:Financières:PertesDeChange                                                                  0,01 EUR
 
-2024-09-14 * Keepa
+2024-09-14 Keepa
     ; Document: 2024-09-14-KeepaInvoice202432715802407b3.pdf
     ; Description: 
     ; Method: Card **6158
@@ -1130,7 +1130,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                 19,00 EUR
 
-2024-09-22 * Amazon Services Europe S.à r.l.
+2024-09-22 Amazon Services Europe S.à r.l.
     ; Document: 2024-08-31-Amazon-Service-2-FR-AEU-2024-61637.pdf
     ; Description: Frais de vente / Settlement for 04/08/2024 - 18/08/2024
     ; Method: Card **6158
@@ -1142,7 +1142,7 @@
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon  39,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   7,80 EUR
 
-2024-09-23 * La Poste
+2024-09-23 La Poste
     ; Document: 2024-09-23-LaPoste-F004AA000622268_165775570.pdf
     ; Description: Livraison FR : Bague 
     ; Comment: Pas de TVA chez La Poste
@@ -1151,7 +1151,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                                 -1,79 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  1,79 EUR
 
-2024-09-24 * Cloudflare
+2024-09-24 Cloudflare
     ; Document: 2024-09-24-Cloudflare-4bd39826-5ba1-531b-947b-8ce3f0138067.pdf
     ; Description: socldev.com 
     ; Method: Card **6158
@@ -1165,7 +1165,7 @@
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:socldev.com                         9,38 EUR
     Charges:Financières:PertesDeChange                                                                  0,04 EUR
 
-2024-09-24 * Midjourney
+2024-09-24 Midjourney
     ; Document: 
     ; Description: 
     ; Method: Card **6158
@@ -1179,7 +1179,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -1,80 EUR
     Charges:Financières:PertesDeChange                                                                   0,04 EUR
 
-2024-09-25 * Free Mobile
+2024-09-25 Free Mobile
     ; Document: 2024-08-21-FreeMobile-facture.pdf
     ; Description: Septembre 2024
     ; Method: Card **6158
@@ -1191,7 +1191,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,36 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,82 EUR
 
-2024-09-28 * Anthropic
+2024-09-28 Anthropic
     ; Document: 2024-09-28-Anthropic-Receipt-2158-3057.pdf
     ; Description: Claude.Ai
     ; Method: Card **6158
@@ -1203,7 +1203,7 @@
     Charges:ServicesExtérieurs:Locations:Services:Anthropic                                            18,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,60 EUR
 
-2024-09-30 * eBay
+2024-09-30 eBay
     ; Document: 2024-09-30-ebay-2636928141_2024-9.pdf
     ; Description: Frais d'insertion
     ; Method: Direct Debit
