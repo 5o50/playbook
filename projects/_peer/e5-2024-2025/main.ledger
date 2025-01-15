@@ -1,8 +1,18 @@
 # Configurations
-include config/tags.ledger
-include config/commodities.ledger
-include config/payees.ledger
+include config/base/accounts.ledger
 include config/accounts.ledger
+
+include config/base/payees.ledger
+include config/payees.ledger
+
+include config/base/tags.ledger
+include config/tags.ledger
+
+include config/base/commodities.ledger
+include config/commodities.ledger
+
+include config/base/fxrates.ledger
+include config/fxrates.ledger
 
 # Journaux
 include journals/a-nouveaux.journal

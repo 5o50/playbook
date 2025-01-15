@@ -1,5 +1,3 @@
-account strict
-
 ; PCG 2025 - ANC N°2022-06
 
 ;/* -------------------------------------------------------------------------- */
@@ -41,7 +39,6 @@ account Immobilisations:IncorporellesEtFraisDÉtabl:FraisDÉtablissement
 
 ; immos corporelles: biens ayant une valeur économique et une substance matérielle tangible.
 ; ex: bâtiments, machines, outillage, etc.
-
 
 account Immobilisations:Corporelles:InstallationsTechniquesMatérielsEtOutillageIndustriels
     note 215 - Installations techniques, matériels et outillage industriels
@@ -140,6 +137,9 @@ account Tiers:État:ImpôtsSurLesBénéfices
 account Tiers:État:TaxesSurLeChiffreDAffaires
     note 445 - État - Taxes sur le chiffre d'affaires
 
+account Tiers:État:TaxesSurLeChiffreDAffaires:Due:Nationale
+    note 4451 - TVA due nationale
+
 account Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire
     note 4452 - TVA due intracommunautaire
 
@@ -161,11 +161,14 @@ account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurImmobilisation
 account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices
     note 44566 - TVA sur autres biens et services
 
-account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire
-    note 445662 - TVA sur autres biens et services intracommunautaire
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Nationaux
+    note 445661 - TVA sur autres biens et services nationaux
 
-account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire
-    note 445663 - TVA sur autres biens et services extracommunautaire
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires
+    note 445662 - TVA sur autres biens et services intracommunautaires
+
+account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires
+    note 445663 - TVA sur autres biens et services extracommunautaires
 
 account Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:CréditDeTVAÀReporter
     note 44567 - Crédit de TVA à reporter
@@ -184,6 +187,12 @@ account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:Rembour
 
 account Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:FacturesNonParvenues
     note 44586 - Taxes sur le chiffre d'affaires sur factures non parvenues
+
+account Tiers:État:AutresImpôtsTaxesEtVersementsAssimilés
+    note 447 - Autres impôts, taxes et versements assimilés
+
+account Tiers:État:AutresImpôtsTaxesEtVersementsAssimilés:CFE
+    note 4471 - CFE
 
 ; 45 - Groupe et associés
 account Tiers:GroupeEtAssociés:Groupe
@@ -315,6 +324,20 @@ account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Honor
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:Divers
     note 6228 - Divers
 
+; 623 - Publicité, publications, relations publiques
+account Charges:AutresServicesExtérieurs:Publicité
+    note 623 - Publicité, publications, relations publiques
+
+; 624 - Transports de biens et transports collectifs du personnel
+account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel
+    note 624 - Transports de biens et transports collectifs du personnel
+
+account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurAchats
+    note 6241 - Transports sur achats
+
+account Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes
+    note 6242 - Transports sur ventes
+
 ; 625 - Déplacements, missions et réceptions
 account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions
     note 625 - Déplacements, missions et réceptions
@@ -335,54 +358,11 @@ account Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:Ré
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications
     note 626 - Frais postaux et de télécommunications
 
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement
-    note 6261 - Services d'hébergement et cloud computing
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS
-    note 62611 - Services Amazon Web Services
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet
-    note 6262 - Services Internet et noms de domaine
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap
-    note 62621 - Services Namecheap
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio
-    note 62622 - Services Twilio
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Proton
-    note 62623 - Services Proton
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:PhotoRoom
-    note 62624 - Services PhotoRoom
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft
-    note 62625 - Services Microsoft
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Gumroad
-    note 62626 - Services Gumroad
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Apple
-    note 62627 - Services Apple
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone
-    note 6263 - Services télephone
-
-
 account Charges:AutresServicesExtérieurs:ServicesBancaires
     note 627 - Services bancaires et assimilés
 
-account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte
-    note 6271 - Frais de tenue de compte
-
-account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto
-    note 62711 - Abonnement Qonto
-
-account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise
-    note 6272 - Frais de paiement en devise
-
-account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto
-    note 62721 - Frais de paiement en devise Qonto
+account Charges:AutresServicesExtérieurs:Divers
+    note 628 - Divers
 
 ; 63 - Impôts, taxes et versements assimilés
 account Charges:ImpôtsTaxes:SurRémunérationsImpôts
@@ -390,6 +370,15 @@ account Charges:ImpôtsTaxes:SurRémunérationsImpôts
 
 account Charges:ImpôtsTaxes:SurRémunérationsImpôts:TaxeSurLesSalaires
     note 6311 - Taxe sur les salaires
+
+account Charges:ImpôtsTaxes:Autres:Impôts
+    note 635 - Autres impôts, taxes et versements assimilés (administration des impôts)
+
+account Charges:ImpôtsTaxes:Autres:Impôts:Directs
+    note 6351 - Impôts directs (sauf impôts sur les bénéfices)
+
+account Charges:ImpôtsTaxes:Autres:Impôts:Directs:ContributionÉconomiqueTerritoriale
+    note 63511 - Contribution économique territoriale
 
 ; 64 - Charges de personnel
 account Charges:Personnel:RémunérationsDuPersonnel
@@ -433,6 +422,12 @@ account Charges:Personnel:CotisationsDeSécuritéSocialeEtDePrévoyance:Autres
 
 account Charges:Personnel:CotisationsSocialesPersonnellesDeLExploitant
     note 646 - Cotisations sociales personnelles de l'exploitant
+
+account Charges:AutresChargesDeGestionCourante
+    note 65 - Autres charges de gestion courante
+
+account Charges:AutresChargesDeGestionCourante:Redevances
+    note 651 - Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires
 
 account Charges:AutresChargesDeGestionCourante:PénalitésEtAutresCharges
     note 658 - Pénalités et autres charges
@@ -479,6 +474,12 @@ account Produits:Ventes:Services
 
 account Produits:Ventes:Marchandises
     note 707 - Ventes de marchandises
+
+account Produits:Annexes
+    note 708 Produits des activités annexes
+
+account Produits:Annexes:PortsEtFraisAccessoiresFacturés
+    note 7085 - Ports et frais accessoires facturés
 
 account Produits:Financiers:GainsDeChange
     note 766 - Gains de change financiers

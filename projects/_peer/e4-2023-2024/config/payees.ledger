@@ -1,9 +1,4 @@
-account strict
-
-payee Reprise des à-nouveaux
-payee Solde des comptes
-
-; National
+; Nationaux
 payee SIE PARIS 11
 payee DGFIP
 payee Houdart AC
@@ -15,7 +10,9 @@ payee PhotoRoom
 payee Microsoft
 payee Apple
 
-; Extracommunautaire
+; Intracommunautaires
+
+; Extracommunautaires
 payee Proton AG
 payee Twilio
 payee Namecheap

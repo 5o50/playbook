@@ -8,11 +8,11 @@
     ; GrossAmount: EUR 14,99
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       14,60 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           3,09 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,62 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,62 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,20 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           1,23 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,25 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,25 EUR
     Produits:Ventes:Marchandises:FR                                                                          -12,49 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -2,50 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -4,99 EUR
@@ -28,20 +28,20 @@
     ; GrossAmount: EUR 54,00
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       54,48 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           3,78 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,76 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,76 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,03 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,03 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,20 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,49 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,10 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,10 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes    6,95 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,39 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           1,39 EUR
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       -8,34 EUR
     Produits:Ventes:Marchandises:FR                                                                          -45,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,16 EUR
 
     
 2024-10-22 Amazon Services Europe S.à r.l.
@@ -54,20 +54,20 @@
     ; GrossAmount: EUR 54,00
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       54,48 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           3,78 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,76 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,76 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,03 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,03 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,20 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,49 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,10 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,10 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes    6,95 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,39 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           1,39 EUR
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       -8,34 EUR
     Produits:Ventes:Marchandises:FR                                                                          -45,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,16 EUR
 
 2024-10-22 Amazon Services Europe S.à r.l.
     ; Document: 
@@ -79,20 +79,20 @@
     ; GrossAmount: EUR 54,00
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       54,48 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           3,78 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,76 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,76 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,03 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,03 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,20 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,49 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,10 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,10 EUR
     Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes    6,95 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,39 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           1,39 EUR
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       -8,34 EUR
     Produits:Ventes:Marchandises:FR                                                                          -45,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,16 EUR
     
 2024-12-01 Sophie Baltaci EI
     ; Document: 2024-12-01-2501-F-2025-01-001-555-TECHNOLOGY
@@ -117,13 +117,13 @@
     ; GrossAmount: EUR 14,99
     Tiers:DébiteursEtCréditeursDivers:CompteDébiteursEtProduitsÀRecevoir:AmazonSellerFR                       14,56 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           3,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,60 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,60 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,03 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,03 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           0,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,20 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon           1,20 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,24 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,24 EUR
     Produits:Ventes:Marchandises:FR                                                                          -12,49 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -2,50 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -4,99 EUR

@@ -7,7 +7,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-10-07 eBay
@@ -29,7 +29,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -18,35 EUR
     Charges:ServicesExtérieurs:Locations:Services:Cursor                                               18,28 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,66 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,66 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires     3,66 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
 2024-10-14 Keepa
@@ -40,7 +40,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    3,80 EUR
 
 2024-10-19 Keyword Everywhere
     ; Document: 2024-10-19-Keyword-Everywhere-Your Paddle.com Order #66115634-120499578.pdf
@@ -55,7 +55,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0025
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -29,94 EUR
     Charges:ServicesExtérieurs:Locations:Services:KeywordEverywhere                                     24,89 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     4,98 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires     4,98 EUR
     Charges:Financières:PertesDeChange                                                                   0,07 EUR
 
 2024-10-19 ExplodingTopics
@@ -69,7 +69,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -0,92 EUR
     Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                                       0,92 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -0,18 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    0,18 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,18 EUR
 
 2024-10-23 Free Mobile
     ; Document: 2024-10-21-FreeMobile-facture.pdf
@@ -81,7 +81,7 @@
     ; GrossAmount: EUR 19,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                              -19,99 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires       3,33 EUR
 
 2024-10-27 Microsoft
     ; Document: 2024-10-27-Microsoft-G063238373.pdf
@@ -92,7 +92,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-10-31 eBay
@@ -102,7 +102,7 @@
     ; NetAmount: EUR 0,78
     Financiers:Banques:ComptesEnEuros:Qonto                                                             -0,78 EUR
     Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay       0,65 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire     0,13 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires     0,13 EUR
 
 2024-11-12 Cursor
     ; Document: 
@@ -115,7 +115,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                             -18,82 EUR
     Charges:ServicesExtérieurs:Locations:Services:Cursor                                                 18,84 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -3,77 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire      3,77 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires      3,77 EUR
     Produits:Financiers:GainsDeChange                                                                    -0,02 EUR
 
 2024-11-13 Keyword Everywhere
@@ -127,7 +127,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0588
     ; ExchangeRate(Diff): EUR/USD -0.0041
     Financiers:Banques:ComptesEnEuros:Qonto                                                             5,10 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   -4,98 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   -4,98 EUR
     Produits:Financiers:GainsDeChange                                                                  -0,12 EUR
 
 2024-11-14 Keepa
@@ -138,7 +138,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    3,80 EUR
 
 2024-11-23 Free Mobile
     ; Document: 2024-11-21-FreeMobile-facture.pdf
@@ -150,7 +150,7 @@
     ; GrossAmount: EUR 19,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                              -19,99 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires       3,33 EUR
 
 2024-11-25 Fnac
     ; Document: 2024-11-25-Fnac-Apple-Earpods
@@ -162,7 +162,7 @@
     ; GrossAmount: EUR 22,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                              -22,99 EUR
     Charges:Achats:NonStockésDeMatièresEtFournitures:FournituresAdministratives                           19,16 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,83 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires       3,83 EUR
 
 2024-11-26 La Poste
     ; Document: 2024-11-26-LaPoste-F004AA000665974_169639825.pdf
@@ -182,7 +182,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 
@@ -195,7 +195,7 @@
     ; VATAmount: EUR 0,14
     ; GrossAmount: EUR 1,50
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -1,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             1,36 EUR
 
 2024-12-10 Restauration Divers
@@ -207,7 +207,7 @@
     ; VATAmount: EUR 1,19
     ; GrossAmount: EUR 13,10
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -13,10 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    1,19 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    1,19 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            11,91 EUR
 
 2024-12-11 Restauration Divers
@@ -219,7 +219,7 @@
     ; VATAmount: EUR 0,95
     ; GrossAmount: EUR 10,50
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -10,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    0,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    0,95 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             9,55 EUR
 
 2024-12-11 Restauration Divers
@@ -231,7 +231,7 @@
     ; VATAmount: EUR 0,06
     ; GrossAmount: EUR 1,10
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -1,10 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,06 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,06 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,04 EUR
 
 2024-12-12 Cursor
@@ -245,7 +245,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,09 EUR
     Charges:ServicesExtérieurs:Locations:Services:Cursor                                               19,06 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,81 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires     3,81 EUR
     Charges:Financières:PertesDeChange                                                                   0,03 EUR
 
 
@@ -258,7 +258,7 @@
     ; VATAmount: EUR 1,00
     ; GrossAmount: EUR 6,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -6,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    1,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    1,00 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:OVHCloud             5,00 EUR
 
 2024-12-14 Keepa
@@ -269,7 +269,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
     Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    3,80 EUR
 
 2024-12-18 Cloudflare
     ; Document: 2024-12-18-Cloudflare-3d6ec576-da6b-5a7d-8436-f7eb66b0da02
@@ -280,7 +280,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0482
     ; ExchangeRate(Diff): EUR/USD -0.0014
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,96 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    1,99 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -1,99 EUR
     Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:atoveirwifi.com                     9,95 EUR
     Charges:Financières:PertesDeChange                                                                  0,01 EUR
@@ -294,8 +294,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0343
     ; ExchangeRate(Diff): EUR/USD -0.0047
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -35,77 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -1,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    7,12 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -7,12 EUR
     Charges:ServicesExtérieurs:Locations:Services:Spamzilla                                          35,61 EUR
     Charges:Financières:PertesDeChange                                                                  0,16 EUR
 
@@ -305,7 +305,7 @@
     ; Method: Card **3282
     ; NetAmount: EUR 27,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -27,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,40 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    5,40 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -5,40 EUR
     Charges:ServicesExtérieurs:Locations:Services:Ahrefs                                               27,00 EUR
 
@@ -319,7 +319,7 @@
     ; GrossAmount: EUR 19,99
     Financiers:Banques:ComptesEnEuros:Qonto                                                              -19,99 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire       3,33 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires       3,33 EUR
 
 
 2024-12-27 Microsoft
@@ -331,7 +331,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 
@@ -341,8 +341,8 @@
     ; Method: Card **3282
     ; NetAmount: EUR 152,57
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -152,57 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,40 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -5,40 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    30,51 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -30,51 EUR
     Charges:ServicesExtérieurs:Locations:Services:Ahrefs                                               152,57 EUR
 
 2025-01-01 ExplodingTopics
@@ -356,7 +356,7 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -28,27 EUR
     Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                                       28,15 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -5,63 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    5,63 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    5,63 EUR
     Charges:Financières:PertesDeChange                                                                 0,12 EUR
 
 2025-01-12 Cursor
@@ -370,5 +370,5 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,58 EUR
     Charges:ServicesExtérieurs:Locations:Services:Cursor                                               19,41 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,88 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire     3,88 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires     3,88 EUR
     Charges:Financières:PertesDeChange                                                                   0,17 EUR

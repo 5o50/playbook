@@ -1,3 +1,4 @@
+
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement
     note 6261 - Services d'hébergement et cloud computing
 
@@ -7,23 +8,11 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:H
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet
     note 6262 - Services Internet et noms de domaine
 
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap
-    note 62621 - Services Namecheap
-
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio
     note 62622 - Services Twilio
 
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Proton
-    note 62623 - Services Proton
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:PhotoRoom
-    note 62624 - Services PhotoRoom
-
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft
     note 62625 - Services Microsoft
-
-account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Gumroad
-    note 62626 - Services Gumroad
 
 account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte
     note 6271 - Frais de tenue de compte

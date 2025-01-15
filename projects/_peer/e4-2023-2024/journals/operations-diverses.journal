@@ -26,8 +26,8 @@
 # https://www.compta-online.com/cloture-des-comptes-de-tva-en-fin-exercice-acompte-t56037
 2024-09-30 Solde des comptes
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire           68,27 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire           -68,27 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           -69,56 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires           -68,27 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           -69,56 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:CréditDeTVAÀReporter
 
 # https://libeo.io/blog/comptabilite/ecriture-comptable-cloture-exercice

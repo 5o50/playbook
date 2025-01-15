@@ -1,43 +1,31 @@
-account strict
-
-payee Reprise des à-nouveaux
-payee DAP
-payee Solde des comptes
-
-; National
+; Nationaux
 payee SIE PARIS 11
 payee DGFIP
+payee Infogreffe
+payee Greffe du Tribunal de Commerce de Paris
+payee Sofiane Baltaci
 payee Houdart AC
 payee Qonto
-payee Amazon Web Services EMEA SARL
 payee Amazon Services Europe S.à r.l.
 payee Amazon Online France SAS
 payee Amazon
-payee Sofiane Baltaci
-payee Greffe du Tribunal de Commerce de Paris
-payee PhotoRoom
 payee Microsoft
-payee Apple
+payee eBay
+payee PhotoRoom
 payee Bouygues Telecom
-payee Keepa
-payee Infogreffe
+payee Free Mobile
 payee Costco
 payee Fnac
-payee eBay
 payee Packlink
-payee PhotoRoom
-payee Esso
 payee GS1 France
-payee Free Mobile
 payee La Poste
+payee Esso
+payee Keepa
 payee Alan
 
+; Intracommunautaires
 
-; Extracommunautaire
-payee Proton AG
-payee Twilio
-payee Namecheap
-payee Gumroad
+; Extracommunautaires
 payee Helium10
 payee DataDive
 payee ExplodingTopics

@@ -10,7 +10,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0486
     ; ExchangeRate(Diff): EUR/USD -0.0044
     Financiers:Banques:ComptesEnEuros:Qonto                                                -8,02 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,33 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           1,33 EUR
     Charges:Exceptionnelles:SurExercicesAntérieurs      6,66 EUR
     Charges:Financières:PertesDeChange                                                      0,03 EUR
 
@@ -24,7 +24,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0068
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,94 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -1,98 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    1,98 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    1,98 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              9,88 EUR
     Charges:Financières:PertesDeChange                                                                  0,06 EUR
 
@@ -39,7 +39,7 @@
     ; ExchangeRate(Diff): EUR/USD +0.0025
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,93 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,80 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    3,80 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,98 EUR
     Produits:Financiers:GainsDeChange                                                                   -0,05 EUR
 
@@ -55,7 +55,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0519
     ; ExchangeRate(Diff): EUR/USD -0.0142
     Financiers:Banques:ComptesEnEuros:Qonto                                                -9,83 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           1,62 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           1,62 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     8,08 EUR
     Charges:Financières:PertesDeChange                                                      0,13 EUR
 
@@ -68,8 +68,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0661
     ; ExchangeRate(Diff): EUR/USD -0.0063
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,76 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,11 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,11 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,73 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    3,73 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,65 EUR
     Charges:Financières:PertesDeChange                                                                   0,11 EUR
 
@@ -85,7 +85,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0816
     ; ExchangeRate(Diff): EUR/USD -0.0059
     Financiers:Banques:ComptesEnEuros:Qonto                                                 -4,78 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire            0,79 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires            0,79 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS      3,96 EUR
     Charges:Financières:PertesDeChange                                                       0,03 EUR
 
@@ -97,7 +97,7 @@
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Proton                 74,99 EUR
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -74,99 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -15,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    15,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    15,00 EUR
 
 2024-01-02 Amazon Web Services EMEA SARL
     ; Document: 2024-01-02-AWS-invoice.pdf
@@ -111,7 +111,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0918
     ; ExchangeRate(Diff): EUR/USD -0.0038
     Financiers:Banques:ComptesEnEuros:Qonto                                                -0,98 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,16 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,81 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
@@ -124,8 +124,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0844
     ; ExchangeRate(Diff): EUR/USD -0.0031
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -39,56 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -6,57 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    6,57 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -7,89 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    7,89 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              39,45 EUR
     Charges:Financières:PertesDeChange                                                                  0,11 EUR
 
@@ -139,8 +139,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0033
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -27,67 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 27,59 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                    -4,60 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire   4,60 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                    -5,52 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires   5,52 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
 2024-01-18 Twilio
@@ -153,8 +153,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0034
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -23,06 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 22,99 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,83 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,83 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -4,60 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    4,60 EUR
     Charges:Financières:PertesDeChange                                                                  0,07 EUR
 
 
@@ -168,8 +168,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0035
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,45 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,39 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,07 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,07 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,68 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    3,68 EUR
     Charges:Financières:PertesDeChange                                                                  0,06 EUR
 
 2024-02-02 Amazon Web Services EMEA SARL
@@ -185,7 +185,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0057
     Financiers:Banques:ComptesEnEuros:Qonto                                                 -1,09 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,90 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,18 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,18 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
 2024-02-19 Twilio
@@ -198,8 +198,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0046
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,64 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio                 18,56 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,09 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,09 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,71 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    3,71 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
 2024-02-28 Gumroad
@@ -212,8 +212,8 @@
     ; ExchangeRate(Diff): EUR/USD -0.0013
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -63,92 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Gumroad                 63,84 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -10,64 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    10,64 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -12,77 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    12,77 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
 2024-03-02 Amazon Web Services EMEA SARL
@@ -229,7 +229,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0007
     Financiers:Banques:ComptesEnEuros:Qonto                                                -1,24 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,03 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,21 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,21 EUR
 
 2024-03-30 Namecheap
     ; Document: 2024-03-30-namecheap-receipt-140673629.pdf
@@ -240,8 +240,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0765
     ; ExchangeRate(Diff): EUR/USD -0.0046
     Financiers:Banques:ComptesEnEuros:Qonto                                                            -18,56 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,08 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    3,08 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -3,70 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    3,70 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              18,48 EUR
     Charges:Financières:PertesDeChange                                                                  0,08 EUR
 
@@ -258,7 +258,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0042
     Financiers:Banques:ComptesEnEuros:Qonto                                                -0,99 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     0,82 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,16 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
 2024-04-23 Namecheap
@@ -270,8 +270,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0621
     ; ExchangeRate(Diff): EUR/USD -0.0053
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -14,01 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -2,32 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    2,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -2,79 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    2,79 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             13,94 EUR
     Charges:Financières:PertesDeChange                                                                  0,07 EUR
 
@@ -284,8 +284,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0676
     ; ExchangeRate(Diff): EUR/USD -0.0044
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -28,25 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -4,69 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    4,69 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -5,63 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    5,63 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             28,13 EUR
     Charges:Financières:PertesDeChange                                                                  0,12 EUR
 
@@ -298,7 +298,7 @@
     ; VATAmount: EUR 4,00
     ; GrossAmount: EUR 24,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -24,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    4,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    4,00 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:PhotoRoom             20,00 EUR
 
 2024-05-02 Amazon Web Services EMEA SARL
@@ -314,7 +314,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0073
     Financiers:Banques:ComptesEnEuros:Qonto                                                -1,60 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,32 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,26 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,26 EUR
     Charges:Financières:PertesDeChange                                                      0,02 EUR
 
 2024-05-03 Namecheap
@@ -326,8 +326,8 @@
     ; ExchangeRate(Bank): EUR/USD 1.0671
     ; ExchangeRate(Diff): EUR/USD -0.0073
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -15,05 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -2,49 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaire    2,49 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                     -2,99 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    2,99 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap             14,95 EUR
     Charges:Financières:PertesDeChange                                                                  0,10 EUR
 
@@ -340,7 +340,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-06-02 Amazon Web Services EMEA SARL
@@ -356,7 +356,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0071
     Financiers:Banques:ComptesEnEuros:Qonto                                                -1,92 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,59 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,32 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
 2024-06-14 Apple
@@ -368,7 +368,7 @@
     ; VATAmount: EUR 16,50
     ; GrossAmount: EUR 99,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -99,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   16,50 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   16,50 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             82,50 EUR
 
 2024-07-02 Amazon Web Services EMEA SARL
@@ -384,7 +384,7 @@
     ; ExchangeRate(Diff): EUR/USD +0.0016
     Financiers:Banques:ComptesEnEuros:Qonto                                                -1,88 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,57 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,31 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,31 EUR
 
 2024-07-05 Microsoft
     ; Document: 2024-07-05-Microsoft-G051487512.pdf
@@ -395,7 +395,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-08-03 Amazon Web Services EMEA SARL
@@ -411,7 +411,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0059
     Financiers:Banques:ComptesEnEuros:Qonto                                                -3,22 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     2,67 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,53 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,53 EUR
     Charges:Financières:PertesDeChange                                                      0,02 EUR
 
 2024-08-05 Microsoft
@@ -423,7 +423,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-09-02 Amazon Web Services EMEA SARL
@@ -439,7 +439,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0034
     Financiers:Banques:ComptesEnEuros:Qonto                                                -1,46 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,21 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,24 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,24 EUR
     Charges:Financières:PertesDeChange                                                      0,01 EUR
 
 2024-09-05 Microsoft
@@ -451,7 +451,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-10-02 Amazon Web Services EMEA SARL
@@ -467,7 +467,7 @@
     ; ExchangeRate(Diff): EUR/USD -0.0008
     Tiers:Fournisseurs                                               -1,60 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS     1,33 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire           0,27 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires           0,27 EUR
 
 2024-10-05 Microsoft
     ; Document: 2024-10-05-Microsoft-G060983230.pdf
@@ -478,5 +478,5 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Tiers:Fournisseurs                                                          -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
