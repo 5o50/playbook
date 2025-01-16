@@ -42,6 +42,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -0,01 EUR ; fix error
 
     
 2024-10-22 Amazon Services Europe S.à r.l.
@@ -68,6 +69,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -0,01 EUR ; fix error
 
 2024-10-22 Amazon Services Europe S.à r.l.
     ; Document: 
@@ -93,6 +95,7 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -9,00 EUR
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -5,82 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -0,01 EUR ; fix error
     
 2024-12-01 Sophie Baltaci EI
     ; Document: 2024-12-01-2501-F-2025-01-001-555-TECHNOLOGY

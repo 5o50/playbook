@@ -4,3 +4,7 @@
     ; NetAmount: EUR 81,00
     Charges:ImpôtsTaxes:Autres:Impôts:Directs:ContributionÉconomiqueTerritoriale    81,00 EUR
     Tiers:État:AutresImpôtsTaxesEtVersementsAssimilés:CFE
+
+2025-01-16 DGFIP
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:CréditDeTVAÀReporter  -302,72 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:RemboursementDemandé
