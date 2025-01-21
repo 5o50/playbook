@@ -19,6 +19,16 @@
 - Chantal Tran
 - Benjamin Benhaim
 
+**Goals**
+- plus de rendez-vous
+  
+****
+- nb de rendez-vous qui augmente sur doctor
+
+** analytics**
+google analytics
+google search console
+
 ## Canaux organiques
 
 **Domaines**
@@ -29,8 +39,20 @@
 - Sophie Chiro (Brevo)
 
 **Réseaux sociaux**
+- Facebook sophiechiro
 - Instagram @sophiechiro
 - LinkedIn /in/sophiebaltaci
+- Youtube 
+
+**whatsapp**
+
+Facebook event
+
+Annuaire 
+AFC
+
+Google Business Profile
+
 
 ## Canaux payants
 
