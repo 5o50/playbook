@@ -1,8 +1,6 @@
 Naming Things
 ===
 
-
-
 - 2 syllabes
 - 5/6 letters max
 - Positive words

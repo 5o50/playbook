@@ -54,7 +54,7 @@ Facebook, Instagram, TikTok, LinkedIn, YouTube
 
 Facebook Messenger, WhatsApp, Telegram, Snapchat
 
-X, Reddit, Quora, Stack Overflow
+X, Reddit, Quora
 
 Pinterest, Groupon
 
