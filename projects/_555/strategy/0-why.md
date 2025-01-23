@@ -1,16 +1,13 @@
 # WHY US
 
-In a world where everyone is ...
-you'd rather ...
-
-Understand attention and intentions
-
 > Transactional businesses are replacable.
 Just another service they can swap out.
 
 > Transformation is what sticks.
 Quick doing work anyone can do--deliver impact they can't ignore.
 Because you're the ONLY one who "gets" them.
+
+Understand attention and intentions
 
 EDUCATION IS THE GREATEST MARKETING
 We need to be everywhere that our potential customers are.
@@ -57,33 +54,33 @@ Here are some of the easiest and most effective ways to drive sales to your webs
 - Improve site speed and mobile-friendliness
 - Build high-quality backlinks from other websites
 
-2. Pay-per-click (PPC) advertising:
+1. Pay-per-click (PPC) advertising:
 - Use Google Ads or social media ads to target potential customsers
 - Create compelling ad copy and landing pages
 
-3. Email marketing
+1. Email marketing
 - Build an email list of interested customers
 - Send regular newsletters with promotions and valuable content
 
-4. Social media marketing
+1. Social media marketing
 - Maintain an active profiles on relevant platforms
 - Share engaging content and interact with followers
 - Use social selling techniques
 
-5. Content marketing
+1. Content marketing
 - Create helpful blog posts, videos, or infographics
 - Share your content across channels to attract visitors
 
-6. Offer promotions or discounts
+1. Offer promotions or discounts
 - Run limited-time sales or special offers
 - Use exit-intent popups with exclusive deals
 
-7. Improve website user experience:
+1. Improve website user experience:
 - Streamline the checkout process
 - Add clear calls-to-action (CTAs)
 - Implement live chat for customer support
 
-8. Leverage customer reviews and testimonials:
+1. Leverage customer reviews and testimonials:
 - Display positive feedback prominently
 - Encourage satisfied customers to leave reviews
 
