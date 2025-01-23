@@ -14,6 +14,9 @@
 **Markets**
 - United States
 
+**Target keywords**
+- digital picture frame
+
 **Competitors**
 - Aura Frames (https://auraframes.com/)
 - Skylight https://fr.skylightframe.com/
