@@ -1,4 +1,177 @@
 
+ZZZ- prefix for sleeping campaigns
+
+Campaign Name
+<YYYYMM>_<CompaignsType>_<ProductCategory>_<MatchType>_<TargetAudience>
+"Search_Chaussures_Exact_France"
+"Manual_Électronique_Produit"
+
+Ad Group Name
+<YYYYMM>_<Intent>_<ProductCategory>_<FunnelStep>_<>
+"Chaussures_Électronique_France"
+"Électronique_France"
+
+https://www.youtube.com/watch?v=i3-Dvy4Wjb4
+
+
+
+
+----
+
+ ## Bidding Strategies
+
+
+
+## Title
+
+1. STRONG AD SEARCH -> AD COPY
+   mirror what the propect is looking in your ad copy
+   exact words show up !
+   pin the keywords in position 1
+   this also helps with you quality score
+   "Google Ads Agency"
+
+2. Include ONE CLEAR CALL-TO-ACTION within the copy of your google ad
+   DIRECT, clear, concise and easy to understand
+   "Schedule a call"
+   "Take a look at our fantastic track record - case studies"
+   "Book Your Free Roof Survey Now"
+   DONT INCLUDE MORE THAN ONE CALL-TO-ACTION
+   if too large in the title put it in the description
+
+3. Include your brand name or product brand name
+   if there is positive brand recognition within your space
+   yur want it clear, front and center in the headline
+   if you're selling something people are likely to recognize based on brand name
+   ONLY IF IT DOES APPLY TO YOU
+
+4. Go straight to HIGH LEVEL EMOTIONS, not just benefits, not just features
+   Ladder it up to the benefits, MAKE IT BENEFIT RICH
+   Ladder up those benefits to HIGH LEVEL EMOTIONS
+   Feature => Benefit => Emotion
+            WHY      WHY
+
+   not just loose weight
+   "Get beach body ready with 50% off gym membership today"
+   thats why someone wants to loose weight
+   KEEP ASKING WHY, to LADDER UP
+   youll endup to core human desires
+   - desire for improved status
+   - desire to be healthier
+   - to improve relationships
+
+   why do they want to join the gym ?
+   to loose weight
+
+   why do they want to loose weight ?
+   to look good on the beach
+
+   why do they want to look good on the beach ?
+   they were embarassed last time, and felt that negatively affected their relationships with they friends or maybe their partner was looking at them and they wanted to be more attractive...
+
+   so think about whats the end end goal of all of this ?
+
+6. COULD YOU OFFER A GUARANTEE ???? 
+   WE NEED TO GET THIS IN THE ADS THE CLICK WILL GET TO THE ROOF !!
+   INCLUDE GUARANTEES IN AD COPY, YOU COULD MAKE IT CONDITIONAL (you need to come to all the sessions otherwise that guarantee is invalid) thats reasonable ! you cannot guarantee anything if they actually dont do the work
+   GURANTEES ARE VERY VERY POWERFUL BECAUSE IT REVERSES THE RISK
+   IN ANY BUY THERE IS ALWAYS RISK INVOLVED, THATS WHY BRAND IS SO IMPORTANT
+   WHEN YOU SAY NIKE YOU THINK THATS LIKELY TO DO THE JOB
+   WHEN UNBRAND YOURE LIKE MAYBE THIS IS FAKE PRODUCT
+   GUARANTEE ARE SO POWERFUL PARTICULARLY FOR SMALL BUSINESS OR LOCAL
+   ESPCIALLY WHEN COMPETITORS ARE NOT OFFERING THEM
+   LIKE PERSONAL TRAINERS, ACCOUNTANTS, LAWYERS, ETC
+   IF YOU CAN INCLUDE A GUARANTEE IN YOUR AD COPY, PUT IT PROMINETNLY IN THE COPY
+   - GUARANTEED wieght loss with PT / Lose 10lb within 3 months, or I will work with you for FREE until we hit the objective!
+   - Money Back, If You'Re Not Happy
+   - 100% Money Back Guarantee
+   - GUARANTEE YOU LOSE 10lb within 3 moths or you get your money back!
+   - LOSE 10lb WITHIN 3 MONTHS or I will keep working with you for free until we hit that objective!
+
+7. MAKE YOU ADS TO STAND OUT FROM THE COMPETITION
+   best results comes from doing something better than the competition
+   do 5 versions of headline and test
+   - HUMOUR: can you try and be funny about your ad ?
+   - CURIOSITY: can you intice more clicks by introduction elements of curiosity ?
+   - A BIT CHEEKY+GURANTEE: "we'll beat your current agency or take your whole team on vacation"
+
+---
+
+1. Think about your prospect desired outcome// "le result qu'ils veulent"- relevant to what you're selling
+what do they really want ?
+"Get In The Best Shape Ever"
+"Save 60% On ..."
+
+1. Make it very clear and very specific about your offer
+   Free Consultation
+   Free Audit
+   Limited Time 40% Off
+
+2. Get the keywords your targeting in the headline
+   Add dynamically with {} -> Keyword insertion and add a default case if no keyword is found
+   Title Case
+
+3. Address objections
+   Clinically Proven
+   Deadlines Met Or Money Back
+   No Side Effects
+   No Prescription Needed
+   No Insurance Required
+
+4. Avoid "Dead" words: words that everyone uses, this is wasted space
+   "Award Winning"
+   "High Quality"
+   "Guarantee"
+
+5. Include Numbers or statistics
+   "#1 Accountant in Bristol"
+   "75% Average Improvement"
+
+6. Research competitors headlines
+   which ads stick around
+   which they keep using ?
+   those are those with best performance
+
+   TEST AND TEST AGAIN
+
+## Emotional Headlines Prompts
+
+**Achievement**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can achieve their goals with [brand] product.
+
+**Autonomy**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can feel more free with with [brand] product.
+
+**Belonging**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can feel more accepted with [brand] product.
+
+**Competence**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can feel more competent with [brand] product.
+
+**Empowerment**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can feel empowered with [brand] product.
+
+**Engagement**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can enjoy more of their life experience with [brand] product.
+
+**Esteem**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can increase their appeal with [brand] product.
+
+**Nurturance**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can nurture themselves (or their families) with [brand] product.
+
+**Security**
+Give me 10 ad headlines (4-7 words long) that persuades [target market] that they can guarantee their success with [brand] product.
+
+## Description CTA
+
+Schedule a call to find out how we can help you today.
+
+Take a look at our fantastic track record - case studies.
+
+----
+
+
 
 Address customers at every stage.
 campagins. content. metrics.
@@ -119,3 +292,7 @@ The **Omnipresent Campaign Strategy** for Meta (Facebook and Instagram) Ads is a
    - **Higher Conversion Rates**: Strategic retargeting ensures you reach users at different stages of their journey with relevant content.
 
 If you want, I can help you design a more specific campaign structure based on your goals!
+
+
+
+

@@ -425,6 +425,7 @@ https://www.yourwebsite.com/red-shirt
 You can view this with SEO Minion
 
 ## Local SEO
+Easily accessible visible contact info (looks real for the google algorithm)
 
 
 https://x.com/theseoguy_

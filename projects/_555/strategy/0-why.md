@@ -9,6 +9,14 @@ Because you're the ONLY one who "gets" them.
 
 Understand attention and intentions
 
+
+# Sales Conversion Cycle
+
+1. Attention: Informational intent
+2. Interest: Navigation intent
+3. Desire: Commercial intent
+4. Action: Transactional intent
+
 EDUCATION IS THE GREATEST MARKETING
 We need to be everywhere that our potential customers are.
 And bring them from awareness to knowledge and product.

@@ -1,5 +1,6 @@
 
 
+
 # CPC Scale
 
 The Cost Per Click (CPC) scale typically ranges from $0 to $5 and above, depending on various factors such as industry, competition, and ad quality. Here's a general CPC scale:
@@ -135,3 +136,31 @@ Example:
      - Instagram: Short video showcasing app features
      - Facebook: Carousel ad highlighting different benefits
      - Google Ads: Focus on keywords related to meal planning and time-saving
+
+
+---
+https://x.com/codyschneiderxx/status/1882871922830041579
+
+the best ads don't feel like ads
+
+they feel native to the platform
+
+here is the format we're seeing work on facebook ads rn with AI avatar UGC
+
+1. {pain point hook}
+
+2. {story telling about pain}
+
+3. {product is hero that solves pain}
+
+script example
+
+{pain point hook}
+
+One of my New Year resolutions was to start journaling, but I find it hard to sit down and write every day.
+
+{story telling about pain} + {product is hero that solves pain}
+
+ And I told my friend this, and she recommended this app called Recordbook AI. And basically, I can just talk to it, and it will ask me questions about my day, and it helps me be so much more introspective and mindful, and I can feel my mental health improving by making this a daily ritual.
+
+and then we test 100+ variations of this format to find cheapest cpc
