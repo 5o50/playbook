@@ -49,3 +49,18 @@ Quick tidbits of info
 short intense burts of attention
 
 a scene = just enough time to absorb info then jump to next scene
+
+
+---
+
+
+Deepseek to craft the script
+
+Hailuo/Kling/KreaAi/PhotoAI/synthesia to generate the scenes
+
+Runaway for post production
+
+ElevenLabs for narration
+
+Veed.io for captions
+

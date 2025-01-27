@@ -195,7 +195,8 @@ Multiple ways to prioritize keywords:
   or seasonality: based on what part of the year you are in you can decide on which to focus on
   approching the holiday season: lets focus on the keywords that are the most popular in that season novembre december
 
-
+## KEYWORD MAPPING
+https://neilpatel.com/blog/keyword-mapping/
 
 ## Determine Search Intent
 The mindset that someone is in when they are doing a search
