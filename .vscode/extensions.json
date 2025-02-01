@@ -14,6 +14,15 @@
 		"pranjalkumar.minimal-kiwi",
 		"orta.vscode-jest",
 		"mark-hansen.hledger-vscode",
-		"mariosangiorgio.ledger"
+		"mariosangiorgio.ledger",
+		"tomoki1207.pdf",
+		"ahmadalli.vscode-nginx-conf",
+		"grapecity.gc-excelviewer",
+		"yzhang.markdown-all-in-one",
+		"shd101wyy.markdown-preview-enhanced",
+		"cescript.markdown-formula",
+		"clover.md-table-editor",
+		"mechatroner.rainbow-csv",
+		"hangxingliu.vscode-systemd-support"
 	]
 }

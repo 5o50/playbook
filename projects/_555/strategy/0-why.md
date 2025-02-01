@@ -1077,6 +1077,7 @@ https://www.bpi.fr/bpi-numerique/collections-numeriques/?fwp_notice_themes=econo
 https://www.xerfiknowledge.com/
 https://extranet.lesechos-etudes.fr/
 https://www.indexpresse-business.fr/IPBE
+https://nouveau-europresse-com.bpi.idm.oclc.org/Search/Reading
 
 https://shs.cairn.info/?lang=fr
 https://www.indexpresse-generalis.fr/node/133

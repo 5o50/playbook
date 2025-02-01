@@ -34,6 +34,11 @@
 	/* -------------------------------------------------------------------------- */
 	/*                                Per-Language                                */
 	/* -------------------------------------------------------------------------- */
+	"markdown-formula.precisionRounding": 1,
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one",
+		"editor.formatOnSave": true
+	},
 	"[makefile]": {
 		"editor.insertSpaces": false,
 		"editor.detectIndentation": false
@@ -57,7 +62,6 @@
 		"prisma": ["//"]
 	},
 	"task.allowAutomaticTasks": "on",
-	"markdown.styles": [],
 	/* -------------------------------------------------------------------------- */
 	/*                                   GraphQL                                  */
 	/* -------------------------------------------------------------------------- */

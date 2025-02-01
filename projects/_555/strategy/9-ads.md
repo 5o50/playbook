@@ -1,10 +1,16 @@
 
 ZZZ- prefix for sleeping campaigns
 
+Cold Leads
+Mild Leads
+Hot Leads
+
+
+
 Campaign Name
-<YYYYMM>_<CompaignsType>_<ProductCategory>_<MatchType>_<TargetAudience>
-"Search_Chaussures_Exact_France"
-"Manual_Électronique_Produit"
+<YYYYMM>_<CompaignsType>_<ProductCategory>_<FunnelPostion>
+"202501_Search_Chiropracteur_Bot"
+"202501_Manual_Électronique_Produit"
 
 Ad Group Name
 <YYYYMM>_<Intent>_<ProductCategory>_<FunnelStep>_<>
@@ -12,6 +18,7 @@ Ad Group Name
 "Électronique_France"
 
 https://www.youtube.com/watch?v=i3-Dvy4Wjb4
+
 
 
 
