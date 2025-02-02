@@ -23,8 +23,10 @@ You + [Tube]
 Whats + [App]
 [Type] + Sense
 Hyper + [Formula]
-
-Photo + Mentor
+[Photo] + Mentor
+[Pet] + Empire
+Aristo + [Paw]
+[Paw] + Royale
 
 The brand name "AdRevival" evokes several powerful associations that can resonate strongly with customers. 
 
