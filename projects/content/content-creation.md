@@ -114,6 +114,8 @@ Runway ML (Scene transitions/VFX polish)
 DaVinci Resolve (Color grading + final edit)
 ```
 
+https://motionarray.com/
+
 **3. Key Technical Considerations**
 - **Aspect Ratio:** Always start prompts with `--ar 9:16 --style raw` in MidJourney
 - **Motion Control:** Use Mystic's 3D camera projection for cinematic moves
