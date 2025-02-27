@@ -132,3 +132,14 @@
     Produits:Annexes:PortsEtFraisAccessoiresFacturés                                                          -4,99 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                            -1,00 EUR
 
+2025-01-01 Sophie Baltaci EI
+    ; Document: 2025-01-01-2501-F-2025-01-002-555-TECHNOLOGY
+    ; Description: Vente FR : Frais logiciels pour mission SEO: Janvier
+    ; Comment: 
+    ; NetAmount: EUR 229,00
+    ; VATRate: 20%
+    ; VATAmount: EUR 45,80
+    ; GrossAmount: EUR 274,80
+    Tiers:Clients:VentesDeBiensOuServices:Nationaux:SophieBaltaciEI                                           274,80 EUR
+    Produits:Ventes:Services                                                                                 -229,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Collectées:TVACollectée                                            -45,80 EUR

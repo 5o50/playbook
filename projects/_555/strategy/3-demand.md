@@ -32,7 +32,7 @@ why they are unique:
 - generally have Higher search volume
 - searched by people Higher up the sales funnel (people browsing and wanting to get general information)
 
-Top of funnel:
+Top of funnel: Notoriété
 - people searching for general information
 - people searching for a solution to a problem
 - people searching for a product or service
@@ -41,11 +41,13 @@ Top of funnel:
 - Visitor Researching
 
 Middle of funnel: (as they get more educated and more specific on their wants and needs)
+Considération
 - Specific keyword intent
 - Detail Search Phrases
 - Visitor is Engaged
 
 Bottom of funnel:
+Conversion
 - Exact keyword intent
 - Precise Goal phrases
 - Visitor Ready to Buy !

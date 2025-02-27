@@ -118,8 +118,8 @@
     Financiers:Banques:ComptesEnEuros:Qonto                                          -0,72 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,72 EUR
 
-2025-01-01 ! Qonto
-    ; Document:
+2025-01-01 Qonto
+    ; Document: 2025-01-30-Qonto-invoice-21985522
     ; Method: Direct Debit
     ; NetAmount: EUR 11,00
     ; VATRate: 20,00%
@@ -129,27 +129,194 @@
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
 
-2025-01-02 ! Qonto
+2025-01-02 Qonto
+    ; Document: 2025-01-30-Qonto-invoice-21985522
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,57
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,57
+    ; FeeBase: EUR 28,27
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,57 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,57 EUR
+
+
+2025-01-13 Qonto
+    ; Document: 2025-01-30-Qonto-invoice-21985522
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,40
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,40
+    ; FeeBase: EUR 19,58
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,40 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,40 EUR
+
+2025-01-21 Qonto
+    ; Document: 2025-01-30-Qonto-invoice-21985522
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,73
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,73
+    ; FeeBase: EUR 36,05
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,73 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,73 EUR
+
+2025-02-01 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 11,00
+    ; VATRate: 20,00%
+    ; VATAmount: EUR 2,20
+    ; GrossAmount: EUR 13,20
+    Financiers:Banques:ComptesEnEuros:Qonto                                         -13,20 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte:Qonto    11,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices     2,20 EUR
+
+2025-02-02 ! Qonto
     ; Document: 
     ; Method: Direct Debit
     ; NetAmount: EUR 0,57
     ; VATRate: 0,00%
     ; VATAmount: EUR 0,00
     ; GrossAmount: EUR 0,57
-    ; FeeBase: 
+    ; FeeBase: EUR 
     ; FeeRate: 2,00%
     Financiers:Banques:ComptesEnEuros:Qonto                                          -0,57 EUR
     Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,57 EUR
 
-
-2025-01-13 ! Qonto
+2025-02-05 ! Qonto
     ; Document: 
     ; Method: Direct Debit
-    ; NetAmount: EUR 0,40
+    ; NetAmount: EUR 0,20
     ; VATRate: 0,00%
     ; VATAmount: EUR 0,00
-    ; GrossAmount: EUR 0,40
-    ; FeeBase: 
+    ; GrossAmount: EUR 0,20
+    ; FeeBase: EUR 
     ; FeeRate: 2,00%
-    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,40 EUR
-    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,40 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,20 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,20 EUR
+
+2025-02-12 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,21
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,21
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,21 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,21 EUR
+
+2025-02-12 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,36
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,36
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,36 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,36 EUR
+
+2025-02-13 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,39
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,39
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,39 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,39 EUR
+
+2025-02-14 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,21
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,21
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,21 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,21 EUR
+
+2025-02-23 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,06
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,06
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,06 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,06 EUR
+
+2025-02-24 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,41
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,41
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,41 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,41 EUR
+
+2025-02-25 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,17
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,17
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,17 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,17 EUR
+
+2025-02-25 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,06
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,06
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,06 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,06 EUR
+
+2025-02-26 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,26
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,26
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,26 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,26 EUR
+
+2025-02-26 ! Qonto
+    ; Document: 
+    ; Method: Direct Debit
+    ; NetAmount: EUR 0,11
+    ; VATRate: 0,00%
+    ; VATAmount: EUR 0,00
+    ; GrossAmount: EUR 0,11
+    ; FeeBase: EUR 
+    ; FeeRate: 2,00%
+    Financiers:Banques:ComptesEnEuros:Qonto                                          -0,11 EUR
+    Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDePaiementEnDevise:Qonto  0,11 EUR

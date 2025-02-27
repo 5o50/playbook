@@ -372,3 +372,336 @@
     Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,88 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires     3,88 EUR
     Charges:Financières:PertesDeChange                                                                   0,17 EUR
+
+2025-01-14 OVHCloud
+    ; Document: 2025-01-14-OVHCloud-Facture_FR68432428.pdf
+    ; Description: Janvier 2025
+    ; Method: Card **3282
+    ; NetAmount: EUR 2,90
+    ; VATRate: 20%
+    ; VATAmount: EUR 0,58
+    ; GrossAmount: EUR 3,48
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -3,48 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    0,58 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:OVHCloud             2,90 EUR
+
+2025-01-14 Keepa
+    ; Document: 2025-01-14-KeepaInvoice202586795049307b3.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 19,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                     -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    3,80 EUR
+
+2025-01-20 Spamzilla
+    ; Document: 2025-01-20-SpamZilla_Maximus Media Pty Ltd._ Invoice 000021836-1
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 37.00
+    ; ExchangeRate(ECB): EUR/USD 1.0316
+    ; ExchangeRate(Bank): EUR/USD 1.0264
+    ; ExchangeRate(Diff): EUR/USD -0.0052
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -36,05 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    7,17 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -7,17 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Spamzilla                                            35,87 EUR
+    Charges:Financières:PertesDeChange                                                                  0,18 EUR
+
+2025-01-22 Free Mobile
+    ; Document: 2025-01-21-FreeMobile-facture.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 16,66
+    ; VATRate 20%
+    ; VATAmount: EUR 3,33
+    ; GrossAmount: EUR 19,99
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -19,99 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              16,66 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires       3,33 EUR
+
+2025-01-27 Microsoft
+    ; Document: 2025-01-27-Microsoft-G075436261_e2839c5c97dc49f2974c2079d046aeea.pdf
+    ; Description: Janvier 2025
+    ; Method: Card **3282
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2025-02-01 ExplodingTopics
+    ; Document: Switched to SEMRUSH- no invoice found
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 29.25
+    ; ExchangeRate(ECB): EUR/USD 1.0393
+    ; ExchangeRate(Bank): EUR/USD 1.0358
+    ; ExchangeRate(Diff): EUR/USD -0.0035
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -28,24 EUR
+    Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics                                       28,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -5,63 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    5,63 EUR
+    Charges:Financières:PertesDeChange                                                                 0,10 EUR
+
+
+2025-02-01 OVHCloud
+    ; Document: 2025-02-01-OVHCloud-Facture_FR68660943.pdf
+    ; Description: Février 2025
+    ; Method: Card **3282
+    ; NetAmount: EUR 5,00
+    ; VATRate: 20%
+    ; VATAmount: EUR 1,00
+    ; GrossAmount: EUR 6,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -6,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    1,00 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:OVHCloud             5,00 EUR
+
+2025-02-03 La Poste
+    ; Document: 2025-02-03-LaPoste-F004AA000727101_174108839.pdf
+    ; Description: Livraison FR : Bague 
+    ; Comment: Pas de TVA chez La Poste
+    ; Method: Card **3282
+    ; NetAmount: EUR 1,89
+    Financiers:Banques:ComptesEnEuros:Qonto                                                                 -1,89 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  1,89 EUR
+
+2025-02-04 Midjourney
+    ; Document: 2025-02-04-MidJourney-Invoice-52E6C0E6-0006.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: USD 10.00
+    ; ExchangeRate(ECB): EUR/USD 1.0335
+    ; ExchangeRate(Bank): EUR/USD 1.0216
+    ; ExchangeRate(Diff): EUR/USD -0.0119
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -9,79 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Midjourney                                            9,68 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires     1,94 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -1,94 EUR
+    Charges:Financières:PertesDeChange                                                                   0,11 EUR
+
+2025-02-10 La Poste
+    ; Document: 2025-02-10-LaPoste.pdf
+    ; Description: Livraison FR : Bague 
+    ; Comment: Pas de TVA chez La Poste
+    ; Method: Card **6158
+    ; NetAmount: EUR 1,89
+    Financiers:Banques:ComptesEnEuros:Qonto                                                                 -1,89 EUR
+    Charges:AutresServicesExtérieurs:TransportsDeBiensEtTransportsCollectifsDuPersonnel:TransportsSurVentes  1,89 EUR
+
+2025-02-10 FreePik
+    ; Document: 2025-02-10-FreePik-freepikcompany-eu_invoice_BTM7KxUe0mIJz1Wd0.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: EUR 16,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -16,00 EUR
+    Charges:ServicesExtérieurs:Locations:Services:FreePik                                            16,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires  3,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,20 EUR
+
+2025-02-11 ElfSight
+    ; Document: 2025-02-11-ElfSight.pdf
+    ; Description: 
+    ; Method: Card **6158
+    ; NetAmount: USD 15.00
+    ; VATAmount: USD 3.00
+    ; GrossAmount: USD 18.00
+    ; ExchangeRate(ECB): EUR/USD 1.0324
+    ; ExchangeRate(Bank): EUR/USD 1.0280
+    ; ExchangeRate(Diff): EUR/USD -0.0044
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -17,51 EUR
+    Charges:ServicesExtérieurs:Locations:Services:ElfSight                                              14,52 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    2,91 EUR
+    Charges:Financières:PertesDeChange                                                                   0,08 EUR
+
+2025-02-11 Cloudflare
+    ; Document: 2025-02-11-Cloudflare-75fffedb-6a4e-54c3-aa7b-f713f928efd6
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 10.44
+    ; ExchangeRate(ECB): EUR/USD 1.0324
+    ; ExchangeRate(Bank): EUR/USD 1.0276
+    ; ExchangeRate(Diff): EUR/USD -0.0048
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -10,16 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    2,02 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -2,02 EUR
+    Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:automano.com                     10,11 EUR
+    Charges:Financières:PertesDeChange                                                                  0,05 EUR
+
+2025-02-12 Cursor
+    ; Document: 2025-02-12-Cursor-Invoice-B09D7570-0005.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 20.00
+    ; ExchangeRate(ECB): EUR/USD 1.037
+    ; ExchangeRate(Bank): EUR/USD 1.0293
+    ; ExchangeRate(Diff): EUR/USD -0.0077
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,43 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Cursor                                               19,29 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                      -3,86 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires     3,86 EUR
+    Charges:Financières:PertesDeChange                                                                   0,14 EUR
+
+2025-02-12 Restauration Divers
+    ; Document: 2025-02-12-serpent-a-plume.jpeg
+    ; Description: Resto Serpent a Plume
+    ; Method: Card **3282
+    ; NetAmount: EUR 5,45
+    ; VATRate: 10%
+    ; VATAmount: EUR 0,55
+    ; GrossAmount: EUR 6,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -6,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    0,55 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             5,45 EUR
+
+
+2025-02-13 Cloudflare
+    ; Document: 2025-02-13-Cloudflare-528bd5bd-4042-5d63-87b8-3e50f4f7f7aa
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: USD 10.44
+    ; ExchangeRate(ECB): EUR/USD 1.039
+    ; ExchangeRate(Bank): EUR/USD 1.0316
+    ; ExchangeRate(Diff): EUR/USD -0.0074
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -10,12 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    2,01 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                       -2,01 EUR
+    Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:pawevo.com                          10,05 EUR
+    Charges:Financières:PertesDeChange                                                                  0,07 EUR
+
+2025-02-14 Adobe
+    ; Document: 2025-02-14-Adobe-14_02_2025_AE03554001330CFR.pdf
+    ; Description: Février 2025
+    ; Method: Card **3282
+    ; NetAmount: EUR 5,00
+    ; VATRate: 20%
+    ; VATAmount: EUR 1,00
+    ; GrossAmount: EUR 6,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -27,91 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Adobe                                                 27,91 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    5,58 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                       -5,58 EUR
+
+2025-02-14 Keepa
+    ; Document: 2025-02-14-KeepaInvoice202554629676307b3.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 19,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -19,00 EUR
+    Charges:ServicesExtérieurs:Locations:Services:Keepa                                                19,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Intracommunautaire                                        -3,80 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    3,80 EUR
+
+2025-02-15 Airalo
+    ; Document: 2025-02-15-Airalo-Receipt-45628417.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 25,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -25,00 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:Airalo              25,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires       5,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -5,00 EUR
+
+2025-02-18 Shopify
+    ; Document: 2025-02-18-Shopify-Ma_boutique_331947765.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 1,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -1,00 EUR
+    Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Shopify    1,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,20 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -0,20 EUR
+
+2025-02-22 Restauration Divers
+    ; Document: 2025-02-22-qutab-entertainment-qla.pdf
+    ; Description: Qla restaurant
+    ; Method: Card **3282
+    ; NetAmount: INR 1848,00
+    ; ExchangeRate(ECB): EUR/INR 90,66
+    ; ExchangeRate(Bank): EUR/INR 90,37
+    ; ExchangeRate(Diff): EUR/INR -0,29
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -20,45 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             20,38 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
+    Charges:Financières:PertesDeChange                                                                 0,07 EUR
+
+2025-02-22 Deplacements Divers
+    ; Document: 2025-02-22-Uber.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: INR 229,92
+    ; ExchangeRate(ECB): EUR/INR 90,66
+    ; ExchangeRate(Bank): EUR/INR 90,52
+    ; ExchangeRate(Diff): EUR/INR -0,14
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -2,54 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             2,54 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
+    Charges:Financières:PertesDeChange                                                                 0,00 EUR
+
+2025-02-24 Free Mobile
+    ; Document: 2025-02-24-FreeMobile-facture.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: EUR 17,27
+    ; VATRate 20%
+    ; VATAmount: EUR 3,45
+    ; GrossAmount: EUR 20,72
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -20,72 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile              17,27 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires       3,45 EUR
+
+2025-02-24 Restauration Divers
+    ; Document: 2025-02-24-nunkun.pdf
+    ; Description: Nun Kun Café
+    ; Method: Card **3282
+    ; NetAmount: INR 739,00
+    ; ExchangeRate(ECB): EUR/INR 90,77
+    ; ExchangeRate(Bank): EUR/INR 90,34
+    ; ExchangeRate(Diff): EUR/INR -0,43
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -8,18 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             8,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
+    Charges:Financières:PertesDeChange                                                                 0,04 EUR
+
+2025-02-24 Deplacements Divers
+    ; Document: 2025-02-24-Uber.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: INR 263,87
+    ; ExchangeRate(ECB): EUR/INR 90,77
+    ; ExchangeRate(Bank): EUR/INR 90,37
+    ; ExchangeRate(Diff): EUR/INR -0,40
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -2,92 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             2,91 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
+    Charges:Financières:PertesDeChange                                                                 0,01 EUR
+
+
+2025-02-25 Restauration Divers
+    ; Document: 2025-02-25-imperial.pdf
+    ; Description: Imperial Hotel
+    ; Method: Card **3282
+    ; NetAmount: INR 2892,00
+    ; ExchangeRate(ECB): EUR/INR 91,52
+    ; ExchangeRate(Bank): EUR/INR 90,49
+    ; ExchangeRate(Diff): EUR/INR -1,03
+    Financiers:Banques:ComptesEnEuros:Qonto                                                              -31,96 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             31,60 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
+    Charges:Financières:PertesDeChange                                                                 0,36 EUR
+
+2025-02-25 Deplacements Divers
+    ; Document: 2025-02-25-Uber.pdf
+    ; Description: 
+    ; Method: Card **3282
+    ; NetAmount: INR 483,87
+    ; ExchangeRate(ECB): EUR/INR 91,52
+    ; ExchangeRate(Bank): EUR/INR 90,44
+    ; ExchangeRate(Diff): EUR/INR -1,08
+    Financiers:Banques:ComptesEnEuros:Qonto                                                             -5,35 EUR
+    Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             5,29 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
+    Charges:Financières:PertesDeChange                                                                 0,06 EUR

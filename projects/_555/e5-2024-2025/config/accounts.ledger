@@ -10,6 +10,15 @@ account Charges:ServicesExtérieurs:Locations:Services:Keepa
 account Charges:ServicesExtérieurs:Locations:Services:ExplodingTopics
     note 61384 - Service ExplodingTopics
 
+account Charges:ServicesExtérieurs:Locations:Services:Midjourney
+    note 61385 - Service Midjourney
+
+account Charges:ServicesExtérieurs:Locations:Services:FreePik
+    note 61386 - Service FreePik
+
+account Charges:ServicesExtérieurs:Locations:Services:ElfSight
+    note 61387 - Service ElfSight
+
 account Charges:ServicesExtérieurs:Locations:Services:Cursor
     note 613811 - Service Cursor
 
@@ -22,11 +31,17 @@ account Charges:ServicesExtérieurs:Locations:Services:Spamzilla
 account Charges:ServicesExtérieurs:Locations:Services:Ahrefs
     note 613814 - Service Ahrefs
 
+account Charges:ServicesExtérieurs:Locations:Services:Adobe
+    note 613815 - Service Adobe
+
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Amazon
     note 62221 - Commissions et courtages Amazon sur ventes
 
 account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Ebay
     note 62222 - Commissions et courtages Ebay sur ventes
+
+account Charges:AutresServicesExtérieurs:RémDIntermédiairesEtHonoraires:CommsEtCourtagesSurVentes:Shopify
+    note 62223 - Commissions et courtages Shopify sur ventes
 
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement
     note 6261 - Services d'hébergement et cloud computing
@@ -46,6 +61,9 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:T
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:FreeMobile
     note 62632 - Services Free Mobile
 
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Téléphone:Airalo
+    note 62633 - Services Airalo
+
 account Charges:AutresServicesExtérieurs:ServicesBancaires:FraisDeTenueDeCompte
     note 6271 - Frais de tenue de compte
 
@@ -63,6 +81,12 @@ account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine
 
 account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:atoveirwifi.com
     note 65126 - atoveirwifi.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:automano.com
+    note 65127 - automano.com
+
+account Charges:AutresChargesDeGestionCourante:Redevances:NomsDeDomaine:pawevo.com
+    note 65128 - pawevo.com
 
 account Produits:Ventes:Marchandises:FR
     note 7071 - Ventes de marchandises FR

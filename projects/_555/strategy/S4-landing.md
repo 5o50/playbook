@@ -224,7 +224,7 @@ Each of these types of ecommerce landing pages will be centered around a unique 
 
 Here’s a breakdown of the 4 types of ecommerce landing pages:
 
-> Top of funnel landing page
+> Top of funnel landing page (Notoriété)
 Top of the funnel landing pages will be for introducing your ecommerce site to new visitors. 
 
 This page will be used for lookalike campaigns, with audiences similar to your existing customers. These are visitors who may not know about your brand yet, but it’s likely that they will be interested in your products. 
@@ -239,7 +239,7 @@ Social proof to establish credibility
 
 At this stage, visitors are likely not ready to buy so the CTA should focus on making a connection and lead generation. For example, offering a 10% discount on their first purchase when they sign up for your newsletter. Now they have an incentive to come back and you’ll have their email address to reach them again without having to use ad spend. 
 
-> Mid-funnel landing page
+> Mid-funnel landing page (Considération)
 Mid-funnel landing pages are for those customers who have shown interest in your site but have not yet converted. 
 
 This page will be for retargeting campaigns. These visitors will be familiar with your brand, maybe even have a few items picked out, but still need extra convincing.
@@ -254,7 +254,7 @@ Sense of urgency or limited time offers (i.e. “Almost Gone”)
 
 This type of landing page will have a CTA that drives a purchase. For example, having a button with the text “Buy Now”. This makes the path to purchase convenient and quick, encouraging them to checkout right away. 
 
-> Bottom-funnel landing page. 
+> Bottom-funnel landing page. (Conversion)
 Bottom-funnel landing pages are designed for the customers who have been on your site, added everything they want to a shopping cart but stopped short of hitting buy. 
 
 This page is for upselling campaigns, as customers are already in a buying mindset and there is an opportunity to offer them additional products. 

@@ -153,3 +153,26 @@
     ; Comment: Encaissement
     Tiers:Clients:VentesDeBiensOuServices:Nationaux:SophieBaltaciEI           -274,80 EUR
     Financiers:Banques:ComptesEnEuros:Qonto
+
+2025-01-22 Sofiane Baltaci
+    ; Document:
+    ; Description: Apport d'un associé (Sofiane Baltaci)
+    ; Method: Transfer
+    ; NetAmount: EUR 75,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                     75,00 EUR 
+    Tiers:GroupeEtAssociés:AssociésComptesCourants:Principal:SofianeBaltaci     
+
+2025-01-23 Sophie Baltaci EI
+    ; Document: 2025-01-01-2501-F-2025-01-002-555-TECHNOLOGY
+    ; Comment: Encaissement
+    Tiers:Clients:VentesDeBiensOuServices:Nationaux:SophieBaltaciEI           -274,80 EUR
+    Financiers:Banques:ComptesEnEuros:Qonto
+
+2024-01-24 SIE PARIS 11
+    ; Document:
+    ; Description: Remboursement crédit TVA - REMB. DGFiP - 898248828
+    ; Method: Transfer
+    ; NetAmount: EUR 303,00
+    Financiers:Banques:ComptesEnEuros:Qonto                                                    303,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:ÀRégulariserOuEnAttente:RemboursementDemandé        -302,72 EUR
+    Produits:Exceptionnels:Autres                                                               -0,28 EUR

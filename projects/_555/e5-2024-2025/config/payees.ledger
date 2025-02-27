@@ -11,10 +11,15 @@ payee Fnac
 payee Free Mobile
 payee La Poste
 payee Restauration Divers
+payee Deplacements Divers
 payee OVHCloud
 payee Sophie Baltaci EI
+payee SIE PARIS 11
 
 ; Intracommunautaires
+payee FreePik
+payee Adobe
+payee Shopify
 
 ; Extracommunautaires
 payee ExplodingTopics
@@ -23,3 +28,6 @@ payee Cursor
 payee Keyword Everywhere
 payee Spamzilla
 payee Ahrefs
+payee Midjourney
+payee ElfSight
+payee Airalo
