@@ -705,3 +705,15 @@
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements             5,29 EUR
     Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    0,00 EUR
     Charges:Financières:PertesDeChange                                                                 0,06 EUR
+
+2025-02-27 Microsoft
+    ; Document: 2025-02-27-Microsoft-G079779249_2d0ae7617484469a8fa542cac372882a.pdf
+    ; Description: Février 2025
+    ; Method: Card **3282
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR

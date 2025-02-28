@@ -8,7 +8,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-11-02 Amazon Web Services EMEA SARL
@@ -23,7 +23,7 @@
     ; ExchangeRate(Bank): EUR/USD 1.0870
     ; ExchangeRate(Diff): EUR/USD -0.0015
     Financiers:Banques:ComptesEnEuros:Qonto                                                          -29,77 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   4,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   4,95 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS               24,78 EUR
     Charges:Financières:PertesDeChange                                                                 0,04 EUR
 
@@ -52,7 +52,7 @@
     ; VATAmount: EUR 1,35
     ; GrossAmount: EUR 14,90
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -14,90 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,35 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   1,35 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            13,55 EUR
 
 2024-11-28 Microsoft
@@ -64,7 +64,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2024-11-29 Restauration Divers
@@ -76,7 +76,7 @@
     ; VATAmount: EUR 1,54
     ; GrossAmount: EUR 16,90
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,90 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,54 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   1,54 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            15,36 EUR
 
 2024-12-02 Restauration Divers
@@ -88,7 +88,7 @@
     ; VATAmount: EUR 1,00
     ; GrossAmount: EUR 11,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   1,00 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            10,00 EUR
 
 2024-12-02 Restauration Divers
@@ -100,7 +100,7 @@
     ; VATAmount: EUR 0,14
     ; GrossAmount: EUR 1,50
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -1,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,36 EUR
 
 2024-12-02 Amazon Web Services EMEA SARL
@@ -112,7 +112,7 @@
     ; VATAmount: EUR 0,14
     ; GrossAmount: EUR 0,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -0,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,14 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS                0,70 EUR
     Charges:Financières:PertesDeChange                                                                 0,01 EUR
 
@@ -125,7 +125,7 @@
     ; VATAmount: EUR 1,26
     ; GrossAmount: EUR 13,90
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -13,90 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,26 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   1,26 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            12,64 EUR
 
 2024-12-04 Restauration Divers
@@ -137,7 +137,7 @@
     ; VATAmount: EUR 0,14
     ; GrossAmount: EUR 1,50
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -1,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,36 EUR
 
 2024-12-05 Restauration Divers
@@ -149,7 +149,7 @@
     ; VATAmount: EUR 1,00
     ; GrossAmount: EUR 11,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -11,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,00 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   1,00 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            10,00 EUR
 
 2024-12-05 Restauration Divers
@@ -161,7 +161,7 @@
     ; VATAmount: EUR 0,14
     ; GrossAmount: EUR 1,50
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -1,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,14 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            1,36 EUR
 
 2024-12-06 Restauration Divers
@@ -173,7 +173,7 @@
     ; VATAmount: EUR 1,36
     ; GrossAmount: EUR 15,00
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -15,00 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   1,36 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   1,36 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            13,64 EUR
 
 2024-12-06 Restauration Divers
@@ -185,7 +185,7 @@
     ; VATAmount: EUR 0,95
     ; GrossAmount: EUR 10,50
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -10,50 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,95 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,95 EUR
     Charges:AutresServicesExtérieurs:DéplacementsMissionsEtRéceptions:VoyagesEtDéplacements            9,55 EUR
 
 2024-12-28 Microsoft
@@ -197,7 +197,7 @@
     ; VATAmount: EUR 2,81
     ; GrossAmount: EUR 16,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire    2,81 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
 
 2025-01-03 Amazon Web Services EMEA SARL
@@ -209,5 +209,54 @@
     ; VATAmount: EUR 0,14
     ; GrossAmount: EUR 0,85
     Financiers:Banques:ComptesEnEuros:Qonto                                                          -0,85 EUR
-    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaire   0,14 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires   0,14 EUR
     Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS               0,71 EUR
+
+2025-01-20 Namecheap
+    ; Document: 2025-01-20-namecheap-order-161632129.pdf
+    ; Description: Domain registration 555.team
+    ; Method: Card **6158
+    ; NetAmount: USD 42.90
+    ; ExchangeRate(ECB):  EUR/USD 1.0316
+    ; ExchangeRate(Bank): EUR/USD 1.0263
+    ; ExchangeRate(Diff): EUR/USD -0.0053
+    Financiers:Banques:ComptesEnEuros:Qonto                                                            -41,80 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap              41,59 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Due:Extracommunautaire                                        -8,32 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Extracommunautaires    8,32 EUR
+    Charges:Financières:PertesDeChange                                                                  0,21 EUR
+
+2025-01-28 Microsoft
+    ; Document: 2025-01-28-Microsoft-G075522758_fd6ebd6fd7e74deea68a02735d34244c.pdf
+    ; Description: Janvier 2025
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR
+
+2025-02-02 Amazon Web Services EMEA SARL
+    ; Document: 2025-02-02-AWS.pdf
+    ; Description: Cloud Services - Janvier 2025
+    ; Method: Card **6158
+    ; NetAmount: EUR 0,72
+    ; ExchangeRate(ECB):  EUR/USD 1.0393
+    Financiers:Banques:ComptesEnEuros:Qonto                                                          -0,72 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires  0,11 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Hébergement:AWS               0,58 EUR
+    Charges:Financières:PertesDeChange                                                                0,03 EUR
+
+2025-02-28 Microsoft
+    ; Document: 2025-02-28-Microsoft-G079868220_1fa6195bdbd34241b3f085fb395f1932.pdf
+    ; Description: Février 2025
+    ; Method: Card **6158
+    ; NetAmount: EUR 14,04
+    ; VATRate: 20%
+    ; VATAmount: EUR 2,81
+    ; GrossAmount: EUR 16,85
+    Financiers:Banques:ComptesEnEuros:Qonto                                                           -16,85 EUR
+    Tiers:État:TaxesSurLeChiffreDAffaires:Déductibles:TVASurAutresBiensEtServices:Intracommunautaires    2,81 EUR
+    Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Microsoft             14,04 EUR

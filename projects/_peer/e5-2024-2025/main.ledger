@@ -11,8 +11,8 @@ include config/tags.ledger
 include config/base/commodities.ledger
 include config/commodities.ledger
 
-include config/base/fxrates.ledger
-include config/fxrates.ledger
+include config/base/prices.ledger
+include config/prices.ledger
 
 # Journaux
 include journals/a-nouveaux.journal

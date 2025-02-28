@@ -8,6 +8,9 @@ account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:H
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet
     note 6262 - Services Internet et noms de domaine
 
+account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Namecheap
+    note 62621 - Services Namecheap
+
 account Charges:AutresServicesExtérieurs:FraisPostauxEtDeTélécommunications:Internet:Twilio
     note 62622 - Services Twilio
 
