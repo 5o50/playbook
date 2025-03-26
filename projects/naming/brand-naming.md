@@ -474,9 +474,9 @@ use popular culture that everyone knows that are memorable
 2. Two Syllables
    - C+CV: Temu
    - C+CVC: Xbox
-   - V+CVC: Uber, Elon, Apple
+   - V+CVC: Uber, Apple
    - VC+CVC: Intel, Exxon, Intuit
-   - CV+CV: Tata, Zara, China, Bharti, Nongfu, Visa, Lowe, Nike, Sony, Yeezy
+   - CV+CV: Tata, Zara, China, Bharti, Visa, Lowe, Nike, Sony, Yeezy
    - CV+V: Goa
    - VCV: AXA
    - CV+VC: Louis, Haier, Shein
@@ -622,13 +622,13 @@ Add warning triggers:
 
 ### Enhanced Evaluation Matrix
 Add columns:  
-| Metric                  | Weight | Example           |
-|-------------------------|--------|-------------------|
-| Dopamine Score          | 30%    | YakYak: 9.1/10    |
-| Taboo Adjacency          | 20%    | TêteBrûlée: 8.7   |
-| Facial Activation        | 25%    | ZingZang: 9.5     |
-| Folkloric Resonance      | 15%    | Sobremesa: 9.8    |
-| SaaS Avoidance           | 10%    | Gossamer: 10/10   |
+| Metric              | Weight | Example         |
+| ------------------- | ------ | --------------- |
+| Dopamine Score      | 30%    | YakYak: 9.1/10  |
+| Taboo Adjacency     | 20%    | TêteBrûlée: 8.7 |
+| Facial Activation   | 25%    | ZingZang: 9.5   |
+| Folkloric Resonance | 15%    | Sobremesa: 9.8  |
+| SaaS Avoidance      | 10%    | Gossamer: 10/10 |
 
 ### New Final Checklist Question
 - Would this name be chanted spontaneously at a:  

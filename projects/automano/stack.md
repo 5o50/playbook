@@ -1,4 +1,10 @@
+in incognito mode
+https://sale.alibaba.com/p/rank/list.html
+https://www.amazon.com/best-sellers/zgbs
 
+
+https://app.minea.com/en/academy/best-free-dropshipping-course/how-to-conduct-competitive-analysis
+https://www.youtube.com/watch?v=3z9CJHYkAW4
 
 niche product store > 1 PRODUCT 1 STORE !!!
 niche product store is more time efficient and risk efficient
@@ -15,8 +21,7 @@ you dont need viral products, just simple products that solve a problem
 you should look at trends but you dont have to chase the trend to win thanks to google shopping ads
 https://www.youtube.com/watch?v=qu7oOZr3PRQ
 
-in incognito mode
-https://sale.alibaba.com/p/rank/list.html
+
 
 in google search shopping ads if all you see is temu, aliexpress, amazon, temu, aliexpress, amazon
 then avoid that niche/product its too competitive if only one or two, you have a fair chance to compete
@@ -33,15 +38,16 @@ https://coolors.co/generate to generate your palette
 white, white, black, e4e4e4, then spacebar to gen accent
 https://coolors.co/ffffff-ffffff-000000-e4e4e4-348aa7
 
-use only one font super easy to read like Poppins, Quicksand, Montserrat, Raleway
+## fonts
+use only one font super easy to read like **Poppins**, **Quicksand**, **Montserrat**, **Raleway**
 that works on any website or if unique go to fontjoy.com
 
-create logo on canva
-265x90px use the same font as the website put it bold and make it big
+### 265x90px create logo on canva
+use the same font as the website put it bold and make it big
 add a small graphics or go on fiverr @ranisuchi
 export png black on white background
 
-40x40px for favicon
+### 40x40px for favicon
 
 Shoes store
 orthopedic sandals for women
@@ -63,16 +69,6 @@ IF PEOPLE RETURN PRODUCTS BECAUSE THEY COME TOO LATE FOR CHRISTMAS, YOU WILL LOS
 STOP SELLING AROUND 14 DECEMBER IF YOU CANT SHIP UNDER 10 DAYS
 
 ---
-Keyword
-Search Vol.
-CPC
-Products/Suppliers
-Competitors Products/Stores
-Cost + Shipping
-Sale Price
-Profit Margin
-
----
 Tech Stack
 shopify
 nextjs commerce 2.0
@@ -81,12 +77,11 @@ nextjs commerce 2.0
 minimum profit margin: 20$ per product
 maximum CPC $0.50 ==> means $50 for 100 visitors
 target conversion rate: 3% ==> 3 * $20 = $60 ==> $10 profit
-min vol 1000
+min vol 2500
 ---
 Suppliers
 
 zendrop / dsers
-or spocket
 or CJ dropshipping
  or find a private dropshipping agent on alibaba
  or find a private dropshipping agent on aliexpress (filter to US warehouse for faster shipping)

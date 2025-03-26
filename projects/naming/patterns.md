@@ -27,6 +27,7 @@ Hyper + [Formula]
 [Pet] + Empire
 Aristo + [Paw]
 [Paw] + Royale
+[Chemical] + Guys
 
 
 The brand name "AdRevival" evokes several powerful associations that can resonate strongly with customers. 
