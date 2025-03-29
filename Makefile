@@ -11,14 +11,19 @@ show:
 	killall Finder
 
 # https://superuser.com/questions/370388/simple-built-in-way-to-encrypt-and-decrypt-a-file-on-a-mac-via-command-line
+
+# encrypt file.txt to file.enc using 256-bit AES in CBC mode
 encrypt:
-	# encrypt file.txt to file.enc using 256-bit AES in CBC mode
-	#openssl enc -aes-256-cbc -salt -in file.txt -out file.enc
-	# the same, only the output is base64 encoded for, e.g., e-mail
+	openssl enc -aes-256-cbc -salt -in file.txt -out file.enc
+
+# decrypt binary file.enc
+decrypt:
+	openssl enc -d -aes-256-cbc -in file.enc -out file.txt
+
+# the same, only the output is base64 encoded for, e.g., e-mail
+encrypt2:
 	openssl enc -aes-256-cbc -a -salt -in archive.zip -out archive.enc
 
-decrypt:
-	# decrypt binary file.enc
-	#openssl enc -d -aes-256-cbc -in file.enc -out file.txt
-	# decrypt base64-encoded version
+# decrypt base64-encoded version
+decrypt2:
 	openssl enc -d -aes-256-cbc -a -in archive.enc -out archive.zip

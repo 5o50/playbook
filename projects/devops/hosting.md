@@ -1,3 +1,7 @@
+https://compute-cost.com/
+
+https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/
+
 OVHCloud VLE-2 -- 5€/mo
 2vCPU
 2GB RAM
@@ -18,5 +22,4 @@ DigitalOcean Basic Droplet 2GB -- $18/mo
 
 
 
-https://compute-cost.com/
-https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/
+

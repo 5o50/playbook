@@ -1,4 +1,14 @@
+# Others
 https://db-engines.com/en/ranking/search+engine
+
+
+
+# Typesense
+https://typesense.org/
+
+
+# Redpanda
 https://docs.redpanda.com/current/get-started/architecture/
 
-https://typesense.org/
+# Gorse
+https://gorse.io/
