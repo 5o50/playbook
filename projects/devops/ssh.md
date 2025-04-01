@@ -38,11 +38,43 @@ cat /home/<user>/.ssh/deploy_key.pub >> /home/<user>/.ssh/authorized_keys
 chmod 600 /home/<user>/.ssh/authorized_keys
 ```
 
+## SECURE SSH
+
+```bash
+sudo nano /etc/ssh/sshd_config
+
+Port 49152  <---- uncomment and replace with port between 49152 and 65535.
+#AddressFamily any
+#ListenAddress 0.0.0.0
+
+# 555 Settings
+PermitRootLogin no
+PasswordAuthentication no
+
+sudo systemctl restart sshd
+```
+or on Ubuntu 23.04 and above
+
+```bash
+sudo nano /lib/systemd/system/ssh.socket
+
+[Socket]
+ListenStream=49152
+Accept=no
+
+sudo systemctl daemon-reload
+sudo systemctl restart ssh.service
+```	
+
+
+## gen keys
 
 ```bash
 mkdir ~/.ssh
 ssh-keygen -t ed25519 -a 100
 ssh-keygen -t rsa -b 4096 -a 100
+ssh-keygen -t rsa -b 4096 -C "github-actions" -f ~/.ssh/deploy_key
+cat ~/.ssh/deploy_key.pub >> ~/.ssh/authorized_keys
 ```
 
 ```bash
