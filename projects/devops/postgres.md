@@ -11,6 +11,11 @@ psql -U postgres -f dump.sql
 
 ALTER USER postgres with encrypted password 'postgres';
 
+ALTER DATABASE old_dbname RENAME TO new_dbname;
+
+DROP DATABASE database_name;
+
+
 SHOW server_version;
 \l // list databases
 \c name // connect to database

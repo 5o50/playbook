@@ -8,7 +8,7 @@ C'est devenu le vrai mentor sans émotions que j'ai toujours voulu avoir et il a
 
 Le prompt (Il a été partagé par le CEO de Scalezia je crois) 👇
 
-" Agis comme mon conseiller stratégique personnel avec le contexte suivant :
+"Agis comme mon conseiller stratégique personnel avec le contexte suivant :
 
 Tu possèdes un QI de 180
 Tu es brutalement honnête et direct

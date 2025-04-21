@@ -1083,30 +1083,6 @@ https://shs.cairn.info/?lang=fr
 https://www.indexpresse-generalis.fr/node/133
 https://web.p.ebscohost.com/ehost/search/advanced?vid=0&sid=b10dc82f-4c62-45c5-ab17-7640cd4eef96%40redis
 
-# Stock images
-https://www.pexels.com/
-https://unsplash.com/
-
-# Stock videos
-https://www.pexels.com/videos/
-
-# Stock music
-https://www.epidemicsound.com/
-https://www.epidemicsound.com/campaign/invite-a-creator/
-
-# Stock icons
-https://www.flaticon.com/
-http://www.rw-designer.com/cursor-library
-
-# Stock fonts
-https://fonts.google.com/
-
-# 3d textures
-https://www.poliigon.com/
-https://ambientcg.com/list
-
-## shaders
-https://www.shadertoy.com/
 
 ## torrents
 https://www.1337x.biz/
@@ -1168,11 +1144,6 @@ https://liber3.eth.limo/
 - [Keepa Discuss](keepa.com/#!discuss)
 
 
-### Esthétique et Marques
-- [Cari Institute Aesthetics](https://cari.institute/aesthetics)
-- [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
-- [WGSN Consumer Insight](https://www.wgsn.com/en/consumer-insight/insight)
-- [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 
 
 ## Analyse des Tendances
@@ -1189,26 +1160,6 @@ https://liber3.eth.limo/
 - [Yuka](yuka.io)
 - [QIMA](qima.com)
 - [PickFU](pickfu.com/)
-
-# Typography
-
-### font guide
-https://app.typographychecklist.com/
-https://codepo8.github.io/typography-cheatsheet/
-
-### font inspiration
-https://fontsinuse.com/
-
-### font download
-https://fontshub.pro/
-https://www.freefontdownload.org/en
-
-### find font from image
-https://www.fontspring.com/matcherator
-https://www.myfonts.com/pages/whatthefont
-https://www.whatfontis.com/
-https://www.fontsquirrel.com/matcherator
-https://fonts.adobe.com/fonts/vs/upload
 
 ### Marques Déposées
 - [INPI](https://data.inpi.fr/)

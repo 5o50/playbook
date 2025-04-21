@@ -1,5 +1,9 @@
 # Photoshop Cheatsheet
 
+X: reverse foreground and background color
+
+ctrl + H: hide/show bounding box and other selection outlines while editing text
+
 alt + scroll : zoom in/out
 alt + click on tool: cycle through tools
 
@@ -11,6 +15,16 @@ ctrl + d: deselect
 
 
 ctrl + t: transform tool
+
+KEEP CTRL down with mouse out of the object to see the distances
+and move mouse over other object for relative distances
+and move the object with arrow keys
+
+ctrl + R: show rulers
+ctrl + ;: toggle guides
+ctrl + ': toggle grid
+ctrl + /: toggle lock layer
+ctrl + ,: toggle show layer
 
 
 [ or ]: bigger or smaller brush size
