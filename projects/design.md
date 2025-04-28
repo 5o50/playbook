@@ -1,3 +1,5 @@
+## logo minimaliste avec beaucoup d'espace negatif
+
 ## design tools
 https://github.com/LisaDziuba/Awesome-Design-Tools
 
@@ -32,6 +34,9 @@ DESIGN THE PRIMITIVES WELL AND COMPOSE WITH THAT !
 
 
 ## aesthetics archives
+> Aesthetics is the form that enhances a function's usability. 
+> Like cloudy and electronic instrumentals allowed rappers to express themselves in a way that is more true to their emotions and experiences. 
+> Y2k aesthetic allow an app ...
 https://dribbble.com/
 https://cari.institute/aesthetics
 https://aesthetics.fandom.com/wiki/Aesthetics_Wiki
@@ -165,18 +170,25 @@ Rayure verticale elances la silhoute et rayure horizontale elargisse les corps e
 Plus l'imprimé est voyant plus la coupe doit être sobre
 
 ## gradients
+https://www.fffuel.co/
+https://meshgradient.com/
+https://colorffy.com/mesh-gradient-generator
+https://www.svgbackgrounds.com/
+https://haikei.app/
+https://csshero.org/mesher/
 https://uigradients.com/
 https://www.grabient.com/
 https://helpx.adobe.com/illustrator/using/gradients.html
 https://uxplanet.org/gradients-in-ui-design-b97146f63df3
 
 ## shadows
+https://neumorphism.io/#e0e0e0
 https://smoothshadows.com/
 
 # Animation
 Animation fills the compregension gap.
 Animation is crucial to suggest interaction as well as understanding the system states.
-
+https://animista.net/
 https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac
 https://www.youtube.com/watch?v=uDqjIdI4bF4
 https://www.youtube.com/watch?v=jn5OB12u8Pw
@@ -202,6 +214,10 @@ https://www.flaticon.com/
 
 # Stock fonts
 Pangram: "The quick brown fox jumps over the lazy dog."
+
+https://fontdrop.info/
+https://fontforge.org/en-US/
+
 https://fontsinuse.com/
 https://fontmeme.com/
 
@@ -982,7 +998,8 @@ In Western art the Elements of Composition are generally considered to be:
 
 The [Elements of Composition](https://www.thoughtco.com/elements-of-composition-balance-2578092) are not the same as the [Elements of Art](https://www.thoughtco.com/elements-of-painting-2577546), though composition is sometimes included as one of the latter.
 
-
+**Shapes**
+Imperfect geometric shapes tend to create tension and attract greater interest. But they may also look irregular or unfinished.
 
 **Make them smiles or laugh or angry in any way !**
 delight the user

@@ -14,7 +14,6 @@ https://www.swebench.com/
 
 https://www.sbert.net/docs/sentence_transformer/pretrained_models.html
 
-https://www.gate2ai.com/prompts-midjourney/search?q=white%20box
 
 https://www.european-language-grid.eu/   
 https://news.ycombinator.com/item?id=25071620
