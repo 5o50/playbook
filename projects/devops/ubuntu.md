@@ -4,6 +4,12 @@ active LTS: Ubuntu 24.04 LTS (Noble Numbat)
 
 https://help.ovhcloud.com/csm/en-ie-public-cloud-compute-vps-image-life-cycle?id=kb_article_view&sysparm_article=KB0050805
 
+```bash
+sudo apt purge redis-server
+sudo apt autoremove
+```
+
+lsb_release -a
 
 ```bash
 uname -r

@@ -95,7 +95,7 @@ Start + Shift + C : Windows color picker
 - IrfanView
 - MediaInfo
 - Shutter Encoder
-- PotPlayer / VLC
+- VLC
 
 - HP Smart
 - HP OCR

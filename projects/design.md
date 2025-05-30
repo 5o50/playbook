@@ -6,6 +6,15 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 ## app icons
 https://toolbox.marketingtools.apple.com/en-us/app-store/us
 
+## ui ux flows
+https://mobbin.com/
+https://uxarchive.com/
+https://www.uisources.com/
+https://refero.design/
+
+# ux to implement
+https://growth.design/case-studies/linkedin-retention-triggers
+
 ## ux archives
 https://uxplanet.org/aristotles-secret-to-interaction-design-f3daca515c62
 https://ux.stackexchange.com/
@@ -211,9 +220,12 @@ https://www.epidemicsound.com/campaign/invite-a-creator/
 
 # Stock icons
 https://www.flaticon.com/
+https://icones.js.org/
 
 # Stock fonts
 Pangram: "The quick brown fox jumps over the lazy dog."
+
+https://www.myfonts.com/fr/pages/whatthefont
 
 https://fontdrop.info/
 https://fontforge.org/en-US/

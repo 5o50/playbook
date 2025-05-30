@@ -1,3 +1,12 @@
+
+WHAT IS YOUR TOPIC ???
+
+THEN WHAT IS YOUR INTENTION WITH THIS CONTENT ?
+WHAT DO YOU WANT TO TRIGGER IN THE AUDIENCE ?
+
+---
+
+
 1. Take clips
 2. Select the clips you use
 3. trim & crop

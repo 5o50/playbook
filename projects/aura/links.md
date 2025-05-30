@@ -1,5 +1,10 @@
 todo
 
+https://interfaceai.com/
+https://www.hellom1.com/
+https://apps.apple.com/us/app/m1-ai-phone-assistant/id6453521926?l=fr-FR
+
+
 inspi:
 https://www.google.com/search?q=killua+hunter+x+hunter+logo&sca_esv=c838d140fd5715f8&rlz=1C1SNKR_frFR1133FR1133&udm=2&biw=1920&bih=992&ei=lRv5Z7CTJKmskdUP_NjsmQk&ved=0ahUKEwjwsZ2pjdCMAxUpVqQEHXwsO5MQ4dUDCBE&uact=5&oq=killua+hunter+x+hunter+logo&gs_lp=EgNpbWciG2tpbGx1YSBodW50ZXIgeCBodW50ZXIgbG9nbzIGEAAYCBgeSJ8JUKADWLIIcAF4AJABAJgBjwGgAdoDqgEDMS4zuAEDyAEA-AEBmAIFoAKFBMICChAAGIAEGEMYigXCAgYQABgHGB7CAgUQABiABJgDAIgGAZIHAzIuM6AH5BGyBwMxLjO4B-cD&sclient=img#vhid=5oHEMqpDsMs5OM&vssid=mosaic
 https://www.upstream.do/
