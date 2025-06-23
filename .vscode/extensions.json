@@ -15,6 +15,7 @@
 		"cescript.markdown-formula",
 		"clover.md-table-editor",
 		"mechatroner.rainbow-csv",
-		"hangxingliu.vscode-systemd-support"
+		"hangxingliu.vscode-systemd-support",
+		"elijah-potter.harper"
 	]
 }

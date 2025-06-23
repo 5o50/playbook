@@ -1,0 +1,363 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# TikTok Shop France Product Compliance Methodology
+
+## 🎯 Primary Objective
+
+This folder implements a **streamlined product compliance methodology** for TikTok Shop France operations. Each file represents a product category with **PRECISELY defined compliance requirements** - nothing more, nothing less - to facilitate efficient business negotiations with Chinese factories while ensuring full French regulatory compliance.
+
+## 🚀 PRAGMATIC COMPLIANCE PHILOSOPHY
+
+### Start Somewhere, Scale Smart Strategy
+**Core Principle**: When facing compliance roadblocks, always seek **interim solutions** that allow immediate market entry while maintaining legal compliance, then upgrade systematically as business scales.
+
+### Smart Solution Framework
+When encountering compliance challenges, apply this hierarchy:
+
+#### 1. **Interim Workarounds** (Start Here)
+- **French Stickers**: Add French compliance stickers over English packaging
+- **Dual Language**: French + English packaging (acceptable, future-proof)
+- **Compliance Overlays**: French labels that meet requirements without full packaging redesign
+- **Phased Implementation**: Start with basic compliance, upgrade incrementally
+
+#### 2. **Escalation Path** (Scale Strategy)
+- **Phase 1**: Interim solutions for immediate launch (French stickers)
+- **Phase 2**: Improved packaging with better integration (French + English printed)
+- **Phase 3**: Fully optimized French-native packaging (long-term goal)
+
+#### 3. **Never Compromise On** (Non-Negotiables)
+- Product safety classifications (cosmetic vs medical device)
+- Required regulatory information (must be present, format flexible)
+- Legal language requirements (French mandatory, delivery method flexible)
+- Core compliance documentation (INCI lists, responsible person info)
+
+### Problem-Solving Methodology
+**When suppliers say "too difficult/expensive/time-consuming":**
+
+1. **Identify the Core Requirement**: What exactly does the law/TikTok require?
+2. **Find Alternative Delivery Methods**: How else can we meet this requirement?
+3. **Propose Interim Solutions**: What's the easiest way to start?
+4. **Plan Upgrade Path**: How do we improve this over time?
+
+### Practical Examples
+- **French Language Requirement** → French stickers over English packaging
+- **EU Responsible Person** → Use compliance service, add contact sticker
+- **INCI Ingredient Lists** → Print French translation on adhesive label
+- **GPSR Information** → Add QR code linking to French compliance page
+- **Product Instructions** → Include French insert/leaflet initially
+
+### Supplier Communication Strategy
+**Instead of**: "You must have French packaging or we can't work together"
+**Say**: "We can start with French stickers over your existing packaging - very simple solution!"
+
+**Instead of**: "You need complete EU compliance documentation"
+**Say**: "Let's start with basic ingredient lists, I can help you with the French requirements step by step"
+
+### Business Impact
+- **Higher Supplier Engagement**: Practical solutions get more "yes" responses
+- **Faster Market Entry**: Start selling while perfecting compliance
+- **Lower Initial Costs**: Avoid expensive custom solutions for testing
+- **Scalable Growth**: Upgrade systematically as sales prove market demand
+- **Risk Management**: Stay compliant while maintaining flexibility
+
+## 📁 Folder Structure & File Naming Convention
+
+### File Organization
+- **One file = One product category**
+- **Filename = Product category name** (e.g., `nose-strip.md`, `skincare-patches.md`, `beauty-tools.md`)
+- Each file contains the **minimal essential compliance documentation** required for TikTok Shop France approval
+
+### Directory Purpose
+```
+projects/tiktok-shop-france/
+├── nose-strip.md           # Cosmetic nose strips (HS Code 330499049)
+├── skincare-patches.md     # Hydrogel/beauty patches
+├── beauty-tools.md         # Non-electrical beauty implements
+└── ...                     # Additional product categories
+```
+
+### File Structure Template
+Each product file should start with:
+1. **Top 10 TikTok Shop Keywords** (French search terms)
+2. **Supplier Source** (if applicable)
+3. **🛒 Sample TikTok Shop Listing** (Product Name, Category, Description)
+4. **DVCRP Product Validation** (5 framework sections)
+5. **Final Score & Decision**
+6. **Next Action Items**
+
+## 🎯 Content Methodology for Each Product File
+
+### ✅ REQUIRED SECTIONS (DVCRP Framework)
+
+#### 1. **D - DEMAND Validation** 
+**Goal**: HIGH DEMAND - Prove market wants this product
+- **Primary Keywords**: Top 3-5 French search terms customers use (in French language)
+- **Search Volume**: Monthly searches for main keywords in France (use KeywordEverywhere)
+- **Search Intent**: Informational → Commercial → Transactional
+- **Trend Analysis**: Seasonal patterns, growing/declining demand in French market
+- **Customer Pain Points**: What problem does this solve for French consumers?
+
+#### 2. **V - VIABILITY (Compliance & Legal)**
+**Goal**: REGULATORY COMPLIANCE - Meet all requirements
+- **Business Registration**: French/EU business registration (SIREN), VAT number
+- **HS Code Classification**: Precise classification (avoid medical device confusion)
+- **MANDATORY French Labeling**: ALL packaging info must be in French (English alone = rejection)
+- **Product Documentation**: CE marking, ingredient lists, high-quality photos with French labels
+- **GPSR Compliance**: EU Responsible Person, manufacturer info, unique identifiers (all in French)
+- **Supplier Communication Template**: Comprehensive compliance request including French labeling
+- **Regulatory Red Flags**: Medical claims, prohibited substances, non-French labeling
+- **TikTok Shop Upload**: All documentation in Product Certification section
+
+#### 3. **C - COMPETITION Analysis**
+**Goal**: LOW COMPETITION - Find market gaps to exploit
+- **Review Analysis**: Top 10 competitors' review counts in France (<100 reviews = opportunity)
+- **Price Range**: Market pricing analysis in euros (€16-50 sweet spot for French market)
+- **Product Differentiation**: How to stand out in French market (features, packaging, positioning)
+- **Market Saturation**: Chinese sellers ratio, price decline trends on French platforms
+- **Green Flags**: Low ratings but high sales in France = improvement opportunity
+
+#### 4. **R - RISK Assessment**
+**Goal**: MINIMIZE RISKS - Avoid problem products
+- **Product Safety**: No food, electronics, body-contact items
+- **Legal Risks**: Patent/trademark conflicts, brand loyalty issues
+- **Supplier Risks**: Payment before docs, unclear capabilities
+- **Market Risks**: Fast-moving market, fad products
+- **Operational Risks**: Breakable items, high return rates
+
+#### 5. **P - PROFITABILITY Validation**
+**Goal**: GOOD MARGINS - Ensure sustainable business
+- **Cost Structure**: Rule of thirds (1/3 cost, 1/3 fees, 1/3 profit)
+- **Target Pricing**: €16-50 range for optimal profitability in French market
+- **Margin Requirements**: Minimum 35% gross margin
+- **ROI Targets**: 100%+ return on investment
+- **Lifecycle**: 24+ months product relevance in French market
+
+### ❌ AVOID DOCUMENTING (These Kill Deals)
+
+#### What NOT to Request Unless TikTok Specifically Requires:
+- Detailed lab test reports
+- Multiple safety certifications
+- FDA approvals (US-specific)
+- Medical device documentation
+- Detailed PIF files
+- CPNP notifications (can be done later)
+- Multiple quality certificates
+
+## 🎯 Business-First Approach
+
+### Core Philosophy
+1. **Minimal Viable Compliance**: Document only what's essential for TikTok Shop France approval
+2. **Supplier-Friendly**: Avoid overwhelming factories with excessive documentation requests
+3. **Speed to Market**: Focus on getting products approved and selling quickly
+4. **Scalable Process**: Methodology that works across multiple product categories
+
+### Supplier Negotiation Strategy
+- Start with minimal requirements
+- Build relationship first
+- Add additional documentation only if specifically requested by TikTok
+- Maintain flexibility for market opportunities
+
+## 📋 Quality Standards for Documentation
+
+### Each Product File Must Include:
+- **Top 10 TikTok Shop Keywords**: Most probable French search terms customers use (at top of file)
+- **🛒 Sample TikTok Shop Listing**: Complete listing template with Product Name, Category, and Description that:
+  - Naturally incorporates all 10 French keywords
+  - Uses TikTok-friendly format with emojis and engaging copy
+  - Positions product as cosmetic (not medical) with compliant claims
+  - Includes benefits-driven copy addressing customer pain points
+  - Features relevant hashtags for discoverability
+- **DVCRP Framework**: All 5 sections (Demand, Viability, Competition, Risk, Profitability)
+- **Quantified Metrics**: Numbers for search volume, pricing, competition reviews
+- **Clear Go/No-Go Decision**: Based on scoring each DVCRP section
+- **Action Items**: Next steps if validation passes
+- **NEVER**: Specific supplier names (maintain vendor neutrality)
+
+### Writing Guidelines:
+- **Language**: All documentation written in English for consistency and global team accessibility
+- **Market Localization**: Keywords, currencies (€), prices, and market data must reflect French target market
+- **Concise and actionable**: Under 500 lines per file
+- **Business-focused**: Prioritize speed and efficiency
+- **Regulatory-compliant**: Meet minimum French/EU requirements
+- **Supplier-friendly**: Avoid deal-killing documentation requests
+- **Vendor-neutral**: NO specific supplier names in product files (keep documentation professional and flexible)
+- **Language Standards**: ALL documentation written in English, but keywords and market data must reflect target market language (French keywords for France market)
+
+## 🚀 Implementation Workflow
+
+### DVCRP Validation Process:
+1. **D - Demand Research**: Keyword analysis, search volume, trend validation
+2. **V - Viability Check**: Regulatory classification, compliance requirements  
+3. **C - Competition Audit**: Review analysis, pricing gaps, differentiation opportunities
+4. **R - Risk Assessment**: Safety, legal, supplier, market, operational risks
+5. **P - Profitability Calculation**: Margin analysis, ROI targets, pricing strategy
+
+### Scoring System (Pass/Fail Criteria):
+- **Demand**: ✅ >1000 monthly searches for main French keywords
+- **Viability**: ✅ Clear regulatory path, no major compliance blockers
+- **Competition**: ✅ 5+ competitors with <100 reviews in top rankings in France
+- **Risk**: ✅ No major red flags (food, electronics, patents, breakables)
+- **Profitability**: ✅ >35% gross margin potential in €16-50 price range
+
+### Decision Matrix:
+- **5/5 DVCRP Pass**: 🟢 **GO** - Immediate launch preparation
+- **4/5 DVCRP Pass**: 🟡 **CAUTION** - Address failing area, then proceed
+- **3/5 DVCRP Pass**: 🔴 **NO GO** - Find different product opportunity
+
+## 🎯 Success Metrics
+
+### Key Performance Indicators:
+- **Supplier Response Rate**: High engagement with documentation requests
+- **TikTok Approval Rate**: Consistent product approval without additional requirements
+- **Time to Market**: Rapid progression from supplier contact to live sales
+- **Cost Effectiveness**: Competitive pricing without excessive compliance costs
+
+### Quality Assurance:
+- Regular review of compliance requirements
+- Supplier feedback integration
+- TikTok Shop France policy updates monitoring
+- Continuous methodology refinement
+
+## 🔄 Continuous Improvement
+
+### Regular Updates Required:
+- TikTok Shop France policy changes
+- EU regulatory updates
+- Supplier market developments
+- Success/failure pattern analysis
+
+### Documentation Maintenance:
+- Quarterly review of all product files
+- Supplier relationship updates
+- Pricing and availability changes
+- Compliance requirement modifications
+
+## 📚 Reference Standards
+
+### Primary Sources:
+- [TikTok Shop France Registration Guide](mdc:https:/docs.m2ecloud.com/docs/tiktok-shop-france-seller-registration-guide)
+- EU Cosmetic Regulation (EC 1223/2009)
+- French consumer protection regulations
+- Current supplier market intelligence
+
+### Internal Standards:
+- Proven supplier communication templates
+- Successful product launch case studies
+- Regulatory compliance verification methods
+- Business efficiency optimization techniques
+
+## 🇫🇷 Universal TikTok Shop France Requirements
+
+### Legal Registration Prerequisites
+- **Business Registration in France**: micro-entreprise, SASU, SARL, etc.
+- **Required Documents**: SIREN number, business address, identity proof
+- **TikTok Professional Account**: Must be registered with all required information
+- **Business Verification**: Extrait Kbis or official business registration proof
+
+### General Compliance Framework
+- **Seller Requirements**: Valid French business registration
+- **Tax Obligations**: French VAT application, fiscal compliance
+- **Consumer Protection**: Right of withdrawal, clear information, return management
+- **GDPR Compliance**: Personal data collection and processing regulations
+- **Advertising Standards**: Transparent campaigns, no misleading promises, legal mentions
+
+### Universal Documentation Requirements
+**Essential for ALL Products:**
+- **CE Marking**: Appropriate to product category (cosmetic, toy, electronics, etc.)
+- **Product Photos**: High-resolution images showing product, labeling, CE marking, ingredients list, warnings, manufacturing location
+- **MANDATORY French Labeling**: ALL packaging information MUST be in French (English alone insufficient)
+  - Ingredients list in French
+  - Usage instructions in French
+  - Warnings and safety information in French
+  - Product name and description in French
+- **EU Responsible Person Address**: Must be mentioned on labels in French
+- **Batch Numbers**: Required for traceability
+- **Safety Data Sheets**: If applicable for chemical components
+
+### GPSR Compliance (Since December 13, 2024)
+**Mandatory for ALL Products Shipped to Europe:**
+- **Responsible Person (RP)**: EU-based contact details must be on packaging in French
+- **Manufacturer/Importer Information**: Required on both product and TikTok Shop listing in French
+- **Unique Identifier**: Model number or batch code for product traceability
+- **Product Safety**: Products must be in original, unopened, sealed packaging
+- **Documentation Upload**: All GPSR compliance docs in TikTok Seller Center
+
+### 🚨 CRITICAL: French Language Compliance Table
+| Packaging Language | TikTok Shop France Status | Notes |
+|--------------------|:-------------------------:|-------|
+| English only | ❌ NOT ALLOWED | Will be rejected - legal penalties possible |
+| French only | ✅ COMPLIANT | Fully compliant |
+| French + English | ✅ COMPLIANT | Recommended approach |
+| English + French sticker | ✅ ACCEPTABLE | Temporary solution for quick launch |
+
+**Legal Consequences of Non-Compliance:**
+- Listing rejection by TikTok Shop France
+- Product removal/delisting if discovered after approval
+- French legal penalties and customs issues
+- Customer complaints and poor reviews
+
+**Business Documents:**
+- **Company Registration Proof**: Business license or Kbis extract
+- **Identity Verification**: Official ID for individual sellers
+- **Brand Authorization**: If not the manufacturer, authorization letter from brand owner
+
+### Upload Process
+- **TikTok Interface**: Documents uploaded in "Product Certification" section
+- **Mandatory Fields**: Marked with red asterisk in seller interface
+- **Review Process**: TikTok reviews all documentation before product approval
+
+### Prohibited Substances (EU-Wide)
+**Banned Ingredients:**
+- CMR substances (carcinogenic, mutagenic, toxic for reproduction)
+- Non-compliant nanomaterials
+- Microplastics and PFAS (increasingly restricted)
+- Specific UV filters (4-MBC banned, homosalate limited to 7.34%)
+- Triclocarban and Triclosan (concentration limits)
+- Vitamin A (limited to 0.05% in body lotions, 0.3% in other products from Nov 2025)
+- Genistein, daidzein, kojic acid, arbutin, alpha-arbutin (new concentration limits from Feb 2025)
+
+**Allergens & Sensitizers:**
+- Phenoxyethanol, oxidized limonene, triclosan
+- Lanolin, non-polymerized acrylic resins
+
+### Marketing & Communication Restrictions
+**Forbidden Medical Claims:**
+- Never use: "treats", "cures", "heals", "prevents disease", "soothes symptoms"
+- **Avoid Medical Symbols**: No crosses, medical devices references, "medical device" mentions
+- **No Medical Professional Endorsements**: Cannot reference healthcare professional recommendations
+- **No Clinical Claims**: Avoid "clinically proven" or "scientifically proven"
+
+**Preferred Formulations:**
+- Use: "contributes to", "helps maintain", "promotes appearance"
+- Stay in aesthetic/beauty domain without therapeutic promises
+- Use neutral, positive formulations
+
+### Supplier Red Flags (Universal)
+❌ **Avoid Suppliers Who:**
+- Only have medical device certifications for cosmetic products
+- Cannot provide ingredient lists
+- Demand payment before documentation
+- Are confused about regulatory requirements
+- Lack appropriate CE capability for product category
+- Cannot deliver rapidly to France
+- Show inconsistent quality
+
+### Logistics & Operations
+- **Stock Management**: Products must be actually available, avoid stockouts
+- **Delivery Standards**: Reasonable delivery times, risk of TikTok sanctions
+- **Dropshipping Compliance**: Ensure supplier can deliver quickly to France with consistent quality
+- **Return Management**: Compliant with French distance selling regulations
+
+### Financial & Legal Compliance
+- **Pricing**: Must include French VAT
+- **Contracts**: Review TikTok Shop terms regarding liability, termination, jurisdiction
+- **Insurance**: Consider product liability insurance
+- **Reputation Management**: Plan for online reputation management
+- **Minor Protection**: Measures to avoid selling inappropriate products to TikTok's young audience
+
+---
+
+**Note**: This methodology prioritizes **business efficiency** while maintaining **regulatory compliance**. The goal is to facilitate successful, profitable relationships with Chinese suppliers while ensuring all products meet TikTok Shop France requirements without unnecessary complications.

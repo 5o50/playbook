@@ -8,6 +8,9 @@ https://help.ovhcloud.com/csm/en-ie-vps-firewall-windows?id=kb_article_view&sysp
 ```
 [wsl2]
 guiApplications=true
+memory=24GB # default is 50% of total mem
+swap=12GB   # should be half of memory
+processors=8
 
 [experimental]
 sparseVhd=true

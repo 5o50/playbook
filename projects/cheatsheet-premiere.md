@@ -1,6 +1,5 @@
 # Cheatsheet Premiere Pro
 https://www.youtube.com/watch?v=oLMdXC_B1vQ
-https://adobevideotraining.com/premiere-pro/introductory-courses/?utm_source=premiere-pro-product
 
 V: Selection Tool
 ~: Put panel full screen
@@ -25,13 +24,15 @@ Right clip on clip > Set to frame size
 Ctrl + L or (Ctrl + back btn swipe right) or Alt + select+ delete
 Right clip on clip > Unlink (to unlink audio and video)
 
-Tips:
+## Audio Level Tips
 - Skip imports are project creation
-- Keep your audio between -6dB and -12dB 
+- Keep your audio between -6dB and -12dB for optimal levels
   - over 0dB its clipping (too loud)
   - under -40dB its too quiet
   - -6dB is the sweet spot
   - -12dB is the threshold for voice over
+
+## Others tips
 - Window > Workspaces > (Editing) Reset to Saved Layout
 
 ## Mouse Shortcuts (MX Master 3S)

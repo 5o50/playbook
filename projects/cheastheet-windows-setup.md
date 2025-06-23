@@ -47,7 +47,7 @@ Start + Shift + C : Windows color picker
 - PowerToys
 
 - Spotify
-
+- yt-dlp
 
 - Whatsapp
 - WeChat
@@ -62,13 +62,18 @@ Start + Shift + C : Windows color picker
 - Elgato Stream Deck
 - OBS Studio
 
+- VeraCrypt
+- Cryptomator
+- CrystalDiskMark
 
 - Cursor
 - VSCode
 - Sublime Text
-- TablePlus
+- DBeaver
 
-  
+- rsync
+- 3u.com
+
 - Adobe Creative Cloud
 - Adobe Premiere Pro
 - Adobe Photoshop
