@@ -1,5 +1,32 @@
 # SSH cheatsheet
 
+Tunnel SSH
+
+```
+ssh -N -L 60001:127.0.0.1:9090 ovh1
+ssh -N -L 60001:127.0.0.1:9090 ovh1
+```
+
+
+## Secure Ubuntu VPS
+
+1. Don't use root for daily operations.
+   Create a new user with sudo privileges
+
+2. Set up a SSH key authentification
+   eliminate password login
+
+3. Update and upgrade the system
+   sudo apt update && sudo apt upgrade -y
+
+4. Secure SSH access
+   disable root login
+   disable password authentication
+   change default ssh port (55555)
+   use ip-based restrictions (AllowUsers) limit by username and ip address
+
+
+
 
 ```
 # ~/.ssh/config
