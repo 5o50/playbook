@@ -143,6 +143,11 @@ schema_config:
       index:
         prefix: index_
         period: 24h
+compactor:
+  retention_enabled: true
+  delete_request_store: filesystem
+limits_config:
+  retention_period: 720h  # 30 days
 EOF
 sudo chown -R loki:loki /etc/loki /var/lib/loki
 ```
@@ -240,65 +245,86 @@ Create the Alloy configuration file at `/etc/alloy/config.alloy`. This file defi
 ```alloy
 # Use https://grafana.github.io/alloy-configurator/
 
-// Define where to send metrics
-prometheus.remote_write "to_prometheus" {
+prometheus.remote_write "local" {
   endpoint {
     url = "http://localhost:9090/api/v1/write"
   }
 }
 
-// Define where to send logs
-loki.write "to_loki" {
+loki.write "local" {
   endpoint {
     url = "http://localhost:3100/loki/api/v1/push"
   }
 }
 
-// --- METRICS COLLECTION ---
+prometheus.exporter.unix "node" {
+}
 
-// 1. Host Metrics (replaces Node Exporter)
-prometheus.exporter.unix "host" {}
-
-// 2. PostgreSQL Metrics (replaces Postgres Exporter)
 prometheus.exporter.postgres "postgres" {
   data_source_names = ["postgresql://postgres:postgres@localhost:5432/postgres?sslmode=disable"]
 }
 
-// 3. Redis Metrics (replaces Redis Exporter)
 prometheus.exporter.redis "redis" {
   redis_addr = "localhost:6379"
 }
 
-// Scrape the metrics from the exporters defined above
-prometheus.scrape "agent" {
+prometheus.scrape "linux_node" {
   targets = concat(
-    prometheus.exporter.unix.host.targets,
+    prometheus.exporter.unix.node.targets,
     prometheus.exporter.postgres.postgres.targets,
     prometheus.exporter.redis.redis.targets,
   )
-  forward_to = [prometheus.remote_write.to_prometheus.receiver]
+  forward_to = [
+    prometheus.remote_write.local.receiver,
+  ]
 }
 
-// --- LOGS COLLECTION ---
-
-// 1. Systemd Journal Logs
-loki.source.journal "journal" {
-  max_age    = "24h"
-  forward_to = [loki.relabel.journal.receiver]
-  labels     = {"job" = "systemd-journal"}
-}
-
-// Relabel the journal logs to add the 'unit' label
 loki.relabel "journal" {
-  forward_to = [loki.write.to_loki.receiver]
+  forward_to = []
 
   rule {
     source_labels = ["__journal__systemd_unit"]
     target_label  = "unit"
   }
+  rule {
+    source_labels = ["__journal__boot_id"]
+    target_label  = "boot_id"
+  }
+  rule {
+    source_labels = ["__journal__transport"]
+    target_label  = "transport"
+  }
+  rule {
+    source_labels = ["__journal_priority_keyword"]
+    target_label  = "level"
+  }
+  rule {
+    source_labels = ["__journal__hostname"]
+    target_label  = "instance"
+  }
 }
 
-// 2. /var/log Files
+loki.source.journal "read" {
+  forward_to = [
+    loki.write.local.receiver,
+  ]
+  relabel_rules = loki.relabel.journal.rules
+  labels = {
+    "job" = "integrations/node_exporter",
+  }
+}
+
+prometheus.scrape "static" {
+  forward_to = [
+    prometheus.remote_write.local.receiver,
+  ]
+  targets = [
+    {
+      "__address__" = "localhost:8080",
+    },
+  ]
+}
+
 local.file_match "varlogs" {
   path_targets = [{
     "__path__" = "/var/log/**/*.log",
@@ -309,7 +335,7 @@ local.file_match "varlogs" {
 
 loki.source.file "varlogs" {
   targets    = local.file_match.varlogs.targets
-  forward_to = [loki.write.to_loki.receiver]
+  forward_to = [loki.write.local.receiver]
 }
 ```
 
