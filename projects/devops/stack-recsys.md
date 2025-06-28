@@ -1,18 +1,3 @@
-# Gorse
-
-https://github.com/kyegomez/Tiktokx
-
-https://gorse.io/
-
-## Install
-https://gorse.io/docs/master/deploy/binary.html#run-gorse-in-one
-
-```
-wget -O gorse.zip https://github.com/gorse-io/gorse/releases/latest/download/gorse_linux_amd64.zip
-sudo unzip gorse.zip -d /usr/local/bin
-
-```
-
 ## 🔥 **2025 Update: LLMs and Foundation Models Revolutionizing Recommendations**
 
 The recommendation system landscape is undergoing a massive transformation in 2025 with the rise of **Large Language Models (LLMs)** and **Foundation Models**. This represents the biggest shift since the introduction of deep learning, moving "beyond keywords" to semantic understanding of user preferences and content.

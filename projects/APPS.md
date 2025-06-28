@@ -44,6 +44,8 @@ Mais je vais t’apprendre à obtenir ce genre de résultats 👇
 
 ![IMG_1735 2.jpg](attachment:90c03904-a8ac-4d4f-8ce7-2ba4d052ce75:IMG_1735_2.jpg)
 
+https://ads.tiktok.com/business/creativecenter/trends/home/pc/en
+
 ## Étape 1 : Comment identifier des niches rentables
 
 L’objectif ici, c’est de trouver une idée qui correspond aux 3 critères ci-dessous : 
