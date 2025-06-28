@@ -220,7 +220,7 @@ Now, install the Alloy agent to collect data.
 
 ```bash
 sudo groupadd --system alloy
-sudo useradd -s /sbin/nologin --system -g alloy alloy
+sudo useradd --system -s /sbin/nologin -g alloy alloy
 sudo usermod -a -G adm alloy
 
 sudo usermod -a -G grafana alloy

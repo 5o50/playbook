@@ -113,7 +113,7 @@ MAILTO=admin@example.com
 #### Use Dedicated User Accounts
 ```bash
 # Create a dedicated user for cron jobs
-sudo useradd -r -s /bin/false cronuser
+sudo useradd --system -s /bin/false cronuser
 
 # Run cron jobs as specific user
 sudo crontab -u cronuser -e

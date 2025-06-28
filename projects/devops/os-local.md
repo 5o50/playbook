@@ -22,7 +22,9 @@ sudo apt install keychain
 # add to .bashrc
 eval $(keychain --eval --timeout 60 --agents ssh ~/.ssh/github ~/.ssh/github555 ~/.ssh/ovh1 ~/.ssh/rpi)
 
+##
 
+sudo -u sophiechiro bash
 
 # code & cursor IDE
 code .

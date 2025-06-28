@@ -15,7 +15,7 @@ sudo apt install ./typesense-server-28.0-amd64.deb
 It's good practice to run services under a dedicated user.
 
 ```bash
-sudo useradd -r -s /bin/false -d /var/lib/typesense typesense
+sudo useradd --system -s /bin/false -d /var/lib/typesense typesense
 
 ```
 
