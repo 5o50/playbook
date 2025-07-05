@@ -68,7 +68,7 @@ VPNBOOK + OpenVPN
 - Cryptomator
 - CrystalDiskMark
 
-- Cursor
+- Cursor: https://forum.cursor.com/t/tutorial-install-cursor-permanently-when-appimage-install-didnt-work-on-linux/7712
 - VSCode
 - Sublime Text
 - DBeaver

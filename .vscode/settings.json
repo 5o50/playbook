@@ -11,6 +11,7 @@
 	"workbench.iconTheme": "vscode-great-icons",
 	"workbench.colorTheme": "Minimal Kiwi",
 	"workbench.tree.indent": 20,
+	"workbench.activityBar.orientation": "vertical",
 	"editor.fontFamily": "'Fira Code', Menlo, Consolas, 'Courier New', monospace",
 	"editor.fontLigatures": true,
 	"search.exclude": {
