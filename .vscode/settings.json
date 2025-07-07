@@ -3,8 +3,8 @@
 	"editor.formatOnSave": true,
 	"editor.suggest.showSnippets": false,
 	"editor.codeActionsOnSave": {
-		"quickfix.biome": "explicit",
-		"source.organizeImports": "explicit"
+		"source.organizeImports.biome": "explicit",
+		"quickfix.biome": "explicit"
 	},
 	"explorer.autoReveal": false,
 	"explorer.compactFolders": false,

@@ -59,6 +59,8 @@ VPNBOOK + OpenVPN
 - Element
 - HexChat
   
+- Etcher
+
 - 3Dconnexion 3DxWare 10
 - Elgato Camera Hub
 - Elgato Stream Deck
@@ -67,6 +69,8 @@ VPNBOOK + OpenVPN
 - VeraCrypt
 - Cryptomator
 - CrystalDiskMark
+
+sudo apt install caffeine
 
 - Cursor: https://forum.cursor.com/t/tutorial-install-cursor-permanently-when-appimage-install-didnt-work-on-linux/7712
 - VSCode
