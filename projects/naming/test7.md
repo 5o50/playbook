@@ -14367,7 +14367,6 @@ VrOnPer.com
 VrSages.com
 VrScrew.com
 VrSouls.com
-VrSyncs.com
 VrTheVr.com
 VrToSee.com
 VrUplay.com

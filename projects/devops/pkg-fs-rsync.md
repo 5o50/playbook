@@ -23,3 +23,8 @@ sudo rsync -avh --progress --exclude="System Volume Information" /mnt/d/ /mnt/e/
 
 !!! add --delete if you want to sync with deletion to make a perfect copy
 ```
+
+
+```
+rsync -avh --progress /media/mars/NEPTUNE/sfb/  /home/mars/.local/share/Cryptomator/mnt/pluton/sfb/
+```
