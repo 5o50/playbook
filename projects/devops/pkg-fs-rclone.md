@@ -11,7 +11,7 @@ nano .config/rclone/rclone.conf
 [r2]
 type = s3
 provider = Cloudflare
-endpoint = <full_r2_endpoint>
+endpoint = <r2_endpoint_without_bucket_name>
 env_auth = true
 region = auto
 ```
@@ -24,5 +24,11 @@ export AWS_SECRET_ACCESS_KEY
 ```
 
 ```
-rclone sync /media/mars/NEPTUNE/pluton r2:/ --log-level DEBUG --progress --transfers 4
+rclone sync /media/mars/NEPTUNE/pluton r2:pluton-01jzxhe35mk495pavbbhdth99m/pluton --progress
+
+# empty
+rclone purge r2:pluton-01jzxhe35mk495pavbbhdth99m --progress
+
+# mount
+rclone mount r2:pluton-01jzxhe35mk495pavbbhdth99m /mnt/r2-pluton --daemon
 ```
