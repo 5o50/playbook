@@ -77,8 +77,9 @@ sudo apt install caffeine
 - Sublime Text
 - DBeaver
 
-- rsync
+- rsync / rclone
 - 3u.com
+- - https://libimobiledevice.org/#get-started
 
 - Adobe Creative Cloud
 - Adobe Premiere Pro

@@ -30,18 +30,14 @@ export AWS_SECRET_ACCESS_KEY=your_secret_key
 # Sync local folder to R2
 rclone sync /media/mars/NEPTUNE/pluton r2:pluton-01jzxhe35mk495pavbbhdth99m/pluton --progress
 
+# Sync R2 to local
+rclone sync r2:pluton-01jzxhe35mk495pavbbhdth99m/pluton /media/mars/hddultra/pluton --progress
+
 # Empty bucket
 rclone purge r2:pluton-01jzxhe35mk495pavbbhdth99m --progress
 ```
 
 ## Mounting for Cryptomator
-
-### 1. Setup FUSE Configuration
-```bash
-# Enable user_allow_other in FUSE config
-sudo nano /etc/fuse.conf
-# Add or uncomment: user_allow_other
-```
 
 ### 2. Create Mount Point
 ```bash
@@ -51,18 +47,12 @@ sudo chown mars: /mnt/r2-pluton
 
 ### 3. Mount R2 Bucket
 ```bash
-# Basic mount
-rclone mount r2:pluton-01jzxhe35mk495pavbbhdth99m /mnt/r2-pluton --vfs-cache-mode writes --allow-other --daemon --log-file /tmp/rclone.log
-
-# Advanced mount with performance options
-rclone mount r2:pluton-01jzxhe35mk495pavbbhdth99m /mnt/r2-pluton \
-  --vfs-cache-mode writes \
-  --vfs-cache-max-age 1h \
-  --vfs-read-chunk-size 128M \
-  --vfs-read-chunk-size-limit 2G \
-  --allow-other \
-  --daemon \
-  --log-file /tmp/rclone.log
+# input cloudflare r2 bucket credentials
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
+# before mount check the connection
+rclone ls r2:pluton-01jzxhe35mk495pavbbhdth99m
+rclone mount r2:pluton-01jzxhe35mk495pavbbhdth99m /mnt/r2-pluton
 ```
 
 ### 4. Verify Mount
