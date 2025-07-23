@@ -52,7 +52,9 @@ export AWS_ACCESS_KEY_ID=
 export AWS_SECRET_ACCESS_KEY=
 # before mount check the connection
 rclone ls r2:pluton-01jzxhe35mk495pavbbhdth99m
-rclone mount r2:pluton-01jzxhe35mk495pavbbhdth99m /mnt/r2-pluton
+rclone mount r2:pluton-01jzxhe35mk495pavbbhdth99m /mnt/r2-pluton \
+--vfs-cache-mode writes \
+--use-server-modtime
 ```
 
 ### 4. Verify Mount
