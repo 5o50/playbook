@@ -8,6 +8,10 @@ journalctl -p err
 
 journalctl -u alloy.service --no-pager -n 100
 
+journalctl -eu sophiechiro.service
+journalctl -u sophiechiro.service -n 50 -f
+
+
 ## Key Log Files
 
 Here are the primary system log files and their purposes:

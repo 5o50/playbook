@@ -1,5 +1,7 @@
 # Brand Strategy for Aura App
 
+https://jingdaily.com/posts/how-china-can-help-predict-the-tiktok-shop-effect
+
 ## Brand Core
 
 ### Brand Purpose

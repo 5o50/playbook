@@ -23,3 +23,14 @@ sudo nginx -s reload // reload configuration
 ls -al /etc/nginx/sites-enabled/
 ls -al /etc/nginx/sites-available/
 
+```
+sudo cp infra/nginx/sophiechiro.conf /etc/nginx/sites-available/
+sudo ln -s /etc/nginx/sites-available/sophiechiro.conf /etc/nginx/sites-enabled/
+sudo rm -rf /etc/nginx/sites-enabled/sophiechiro.conf
+sudo nginx -t
+sudo systemctl restart nginx
+
+cat /var/log/nginx/error.log
+```
+
+

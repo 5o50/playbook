@@ -64,3 +64,14 @@ SHOW server_version;
 CREATE DATABASE name;
 
 sudo systemctl restart postgresql.service
+
+
+```
+sudo -u postgres psql
+\l ; show databases;
+\c sophiechiro or \disconnect
+\dt or \dt+
+\dn or \dn+
+\d table_name or \d+ table_name
+\q ; quit
+```
